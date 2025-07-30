@@ -9,10 +9,15 @@
   <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
  
   <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,100..700&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Outfit:wght@500;700&display=swap" rel="stylesheet">
 
   <!-- Title -->
-  <title>Badan Pusat Statistik</title>
+  <title>Badan Pusat Statistik - Provinsi Kepulauan Riau</title>
+
+  <!-- CDN Bx -->
+  <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
+
 
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">

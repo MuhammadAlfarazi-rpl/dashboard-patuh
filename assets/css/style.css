@@ -20,3 +20,87 @@ body {
 .custom-navbar {
   background-color: #f8f8f8 !important;
 }
+
+.navbar-nav {
+  position: relative;
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  padding-bottom: 8px;
+}
+
+.nav-link {
+  position: relative;
+  font-weight: 500;
+  color: black;
+  text-decoration: none;
+  font-family: 'DM Sans', sans-serif;
+  transition: font-variation-settings 0.3s ease, color 0.3s ease;
+  font-variation-settings: 'wght' 400;
+}
+
+.nav-link:hover,
+.nav-link.active {
+  color: black; 
+  font-weight: bold;
+}
+
+.nav-link.active {
+  font-variation-settings: 'wght' 700;
+}
+
+.underline-indicator {
+  position: absolute;
+  bottom: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #007bff, #f7931e, #00a651);
+  background-size: 300%;
+  background-position: 0% 50%;
+  border-radius: 3px;
+  transition: transform 0.3s ease, width 0.3s ease, background-position 0.3s ease;
+  z-index: 1;
+}
+
+.language-switch {
+  display: inline-block;
+  border-radius: 999px;
+  padding: 6px 16px;
+  font-weight: 500;
+  background: linear-gradient(270deg, #007bff95, #f7921ea5, #00a650a0, #007bffa4);
+  background-size: 800% 800%;
+  animation: gradientMove 8s ease infinite;
+  position: relative;
+}
+
+.language-switch::before {
+  content: "";
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  right: 3px;
+  bottom: 3px;
+  background: white;
+  border-radius: 999px;
+  z-index: 0;
+}
+
+.language-switch > * {
+  position: relative;
+  z-index: 1;
+}
+
+@keyframes gradientMove {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.darkmode-toggle i {
+  font-size: 20x;
+}
