@@ -17,48 +17,16 @@ body {
   font-family: 'DM Sans', sans-serif;
 }
 
-.custom-navbar {
-  background-color: #f8f8f8 !important;
-}
-
-.navbar-nav {
-  position: relative;
-  display: flex;
-  gap: 2rem;
-  justify-content: center;
-  padding-bottom: 8px;
-}
-
-.nav-link {
-  position: relative;
-  font-weight: 500;
-  color: black;
-  text-decoration: none;
-  font-family: 'DM Sans', sans-serif;
-  transition: font-variation-settings 0.3s ease, color 0.3s ease;
-  font-variation-settings: 'wght' 400;
-}
-
-.nav-link:hover,
-.nav-link.active {
-  color: black; 
-  font-weight: bold;
-}
-
-.nav-link.active {
-  font-variation-settings: 'wght' 700;
-}
-
-.underline-indicator {
-  position: absolute;
-  bottom: 0;
-  height: 3px;
-  background: linear-gradient(90deg, #007bff, #f7931e, #00a651);
-  background-size: 300%;
-  background-position: 0% 50%;
-  border-radius: 3px;
-  transition: transform 0.3s ease, width 0.3s ease, background-position 0.3s ease;
-  z-index: 1;
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%; 
+    background: rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(10px);    
+    z-index: 999;         
+    padding: 10px 20px; 
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); 
 }
 
 .language-switch {
