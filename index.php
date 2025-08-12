@@ -1,5 +1,7 @@
 <?php include 'includes/header.php'; ?>
-<p>
+<div class="container-xxl flex-grow-1 container-p-y mt-3 main-content">
+    <div class="card">
+        <!-- ini text dummy Y -->
     Badan Pusat Statistik adalah Lembaga Pemerintah Non Kementerian yang bertanggung jawab langsung kepada Presiden. Sebelumnya, BPS merupakan Biro Pusat Statistik, yang dibentuk berdasarkan UU Nomor 6 Tahun 1960 tentang Sensus dan UU Nomer 7 Tahun 1960 tentang Statistik. Sebagai pengganti kedua UU tersebut ditetapkan UU Nomor 16 Tahun 1997 tentang Statistik. Berdasarkan UU ini yang ditindaklanjuti dengan peraturan perundangan dibawahnya, secara formal nama Biro Pusat Statistik diganti menjadi Badan Pusat Statistik.
 
 Materi yang merupakan muatan baru dalam UU Nomor 16 Tahun 1997, antara lain :  
@@ -30,6 +32,7 @@ Membantu kegiatan statistik di kementrian, lembaga pemerintah atau institusi lai
 Mengembangkan dan mempromosikan standar teknik dan metodologi statistik, dan menyediakan pelayanan pada bidang pendidikan dan pelatihan statistik.
 Membangun kerjasama dengan institusi internasional dan negara lain untuk kepentingan perkembangan statistik Indonesia.
 
+
 Badan Pusat Statistik adalah Lembaga Pemerintah Non Kementerian yang bertanggung jawab langsung kepada Presiden. Sebelumnya, BPS merupakan Biro Pusat Statistik, yang dibentuk berdasarkan UU Nomor 6 Tahun 1960 tentang Sensus dan UU Nomer 7 Tahun 1960 tentang Statistik. Sebagai pengganti kedua UU tersebut ditetapkan UU Nomor 16 Tahun 1997 tentang Statistik. Berdasarkan UU ini yang ditindaklanjuti dengan peraturan perundangan dibawahnya, secara formal nama Biro Pusat Statistik diganti menjadi Badan Pusat Statistik.
 
 Materi yang merupakan muatan baru dalam UU Nomor 16 Tahun 1997, antara lain :  
@@ -44,5 +47,6 @@ Menyediakan kebutuhan data bagi pemerintah dan masyarakat. Data ini didapatkan d
 Membantu kegiatan statistik di kementrian, lembaga pemerintah atau institusi lainnya, dalam membangun sistem perstatistikan nasional.
 Mengembangkan dan mempromosikan standar teknik dan metodologi statistik, dan menyediakan pelayanan pada bidang pendidikan dan pelatihan statistik.
 Membangun kerjasama dengan institusi internasional dan negara lain untuk kepentingan perkembangan statistik Indonesia.
-</p>
+</div>
+</div>
 <?php include 'includes/footer.php'; ?>

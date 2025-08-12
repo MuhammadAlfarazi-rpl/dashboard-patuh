@@ -72,3 +72,7 @@ body {
 .darkmode-toggle i {
   font-size: 20x;
 }
+
+.main-content {
+    margin-top: 7rem !important;
+}
