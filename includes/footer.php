@@ -98,6 +98,5 @@ toggle.addEventListener('click', () => {
 });
 </script>
 
-
 </body>
 </html>
