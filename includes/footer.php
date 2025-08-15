@@ -1,4 +1,34 @@
-<footer></footer>
+<!-- Footer -->
+<hr>
+<footer class="text-dark py-2">
+  <div class="container">
+    <div class="row d-flex justify-content-between flex-wrap">
+      <div class="col-md-5 d-flex flex-column justify-content-between">
+        <div class="text-muted">
+          <h5 class="fw-bold text-dark">Badan Pusat Statistik</h5>
+          <p>Badan Pusat Statistik Provinsi Kepulauan Riau</p>
+          <p>Jl.Ahmad Yani No. 21 Tanjungpinang 29124</p>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="text-muted">
+          <h6 class="fw-bold text-dark">Contact</h6>
+          <p>Telp. (0771) 4500155 / 4500150 (PST)</p>
+          <p>Fax. (0771) 4500157</p>
+          <p>E-mail: bps2100@bps.go.id</p>
+        </div>
+      </div>
+      <div class="col-md-3 text-md-end text-center">
+        <div class="d-flex gap-3 justify-content-md-end justify-content-center" >
+          <a href="https://web.facebook.com/bpskepri/?_rdc=1&_rdr#"><i class="bx bxl-facebook text-dark fs-2"></i></a>
+          <a href="https://www.instagram.com/bpskepri?igsh=cDhta2YzbDF2Z2E1"><i class="bx bxl-instagram text-dark fs-2"></i></a>
+          <a href="https://youtube.com/@bpsprovkepri?si=LT-6OTt4zt70ukgN"><i class="bx bxl-youtube text-dark fs-2"></i></a>
+          <a href="https://kepri.bps.go.id/id"><i class="bx bx-globe text-dark fs-2"></i> </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
 
 <!-- Bootstrap JS -->
 <script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
