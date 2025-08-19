@@ -6,5 +6,6 @@
   <a class="nav-link border-bottom py-2" id="tab-4" data-bs-toggle="pill" href="#pills-4" role="tab">Kegiatan Rapat, Konsinyering, dan Sejenisnya</a>
   <a class="nav-link border-bottom py-2" id="tab-5" data-bs-toggle="pill" href="#pills-5" role="tab">Biaya Perjalanan Dinas Jabatan</a>
   <a class="nav-link border-bottom py-2" id="tab-6" data-bs-toggle="pill" href="#pills-6" role="tab">Pembatalan Perjalanan Dinas</a>
-  <a class="nav-link py-2" id="tab-7" data-bs-toggle="pill" href="#pills-7" role="tab">Standar Biaya Transportasi</a>
+    <a class="nav-link border-bottom py-2" id="tab-7" data-bs-toggle="pill" href="#pills-7" role="tab">Standar Biaya Transportasi</a>
+  <a class="nav-link py-2" id="tab-8" data-bs-toggle="pill" href="#pills-8" role="tab">Pertanggungjawaban Biaya Perjalanan Dinas Jabatan</a>
 </div>
