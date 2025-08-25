@@ -24,5 +24,5 @@
   <link rel="stylesheet" href="assets/css/style.css">
 
 </head>
-<body>
+<body <?php echo basename($_SERVER['PHP_SELF']) == 'index.php' ? 'class="background"' : ''; ?>>
  <?php include 'navbar.php'; ?> 

@@ -30,6 +30,10 @@
   </div>
 </footer>
 
+<?php if (basename($_SERVER['PHP_SELF']) === 'index.php'): ?>
+    <script src="assets/js/indicator.js"></script>
+<?php endif; ?>
+
 <!-- Bootstrap JS -->
 <script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
 
@@ -50,37 +54,6 @@
 <script src="assets/js/script.js"></script>
 
 <script>
-  // Navbar react + sliding underlinr
-const navLinks = document.querySelectorAll('.nav-link');
-const indicator = document.querySelector('.underline-indicator');
-
-function moveIndicator(el) {
-  const rect = el.getBoundingClientRect();
-  const parentRect = el.closest('.nav').getBoundingClientRect();
-  indicator.style.width = `${rect.width}px`;
-  indicator.style.transform = `translateX(${rect.left - parentRect.left}px)`;
-}
-
-navLinks.forEach(link => {
-  link.addEventListener('click', e => {
-    navLinks.forEach(l => l.classList.remove('active'));
-    e.currentTarget.classList.add('active');
-    moveIndicator(e.currentTarget);
-  });
-});
-
-
-// Warna jadinya ada animasi ngikutin curso
-document.addEventListener('mousemove', function(e) {
-  const underline = document.querySelector('.underline-indicator');
-  if (!underline) return;
-
-  const percentage = (e.clientX / window.innerWidth) * 100;
-  underline.style.backgroundPosition = `${percentage}% 50%`;
-});
-
-const initialActive = document.querySelector('.nav-link.active');
-if (initialActive) moveIndicator(initialActive);
 
 
 // Switch Theme Icon
@@ -96,6 +69,61 @@ toggle.addEventListener('click', () => {
     icon.classList.replace('bx-moon', 'bx-sun');
   }
 });
+
+
+// Intro
+anime.timeline()
+
+      // Logo fade in 
+      .add({
+        targets: '#logo',
+        opacity: [0, 1],
+        translateY: [50, 0],
+        easing: 'easeOutExpo',
+        duration: 1500
+      })
+
+      // Logo geser 
+      .add({
+        targets: '#logo',
+        translateX: -250,
+        easing: 'easeInOutQuad',
+        duration: 1000
+      })
+      // Teks 
+      .add({
+        targets: '#title',
+        opacity: [0, 1],
+        translateY: [10, -25],
+        translateX: 100,
+        easing: 'easeOutExpo',
+        duration: 2000
+      });
+
+
+const btn = document.querySelector("#btnDashboard");
+if (btn) {
+  const bg = btn.querySelector(".btn-bg");
+
+  btn.addEventListener("mouseenter", () => {
+    anime({
+      targets: bg,
+      translateX: ["0%", "100%"],
+      duration: 500,
+      easing: "easeOutQuad"
+    });
+  });
+
+  btn.addEventListener("mouseleave", () => {
+    anime({
+      targets: bg,
+      translateX: ["-100%", "0%"],
+      duration: 500,
+      easing: "easeOutQuad"
+    });
+  });
+}
+
 </script>
 
 

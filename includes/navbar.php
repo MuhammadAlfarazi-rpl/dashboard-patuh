@@ -2,16 +2,25 @@
   <div class="container-fluid d-flex justify-content-between align-items-center p-2">
 
     <!-- Bagian KIRI -->
-    <div class="ms-3 d-flex align-items-center">
-      <img src="assets/img/bps.png" alt="BPS" width="30" class="me-2">
-      <strong>Badan Pusat Statistik</strong>
-    </div>
+    <a href="index.php" class="text-decoration-none text-dark">
+      <div class="ms-3 d-flex align-items-center">
+        <img src="assets/img/bps.png" alt="BPS" width="30" class="me-2">
+        <strong>Badan Pusat Statistik</strong>
+      </div>
+    </a>
 
     <!-- Bagian KANAN -->
     <div class="me-3 d-flex align-items-center gap-3">
-      <div class="language-switch">
-        <span>🇮🇩 ID</span> <span class="dropdown-toggle"></span>
-      </div>
+  <!-- Language / Menu Switch -->
+  <div class="dropdown">
+    <div class="language-switch dropdown-toggle align-items-center" data-bs-toggle="dropdown" aria-expanded="false" style="cursor: pointer;">
+      <span>Pilihan Pedoman</span>
+    </div>
+    <ul class="dropdown-menu">
+      <li><a class="dropdown-item" href="kategori_belanja.php">Kategori Belanja</a></li>
+      <li><a class="dropdown-item" href="pedoman_dinas.php">Pedoman Dinas</a></li>
+    </ul>
+  </div>
       <div class="darkmode-toggle" style="cursor: pointer;">
         <i class='bx bx-sun'></i>
       </div>
