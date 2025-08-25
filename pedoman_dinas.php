@@ -17,6 +17,9 @@
         .huruf li::marker {
             content: counter(list-item, lower-alpha) ") "; 
         }
+        .justify-list li {
+          text-align: justify;
+        }
 </style>
 </head>
 <body>
@@ -50,6 +53,7 @@
 
       <!-- KONTEN UTAMA -->
       <div class="col-lg-9">
+        <div class="justify-list">
         <div class="p-4 tab-content h-100" id="v-pills-tabContent">
 
           <!-- Ketentuan Umum -->
@@ -109,7 +113,7 @@
             <p> 
             <ol>
               <li>Peraturan Kepala Badan ini mengatur mengenai perencanaan, pelaksanaan dan pertanggungjawaban Perjalanan Dinas Jabatan bagi Pelaksana SPD yang meliputi Pejabat Negara, Pegawai Negeri dan Pegawai Tidak Tetap dan Pihak Lain yang dibebankan pada Anggaran Pendapatan dan Belanja Negara di lingkungan Badan Pusat Statistik.</li>
-              <li>Pegawai Negeri sebagaimana dimaksud pada angka (1) termasuk: 2.
+              <li>Pegawai Negeri sebagaimana dimaksud pada angka (1) termasuk: 
                 <ol type="a">
               <li>Calon Pegawai Negeri;</li>
               <li>Prajurit Tentara Nasional Indonesia; dan</li>
@@ -439,7 +443,7 @@
               </ol>
             </p>
            </div>
-
+        </div>
         </div>
       </div>
     </div>
