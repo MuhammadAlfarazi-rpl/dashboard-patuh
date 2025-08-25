@@ -1,4 +1,25 @@
 <?php include 'includes/header.php'; ?>
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+   .angka {
+            list-style-type: decimal; /* angka biasa */
+        }
+        .angka li::marker {
+            content: counter(list-item) ") "; /* kasih angka + ) */
+        }
+        .huruf {
+            list-style-type: lower-alpha; 
+        }
+        .huruf li::marker {
+            content: counter(list-item, lower-alpha) ") "; 
+        }
+</style>
+</head>
+<body>
 
 <!-- JUDUL BESAR -->
 <div class="container-fluid mt-5 pt-5">
@@ -82,6 +103,7 @@
         </div>
         </div>
 
+        <!-- Ruang Lingkup Perjalanan Dinas Jabatan -->
           <div class="tab-pane fade" id="pills-1" role="tabpanel">
             <h4>B. Ruang Lingkup Perjalanan Dinas Jabatan</h4>
             <p> 
@@ -97,6 +119,7 @@
             </p> 
           </div>
 
+          <!-- Prinsip Perjalanan Dinas Jabatan -->
           <div class="tab-pane fade" id="pills-2" role="tabpanel">
             <h4>C. Prinsip Perjalanan Dinas Jabatan</h4>
             <p>
@@ -113,25 +136,25 @@
               <li>Dalam rangka menjaga terpenuhinya pelaksanaan prinsip-prinsip sebagaimana dimaksud pada angka:
             <ol type="a">
               <li>Penerbit Surat Tugas:
-              <ul type="disc">
+              <ol class="angka">
                 <li>Melakukan monitoring penerbitan surat tugas di lingkup wilayah kerjanya;</li>
                 <li>Membatasi pelaksanaan Perjalanan Dinas Jabatan dalam kota hanya sampai dengan 8 jam, kecuali pelaksanaan Perjalanan Dinas Jabatan dimaksud memang sangat diperlukan penyelesaiannya lebih dari 8 jam; dan</li>
                 <li>Memastikan pelaksanaan Perjalanan Dinas Jabatan dalam kota sampai dengan 8 jam sesuai Surat Tugas yang dibuktikan dengan visum dan menjadi bagian atau lampiran pada Surat Tugas.</li>
-            </ul>
+            </ol>
               </li>
               <li>PPK melakukan:
-                <ul type="disc">
+                <ol class="angka">
                 <li>Pengujian kesesuaian pelaksanaan Perjalanan Dinas Jabatan dengan pencapaian kinerja,</li>
                 <li>Pembebanan biaya Perjalanan. Dinas Jabatan dengan memperhatikan ketersediaan anggaran dan tetap memprioritaskan. pencapaian kinerja; dan</li>
                 <li>Pembebanan biaya Perjalanan Dinas Jabatan dengan berpedoman pada Peraturan Menteri Keuangan mengenai Standar Biaya Masukan.</li>
-              </ul>
+              </ol>
                 </li>                                           
               <li>Pelaksana SPD memperhatikan hal-hal sebagai berikut:
-              <ul type="disc">
+              <ol class="angka">
                 <li>Melaksanakan Perjalanan Dinas Jabatan sesuai tugas yang diberikan;</li>
                 <li>Segera kembali ke tempat kedudukan semula apabila kinerja telah tercapai; dan</li>
                 <li>Segera mempertanggungjawabkan pelaksanaan Perjalanan Dinas Jabatan setelah Perjalanan Dinas Jabatan dilaksanakan.</li>
-                </ul>
+                </ol>
                 </li>
                   <li>PPK, PPSPM, dan Bendahara Pengeluaran melakukan pengujian sesuai tugas dan kewenangannya dengan berpedoman pada Peraturan Menteri Keuangan mengenai tata cara pembayaran atas beban Anggaran Pendapatan dan Belanja Negara.</li>
             </ol>
@@ -145,6 +168,7 @@
           </p>
           </div>
 
+          <!-- Perjalanan Dinas Jabatan -->
           <div class="tab-pane fade" id="pills-3" role="tabpanel">
             <h4>D. Perjalanan Dinas Jabatan</h4>
             <p>
@@ -174,21 +198,21 @@
                 <li>Perjalanan Dinas Jabatan oleh Pelaksana SPD dilakukan sesuai perintah atasan Pelaksana SPD yang tertuang dalam Surat Tugas.</li>
                 <li>Dalam hal Pelaksana SPD (peserta non BPS) tidak mempunyai atasan, Surat Tugas diterbitkan oleh penerbit Surat Tugas pada pihak penyelenggara kegiatan.</li>
                 <li>Surat Tugas diterbitkan oleh:
-              <ul type="disc">
+              <ol class="angka">
                 <li>Kepala satuan kerja untuk Perjalanan Dinas Jabatan yang dilakukan oleh Pelaksana SPD pada satuan kerja berkenaan;</li>
                 <li>Atasan langsung kepala satuan kerja untuk Perjalanan Dinas Jabatan yang dilakukan oleh kepala satuan kerja.</li>
                 <li>Pejabat Eselon II untuk Perjalanan Dinas Jabatan yang dilakukan oleh Pelaksana SPD dalam lingkup unit eselon II/setingkat unit eselon II berkenaan;</li>
                 <li>Kepala Badan/Pejabat Eselon I untuk Perjalanan Dinas Jabatan yang dilakukan oleh Kepala Badan/Pejabat Eselon I/Pejabat Eselon II.</li>
-              </ul>
+              </ol>
             </li>
             <li>Kewenangan penerbitan surat tugas sebagaimana dimaksud pada huruf <strong>c</strong> dapat didelegasikan kepada pejabat yang ditunjuk.</li>
             <li>Surat Tugas sekurang-kurangnya memuat hal-hal sebagai berikut:
-            <ul type="disc">
+            <ol class="angka">
               <li>Pemberi tugas;</li>
               <li>Pelaksana tugas;</li>
               <li>Waktu pelaksanaan tugas;</li>
               <li>Tempat pelaksanaan tugas;</li>
-            </ul>
+            </ol>
             </li>
             <li>Dalam hal perjalanan dinas dilakukan dalam rangka kegiatan sosialisasi/bimbingan teknis/diseminasi/workshop/Focus Group Discussion (FGD)/pertemuan/rapat koordinasi/rapat pimpinan/konsinyering, surat tugas dapat diterbitkan oleh pihak penyelenggara kegiatan.</li>
             <li>Surat tugas sebagaimana tersebut pada huruf a dibuat sesuai dengan format dan petunjuk pengisian sebagaimana tercantum dalam Lampiran II Peraturan Kepala Badan ini.</li>
@@ -206,6 +230,7 @@
             </p>
           </div>
 
+          <!-- Kegiatan Rapat, Konsinyering, dan Sejenisnya -->
           <div class="tab-pane fade" id="pills-4" role="tabpanel">
             <h4>E. Kegiatan Rapat, Konsinyering, dan Sejenisnya</h4>
             <p>
@@ -227,22 +252,22 @@
             <li>Berpedoman pada Peraturan Menteri Keuangan mengenai Standar Biaya Masukan;</li>
             <li>Diselenggarakan secara <i>fullboard, fullday, atau halfday</i>;</li>
             <li>Dapat dilakukan baik di dalam atau luar kota sekurang-kurangnya melibatkan peserta dari kementerian negara/lembaga lainnya yang terkait pelaksanaan tugas dan fungsi/masyarakat, serta penyelenggaraannya:</li>
-          <ul type="disc">
+          <ol class="angka">
             <li>Jika dilaksanakan oleh BPS Pusat dan BPS Provinsi dipimpin oleh sekurang-kurangnya pejabat Eselon II penyelenggara/pejabat setara yang ditunjuk;</li>
             <li>Jika dilaksanakan oleh BPS Kabupaten/Kota dipimpin oleh sekurang-kurangnya pejabat Eselon III/Kepala Satuan penyelenggara/pejabat setara yang ditunjuk.</li>
-          </ul>
+          </ol>
           <li>Apabila dilaksanakan di luar kota harus memenuhi ketentuan sebagai berikut:</li>
-          <ul type="disc">
+          <ol class="angka">
             <li>melibatkan kantor vertikal;</li>
             <li>berskala regional/nasional/internasional; dan/atau</li>
             <li>mendapat persetujuan dari PPK dengan pertimbangan:</li>
-            <ul type="circle">
+            <ol class="huruf">
             <li>dari sisi tektris harus dilaksanakan di luar Kota satuan kerja. penyelenggara, atau</li>
             <li>diselenggarakan pada lokasi yang terdekat dengan Kota satuan kerja penyelenggara.</li>
-          </ul>
-          </ul>
+          </ol>
+          </ol>
           <li>Ketentuan jam pelaksanaan konsinyering sebagai berikut:</li>
-          <ol type="1">
+          <ol class="angka">
             <li>Paket <i>Fullboard</i></li>
             Diselenggarakan di luar kantor sehari penuh dan menginap.
             <li>Paket <i>Fullday</i></li>
@@ -260,6 +285,7 @@
             </p>
           </div>
 
+          <!-- Biaya Perjalanan Dinas Jabatan -->
           <div class="tab-pane fade" id="pills-5" role="tabpanel">
             <h4>F. Biaya Perjalanan Dinas Jabatan</h4>
             <p>
@@ -337,6 +363,7 @@
             </p>
           </div>
 
+          <!-- Pembatalan Perjalanan Dinas -->
           <div class="tab-pane fade" id="pills-6" role="tabpanel">
             <h4>G. Pembatalan Perjalanan Dinas</h4>
             <p>
@@ -357,6 +384,7 @@
             </p>
           </div>
 
+          <!-- Standar Biaya Transportasi -->
           <div class="tab-pane fade" id="pills-7" role="tabpanel">
             <h4>H. Standar Biaya Transportasi</h4>
             <p>
@@ -368,6 +396,7 @@
             </p>
           </div>
 
+          <!-- Pertanggungjawaban Biaya Perjalanan Dinas Jabatan -->
           <div class="tab-pane fade" id="pills-8" role="tabpanel">
             <h4>I. Pertanggungjawaban Biaya Perjalanan Dinas Jabatan</h4>
             <p>
@@ -417,3 +446,5 @@
   </div>
 </div>
 <?php include 'includes/footer.php'; ?>
+</body>
+</html>
