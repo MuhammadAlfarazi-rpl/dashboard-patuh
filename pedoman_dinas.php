@@ -13,7 +13,7 @@
 <!-- JUDUL BESAR -->
 <div class="container-fluid mt-5 pt-5">
   <div class="card shadow-sm">
-    <div class="card-body text-center pb-2 border-bottom border-secondary">
+    <div class="card-body text-center pb-2 border-bottom">
       <h3 class="fw-bold text-uppercase display-6">
         Pedoman Pelaksanaan Perjalanan Dinas Jabatan
       </h3>
