@@ -17,6 +17,9 @@
         .huruf li::marker {
             content: counter(list-item, lower-alpha) ") "; 
         }
+        .justify-list li {
+            text-align: justify;
+        }
     </style>
 </head>
 <body>
@@ -49,13 +52,14 @@
 
         <!-- KONTEN UTAMA -->
         <div class="col-lg-9">
+            <div class="justify-list">
             <div class="p-4 tab-content h-100" id="v-pills-tabContent">
                 <!-- Belanja Konsumsi Rapat -->
                 <div class="tab-pane fade show active" id="pills-0" role="tabpanel">
                     <h4>Belanja Konsumsi Rapat</h4>
                     <ol type="A">
                         <li>Pengertian</li>
-                        <p>Satuan Biaya Konsumsi Rapat merupakan satuan biaya yang digunakan untuk kebutuhan biaya pengadaan makan dan kudapan termasuk minuman untuk rapat/pertemuan baik untuk rapat koordinasi tingkat. menteri/eselon 1/setara maupun untuk rapat biasa dan dilaksanakan secara langsung (offline) paling singkat selama 2 (dua) jam.</p>
+                        <p>Satuan Biaya Konsumsi Rapat merupakan satuan biaya yang digunakan untuk kebutuhan biaya pengadaan makan dan kudapan termasuk minuman untuk rapat/pertemuan baik untuk rapat koordinasi tingkat. menteri/eselon 1/setara maupun untuk rapat biasa dan dilaksanakan secara langsung <i>(offline)</i> paling singkat selama 2 (dua) jam.</p>
                         <li>Catatan Penting</li>
                         <ol type="1">
                             <li>Rapat koordinasi tingkat menteri/eselon 1/setara adalah rapat koordinasi yang pesertanya menteri/eselon 1/pejabat yang setara.</li>
@@ -79,7 +83,7 @@
                                 <li>Kuitansi (nilai pengadaan paling banyak Rp50,000,000,00 (lima puluh juta rupiah));</li>
                                 <li>Surat Perintah Kerja (nilai pengadaan bernilai di atas Rp50.000.000,00 (lima puluh juta rupiah sampai dengan Rp200.000.000,00 (dua ratus juta rupiah)));</li>
                                 <li>Surat Perjanjian (nilai pengadaan di atas Rp200.000.000,00 (dua ratus juta rupiah)); dan/atau</li>
-                                <li>Surat/Bukti Pesanan (jika menggunakan E-Purchasing);</li>
+                                <li>Surat/Bukti Pesanan (jika menggunakan <i>E-Purchasing</i>);</li>
                                 <p>sesuai dengan ketentuan peraturan perundang-undangan mengenai pengadaan barang/jasa pemerintah;</p>
                             </ol>
                             <li>Bukti Prestasi Pekerjaan dapat berbentuk:</li>
@@ -126,7 +130,7 @@
                         <li>Pengertian</li>
                         <ol type="1">
                             <li>Satuan biaya keperluan sehari-hari perkantoran di dalam negeri merupakan satuan biaya yang digunakan untuk kebutuhan biaya keperluan sehari-hari perkantoran berupa barang pakai habis yang secara langsung menunjang penyelenggaraan operasional dan untuk memenuhi kebutuhan minimal agar suatu kantor dapat memberikan pelayanan (melaksanakan kegiatan) secara optimal.</li>
-                            <li>Barang pakai habis bersifat tidak berkelanjutan, hanya untuk satu kali kegiatan dalam jangka waktu pendek yang diperlukan dalam. pelaksanaan kegiatan non operasional seperti pameran, seminar, sosialisasi, rapat, diseminasi dan lain lain yang terkait langsung dengan output suatu kegiatan dan tidak menghasilkan barang persediaan.</li>
+                            <li>Barang pakai habis bersifat tidak berkelanjutan, hanya untuk satu kali kegiatan dalam jangka waktu pendek yang diperlukan dalam. pelaksanaan kegiatan non operasional seperti pameran, seminar, sosialisasi, rapat, diseminasi dan lain lain yang terkait langsung dengan <i>output</i> suatu kegiatan dan tidak menghasilkan barang persediaan.</li>
                             <li>Berdasarkan surat edaran Direktorat Akuntansi dan Pelaporan Keuangan, Direktorat Jenderal Perbendaharaan, Kementerian Keuangn Nomor: SE-6478/PB.06/2015, "untuk barang-barang yang direncanakan "habis pada satu kegiatan tidak dialokasikan dari belanja barang persediaan dan "tidak menjadi barang persediaan".</li>
                         </ol>
                         <li>Catatan Penting</li>
@@ -154,7 +158,7 @@
                                 <li>Kuitansi (nilai pengadaan paling banyak Rp50.000.000,00 (lirna puluh juta rupiah));</li>
                                 <li>Surat Perintah Kerja (nilai pengadaan bernilai di atas Rp50.000.000,00 (lima puluh juta rupiah) sampai dengan Rp200.000.000,00 (dua ratus juta rupiah));</li>
                                 <li>Surat Perjanjian (nilai pengadaan di atas Rp200.000.000,00 (dua ratus juta rupiah)); dan/atau</li>
-                                <li>Surat/Bukti Pesanan (Jika menggunakan E-Purchasing);</li>
+                                <li>Surat/Bukti Pesanan (Jika menggunakan <i>E-Purchasing</i>);</li>
                                 <p>sesuai dengan ketentuan peraturan perundang-undangan mengenai pengadaan barang/jasa pemerintah;</p>
                             </ol>
                             <li>Daftar Alokasi (tanda terima barang diserahkan);</li>
@@ -201,7 +205,7 @@
                     <h4>Belanja Penggandaan / Pencentakan</h4>
                     <ol type="A">
                         <li>Pengertian</li>
-                        <p>Belanja penggandaan/pencetakan dilakukan untuk memenuhi kebutuhan. bahan cetakan dalam rangkaian kegiatan sensus/survei, meliputi pelatihan petugas, sosialisasi, rapat, atau diseminasi. Belanja penggandaan/pencetakan dapat berupa pencetakan kuesioner sensus/survei, leaflet, buku pedoman, buku publikasi, dan sebagainya.</p>
+                        <p>Belanja penggandaan/pencetakan dilakukan untuk memenuhi kebutuhan. bahan cetakan dalam rangkaian kegiatan sensus/survei, meliputi pelatihan petugas, sosialisasi, rapat, atau diseminasi. Belanja penggandaan/pencetakan dapat berupa pencetakan kuesioner sensus/survei, <i>leaflet</i>, buku pedoman, buku publikasi, dan sebagainya.</p>
                         <li>Catatan Penting</li>
                         <ol type="1">
                             <li>Proses cetak bisa dilakukan di dalam atau luar kantor dengan pertimbangan kemampuan, kerahasiaan, dan keamanan dokumen negara; dan</li>
@@ -228,7 +232,7 @@
                                 <li>Kuitansi (nilai pengadaan paling banyak Rp50.000.000,00 (lima) puluh juta rupiah);</li>
                                 <li>Surat Perintah Kerja (nilai pengadaan bernilai di atas Rp50.000.000,00 (lima puluh juta rupiah) sampai dengan Rp200.000.000,00 (dua ratus juta rupiah));</li>
                                 <li>Surat Perjanjian (nilai pengadaan di atas Rp200.000.000,00 (dua ratus juta rupiah)); dan/atau</li>
-                                <li>Surat/Bukti Pesanan (jika menggunakan E-Purchasing);</li>
+                                <li>Surat/Bukti Pesanan (jika menggunakan <i>E-Purchasing</i>);</li>
                                 <p>sesuai dengan ketentuan peraturan perundang-undangan mengenai pengadaan barang/jasa pemerintah;</p>
                             </ol>
                             <li>Bukti Prestasi Pekerjaan dapat berbentuk:</li>
@@ -309,7 +313,7 @@
                                 <li>Kuitansi (nilai pengadaan paling banyak Rp50.000.000,00 (lima puluh juta rupiah));</li>
                                 <li>Surat Perintah Kerja (nilai pengadaan bernilai di atas Rp50.000.000,00 (lima puluh juta rupiah) sampai dengan Rp200.000.000,00 (dua ratus juta rupiah));</li>
                                 <li>Surat Perjanjian (nilai pengadaan di atas Rp200.000.000,00 (dua ratus juta rupiah)); dan/atau</li>
-                                <li>Surat/Bukti Pesanan (jika menggunakan E-Purchasing);</li>
+                                <li>Surat/Bukti Pesanan (jika menggunakan <i>E-Purchasing</i>);</li>
                                 <p>sesuai dengan ketentuan peraturan perundang-undangan mengenai pengadaan barang/jasa pemerintah;</p>
                             </ol>
                             <li>Bukti Prestasi Pekerjaan dapat berbentuk:</li>
@@ -352,11 +356,11 @@
                 <div class="tab-pane fade" id="pills-4" role="tabpanel">
                     <h4>Belanja Honorarium</h4>
                     <ol type="A">
-                        <li>Honor Output Kegiatan</li>
+                        <li>Honor <i>Output</i> Kegiatan</li>
                         <ol type="1">
                             <li>Pengertian</li>
                             <ol type="a">
-                                <li>Honor Output Kegiatan merupakan honor yang dibayarkan atas pelaksanaan kegiatan yang insidentil dan dapat dibayarkan tidak terus menerus dalam satu tahun. Honor output kegiatan mencakup honor tim pelaksana kegiatan (pengarah, penanggung jawab, koordinator, ketua, sekretaris, anggota, dan staf sekretariat), honor petugas, honor penunjuk jalan, honor ketua SLS, kades/lurah, honor camat, honor pengajar (Innas atau Inda), dll.</li>
+                                <li>Honor <i>Output</i> Kegiatan merupakan honor yang dibayarkan atas pelaksanaan kegiatan yang insidentil dan dapat dibayarkan tidak terus menerus dalam satu tahun. Honor <i>output</i> kegiatan mencakup honor tim pelaksana kegiatan (pengarah, penanggung jawab, koordinator, ketua, sekretaris, anggota, dan staf sekretariat), honor petugas, honor penunjuk jalan, honor ketua SLS, kades/lurah, honor camat, honor pengajar (Innas atau Inda), dll.</li>
                                 <li>Honor Tim Pelaksana Kegiatan adalah honor yang diberikan kepada seseorang yang berdasarkan Surat Keputusan Presiden/Menteri/Pejabat Setingkat Menteri/Pejabat Eselon 1/Kuasa Pengguna Anggaran (KPA) diangkat dalam suatu tim pelaksana kegiatan untuk melaksanakan suatu tugas tertentu.</li>
                             </ol>
                             <li>Catatan Penting</li>
@@ -370,7 +374,7 @@
                                 <li>Satuan Harga Kegiatan Umum BPS adalah satuan biaya berupa honorarium yang dapat digunakan untuk membayar kegiatan statistik yang bersifat umum di BPS. Satuan Harga Kegiatan Khusus BPS adalah satuan biaya berupa honorarium yang dapat digunakan untuk membayar petugas pendataan, petugas pemeriksaan dan petugas pengolahan kegiatan statistik yang bersifat spesifik kegiatan tertentu di BPS. Satuan harga sebagaimana dimaksud merupakan perkiraan yang dapat digunakan sebagai dasar penentuan beban kerja dan total honor dalam satu bulan. Total dalam satu bulan merujuk pada Standar Biaya Masukan Lainnya (SBML) yang disetujui oleh Menteri Keuangan.</li>
                             </ol>
                             <li>Akun yang Dapat Digunakan</li>
-                            <p>Akun 521213-Belanja Honor Output Kegiatan.</p>
+                            <p>Akun 521213-Belanja Honor <i>Output</i> Kegiatan.</p>
                             <li>Kelengkapan Tagihan Pembayaran</li>
                             <ol type="a">
                                 <li>Kelengkapan pembayaran honor tim:</li>
@@ -378,8 +382,8 @@
                                     <li>Kerangka Acuan Kerja (KAK);</li>
                                     <li>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK);</li>
                                     <li>SK KPA/SK KBPS yang mencakup tugas dan fungsi, besaran rate, dan kedudukan dalam Pokja;</li>
-                                    <li>Laporan tim/output pekerjaan;</li>
-                                    <li>Daftar rincian penerima honor output kegiatan/kuitansi perorang;</li>
+                                    <li>Laporan tim/<i>output</i> pekerjaan;</li>
+                                    <li>Daftar rincian penerima honor <i>output</i> kegiatan/kuitansi perorang;</li>
                                     <li>Rekapitulasi sesuai jabatan dalam keanggotaan Pokja; dan</li>
                                     <li>SSP PPh Pasal 21.</li>
                                 </ol>
@@ -428,9 +432,9 @@
                             <li>Pengertian</li>
                             <ol type="a">
                                 <li>Honor terkait jasa profesi diberikan kepada narasumber (pegawai negeri/non pegawai negeri) yang memberikan informasi atau pengetahuan kepada pegawai negeri lainnya/masyarakat. Honor terkait jasa profesi juga diberikan kepada moderator.</li>
-                                <li>Honor narasumber adalah honor yang diberikan kepada Pejabat Negara/Pegawai Aparatur Sipil Negara/Anggota Polri/TNI yang memberikan kegiatan dalam informasi/pengetahuan/kemampuan Seminar/Rapat/Sosialisasi/Diseminasi/Bimbingan Teknis/Workshop/Sarasehan/Simposium/Lokakarya/Focus Group Discussion/Kegiatan Sejenis yang dilaksanakan secara langsung (offline) maupun daring (online) melalui aplikas: secara live bukan rekaman/hasil tapping, baik di dalam negeri maupun di luar negeri, tidak termasuk untuk kegiatan diklat/pelatihan.</li>
-                                <li>Honor moderator adalah honor yang diberikan kepada Pegawai Aparatur Sipil Negara/Anggota Polri/TNI yang ditunjuk oleh pejabat yang berwenang untuk melaksanakan tugas sebagai kegiatan moderator pada Seminar/Rapat/Sosialisasi/Diseminasi/Bimbingan Teknis/Workshop/Sarasehan/Simposium/Lokakarya/Focus Group Discussion/Kegiatan Sejenis yang dilaksanakan secara langsung (offline) maupun daring (online) melalui aplikasi secara live bukan rekaman/hasil tapping baik di dalam negeri maupun di luar negeri, tidak termasuk untuk kegiatan diklat/pelatihan.</li>
-                                <li>Honor narasumber pakar adalah satuan biaya honorarium narasumber pakar/praktisi/profesional merupakan satuan biaya yang digunakan untuk kebutuhan honorarium narasumber pakar/praktisi/profesional dari luar lingkup kementerian negara/lembaga penyelenggara yang mempunyai keahlian/profesionalisme dalam ilmu/bidang tertentu dalam kegiatan Seminar/Rapat/Sosialisasi/Diserninasi/Workshop/Sarasehan/Simposium/Diklat/Lokakarya/Focus Group Discussion/Kegiatan Sejenis yang diselenggarakan baik di dalam negeri maupun di luar negeri yang dilaksanakan secara langsung (offline) maupun daring (online) melalui aplikasi secara live dan bukan rekaman/hasil tapping.</li>
+                                <li>Honor narasumber adalah honor yang diberikan kepada Pejabat Negara/Pegawai Aparatur Sipil Negara/Anggota Polri/TNI yang memberikan kegiatan dalam informasi/pengetahuan/kemampuan Seminar/Rapat/Sosialisasi/Diseminasi/Bimbingan Teknis/<i>Workshop</i>/Sarasehan/Simposium/Lokakarya/<i>Focus Group Discussion</i>/Kegiatan Sejenis yang dilaksanakan secara langsung <i>(offline)</i> maupun daring <i>(online)</i> melalui aplikas: secara live bukan rekaman/hasil <i>tapping</i>, baik di dalam negeri maupun di luar negeri, tidak termasuk untuk kegiatan diklat/pelatihan.</li>
+                                <li>Honor moderator adalah honor yang diberikan kepada Pegawai Aparatur Sipil Negara/Anggota Polri/TNI yang ditunjuk oleh pejabat yang berwenang untuk melaksanakan tugas sebagai kegiatan moderator pada Seminar/Rapat/Sosialisasi/Diseminasi/Bimbingan Teknis/<i>Workshop</i>/Sarasehan/Simposium/Lokakarya/<i>Focus Group Discussion</i>/Kegiatan Sejenis yang dilaksanakan secara langsung <i>(offline)</i> maupun daring <i>(online)</i> melalui aplikasi secara live bukan rekaman/hasil <i>tapping</i> baik di dalam negeri maupun di luar negeri, tidak termasuk untuk kegiatan diklat/pelatihan.</li>
+                                <li>Honor narasumber pakar adalah satuan biaya honorarium narasumber pakar/praktisi/profesional merupakan satuan biaya yang digunakan untuk kebutuhan honorarium narasumber pakar/praktisi/profesional dari luar lingkup kementerian negara/lembaga penyelenggara yang mempunyai keahlian/profesionalisme dalam ilmu/bidang tertentu dalam kegiatan Seminar/Rapat/Sosialisasi/Diserninasi/<i>Workshop</i>/Sarasehan/Simposium/Diklat/Lokakarya/<i>Focus Group Discussion</i>/Kegiatan Sejenis yang diselenggarakan baik di dalam negeri maupun di luar negeri yang dilaksanakan secara langsung <i>(offline)</i> maupun daring <i>(online)</i> melalui aplikasi secara live dan bukan rekaman/hasil <i>tapping</i>.</li>
                             </ol>
                             <li>Catatan Penting</li>
                             <ol type="a">
@@ -517,7 +521,7 @@
                                         <li>Uang saku.</li>
                                     </ol>
                                     <li>Biaya transpor</li>
-                                    <p>Dibayarkan sesuai bukti riil (at cost) yang terdiri dari:</p>
+                                    <p>Dibayarkan sesuai bukti <i>riil (at cost)</i> yang terdiri dari:</p>
                                     <ol class="huruf">
                                         <li>biaya perjalanan dinas dari Tempat Kedudukan sampai Tempat Tujuan keberangkatan dan kepulangan termasuk biaya ke terminal bus/stasiun/bandara/pelabuhan keberangkatan;</li>
                                         <li>Jika penugasan lebih dari satu satuan kerja, biaya transpor perpindahan satker dapat dibayarkan bila menggunakan moda transportasi umum; dan</li>
@@ -525,15 +529,15 @@
                                     </ol>
                                     <p>Transport hanya diberikan pada saat kedatangan (hari pertama) dan kepulangan (hari terakhir) kegiatan, transport yang dilakukan di antara hari kedatangan dan kepulangan tidak dapat diberikan/diklaim karena sudah masuk dalam komponen uang harian.</p>
                                     <li>Biaya penginapan</li>
-                                    <p>Biaya penginapan dibayarkan sesuai bukti riil (at cost) sesuai batas maksimal SBM dan dipergunakan untuk menginap:</p>
+                                    <p>Biaya penginapan dibayarkan sesuai bukti <i>riil (at cost)</i> sesuai batas maksimal SBM dan dipergunakan untuk menginap:</p>
                                     <ol class="huruf">
                                         <li>di hotel; atau</li>
                                         <li>di tempat menginap lainnya.</li>
                                     </ol>
-                                    <p>Dalam hal tidak menggunakan biaya penginapan, dapat diberikan biaya penginapan sebesar 30% (tiga puluh persen) dari tarif hotel di Kota Tempat Tujuan dan dibayarakan secara lumpsum sesuai SBM dengan menyampaikan surat pernyataan tidak menggunakan fasilitas hotel atau tempat penginapan lainnya.</p>
-                                    <p>Biaya menginap ini tidak dapat diberikan untuk perjalanan dinas yang dilaksanakan pergi dan pulang pada hari yang sama. Kecuali untuk kondisi tertentu yang urgent dan tidak dapat dihindari pelaksana SPD harus menginap dapat dibayarkan jika melampirkan tanda bukti at cost.</p>
+                                    <p>Dalam hal tidak menggunakan biaya penginapan, dapat diberikan biaya penginapan sebesar 30% (tiga puluh persen) dari tarif hotel di Kota Tempat Tujuan dan dibayarakan secara <i>lumpsum</i> sesuai SBM dengan menyampaikan surat pernyataan tidak menggunakan fasilitas hotel atau tempat penginapan lainnya.</p>
+                                    <p>Biaya menginap ini tidak dapat diberikan untuk perjalanan dinas yang dilaksanakan pergi dan pulang pada hari yang sama. Kecuali untuk kondisi tertentu yang <i>urgent</i> dan tidak dapat dihindari pelaksana SPD harus menginap dapat dibayarkan jika melampirkan tanda bukti <i>at cost</i>.</p>
                                     <li>Uang representasi</li>
-                                    <p>Uang representasi diberikan kepada Pejabat Negara, Pejabat Eselon I, dan Pejabat Eselon II selama melakukan Perjalanan sesuai jumlah hari riil pelaksanaan Perjalanan Dinas.</p>
+                                    <p>Uang representasi diberikan kepada Pejabat Negara, Pejabat Eselon I, dan Pejabat Eselon II selama melakukan Perjalanan sesuai jumlah hari <i>riil</i> pelaksanaan Perjalanan Dinas.</p>
                                 </ol>
                             </ol>
                             <li>Akun yang Dapat Digunakan</li>
@@ -546,12 +550,12 @@
                                 <li>Surat Perjalanan Dinas (SPD) dan Visum;</li>
                                 <li>Daftar Ongkos Perjalanan (DOP);</li>
                                 <li>Bukti transportasi (taxi bandara);</li>
-                                <li>Daftar Pengeluaran riil untuk transport yang tidak ada tanda bukti;</li>
-                                <li>Tiket/boarding pass;</li>
+                                <li>Daftar Pengeluaran <i>riil</i> untuk transport yang tidak ada tanda bukti;</li>
+                                <li>Tiket/<i>boarding pass</i>;</li>
                                 <li>Bukti Penginapan atau Surat Pernyataan Tidak Menginap di Hotel (bila ada);</li>
                                 <li>Laporan Perjalanan Dinas dan Dokumentasi Kegiatan;</li>
                                 <li>Rincian Biaya Perjalanan Dinas Biasa (DOP);</li>
-                                <li>Pengeluaran Riil (jika ada biaya yang tidak ada tanda bukti); dan</li>
+                                <li>Pengeluaran <i>Riil</i> (jika ada biaya yang tidak ada tanda bukti); dan</li>
                                 <li>Kuitansi.</li>
                             </ol>
                         </ol>
@@ -564,8 +568,8 @@
                             </ol>
                             <li>Catatan Penting</li>
                             <ol type="a">
-                                <li>Dibayarkan secara lumpsum sesuai standar biaya yang berlaku atau berdasarkan SK KPA masing-masing daerah dan diberikan sesuai jumlah hari riil pelaksanaan Perjalanan Dinas;</li>
-                                <li>Penugasan yang dilaksanakan lebih dari satu tujuan pelaksanaan perjalanan dinas dan merupakan satu kesatuan penugasan hanya diberikan sebesar 1 (satu) kali biaya transport dalarn kota;</li>
+                                <li>Dibayarkan secara <i>lumpsum</i> sesuai standar biaya yang berlaku atau berdasarkan SK KPA masing-masing daerah dan diberikan sesuai jumlah hari <i>riil</i> pelaksanaan Perjalanan Dinas;</li>
+                                <li>Penugasan yang dilaksanakan lebih dari satu tujuan pelaksanaan perjalanan dinas dan merupakan satu kesatuan penugasan hanya diberikan sebesar 1 (satu) kali biaya transport dalam kota;</li>
                                 <li>Surat Tugas diterbitkan oleh atasan langsung. Penerbit Surat Tugas membatasi pelaksanaan perjalanan dinas dalam kota hanya sampai 8 jam; dan</li>
                                 <li>Pelaksana SPD perjalanan dinas dalam kota sampai dengan 8 jam tetap mendapatkan Uang Makan selama terdapat catatan kehadiran di kantor.</li>
                             </ol>
@@ -577,7 +581,7 @@
                                 <li>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK);</li>
                                 <li>Surat Tugas;</li>
                                 <li>Kwitansi Transport;</li>
-                                <li>Daftar Pengeluaran riil untuk transport yang tidak ada tanda bukti;</li>
+                                <li>Daftar Pengeluaran <i>riil</i> untuk transport yang tidak ada tanda bukti;</li>
                                 <li>Bukti Visum;</li>
                                 <li>Surat pernyataan tidak menggunakan kendaraan dinas; dan</li>
                                 <li>Laporan Perjalanan Dinas dan dokumentasi kegiatan.</li>
@@ -592,10 +596,10 @@
                             </ol>
                             <li>Catatan Penting</li>
                             <ol type="a">
-                                <li>Dibayarkan secara lumpsum sesuai standar biaya yang berlaku atau berdasarkan SK KPA masing-masing daerah dan diberikan sesuai jumlah hari riil pelaksanaan Perjalanan Dinas;</li>
-                                <li>Dalam hal biaya transport melebihi biaya transport dalam kota. sebagaimana diatur dalam SBM, maka Pelaksana SPD dapat diberikan biaya transport sesuai bukti riil moda transportasi yang digunakan;</li>
-                                <li>Apabila diperlukan dapat diberikan biaya menginap di hotel atau tempat menginap lainnya, sesuai bukti riil dengan batas tertinggi sebagaimana diatur dalam SBM;</li>
-                                <li>Biaya menginap ini tidak dapat diberikan untuk perjalanan dinas yang dilaksanakan pergi dan pulang pada hari yang sama. Kecuali untuk perjalanan dinas lebih dari 8 jam pada kondisi tertentu yang urgent dan tidak dapat dihindari pelaksana SPD harus menginap dapat dibayarkan jika melampirkan tanda bukti at cost;</li>
+                                <li>Dibayarkan secara <i>lumpsum</i> sesuai standar biaya yang berlaku atau berdasarkan SK KPA masing-masing daerah dan diberikan sesuai jumlah hari <i>riil</i> pelaksanaan Perjalanan Dinas;</li>
+                                <li>Dalam hal biaya transport melebihi biaya transport dalam kota. sebagaimana diatur dalam SBM, maka Pelaksana SPD dapat diberikan biaya transport sesuai bukti <i>riil</i> moda transportasi yang digunakan;</li>
+                                <li>Apabila diperlukan dapat diberikan biaya menginap di hotel atau tempat menginap lainnya, sesuai bukti <i>riil</i> dengan batas tertinggi sebagaimana diatur dalam SBM;</li>
+                                <li>Biaya menginap ini tidak dapat diberikan untuk perjalanan dinas yang dilaksanakan pergi dan pulang pada hari yang sama. Kecuali untuk perjalanan dinas lebih dari 8 jam pada kondisi tertentu yang <i>urgent</i> dan tidak dapat dihindari pelaksana SPD harus menginap dapat dibayarkan jika melampirkan tanda bukti <i>at cost</i>;</li>
                                 <li>Penugasan yang dilaksanakan lebih dari satu tujuan pelaksanaan perjalanan dinas dan merupakan satu kesatuan penugasan hanya diberikan sebesar 1 (satu) kali biaya transport dalam kota;</li>
                                 <li>Surat Tugas diterbitkan oleh atasan langsung dan harus menyebutkan bahwa pelaksanaan perjalanan dinas dalam kota dilaksanakan lebih dari 8 jam.</li>
                             </ol>
@@ -608,7 +612,7 @@
                                 <li>Surat Tugas;</li>
                                 <li>Surat Perjalanan Dinas (SPD) dan Visum;</li>
                                 <li>Kuitansi transport;</li>
-                                <li>Daftar Pengeluaran riil untuk transport yang tidak ada tanda bukti;</li>
+                                <li>Daftar Pengeluaran <i>riil</i> untuk transport yang tidak ada tanda bukti;</li>
                                 <li>Daftar Ongkos Perjalanan (DOP);</li>
                                 <li>Jadwal Kegiatan;</li>
                                 <li>Bukti Visum;</li>
@@ -653,25 +657,25 @@
                     </ol>
                     <p>Satuan biaya paket kegiatan rapat/pertemuan di luar kantor menurut lama penyelenggaraan, terbagi dalam 3 (tiga) jenis yaitu:</p>
                     <ol type="1">
-                        <li>Paket Fullboard</li>
-                        <p>Satuan biaya paket fullboard disediakan untuk paket kegiatan rapat/pertemuan yang diselenggarakan di luar kantor sehari penuh dan menginap.</p>
-                        <li>Paket Fullday</li>
-                        <p>Satuan biaya paket fullday disediakan untuk paket kegiatan rapat/pertemuan yang diselenggarakan di luar kantor paling singkat 8 (delapan) jam tanpa menginap.</p>
-                        <li>Paket Halfday</li>
-                        <p>Satuan biaya paket halfday disediakan untuk paket kegiatan rapat/pertemuan yang diselenggarakan di luar kantor paling singkat 5 (lima) jam tanpa menginap.</p>
+                        <li>Paket <i>Fullboard</i></li>
+                        <p>Satuan biaya paket <i>fullboard</i> disediakan untuk paket kegiatan rapat/pertemuan yang diselenggarakan di luar kantor sehari penuh dan menginap.</p>
+                        <li>Paket <i>Fullday</i></li>
+                        <p>Satuan biaya paket <i>fullday</i> disediakan untuk paket kegiatan rapat/pertemuan yang diselenggarakan di luar kantor paling singkat 8 (delapan) jam tanpa menginap.</p>
+                        <li>Paket <i>Halfday</i></li>
+                        <p>Satuan biaya paket <i>halfday</i> disediakan untuk paket kegiatan rapat/pertemuan yang diselenggarakan di luar kantor paling singkat 5 (lima) jam tanpa menginap.</p>
                     </ol>
                     <ol type="A">
-                        <li>Belanja Paket Meeting Dalam Kota</li>
+                        <li>Belanja Paket <i>Meeting</i> Dalam Kota</li>
                         <ol type="1">
                             <li>Pengertian</li>
                             <ol type="a">
                                 <li>Digunakan untuk mencatat perjalanan dinas dalam rangka kegiatan rapat, seminar, dan sejenisnya yang dilaksanakan di dalam kota satker penyelenggara dan dibiayai seluruhnya olch satker penyelenggara maupun yang dilaksanakan di dalam kota satker peserta dan biaya perjalanan dinasnya ditanggung oleh Satker peserta, yang meliputi:</li>
                                 <ol class="angka">
                                     <li>Biaya transportasi peserta, panitia/moderator, dan/atau narasumber baik yang berasal dari dalam kota maupun dari luar kota;</li>
-                                    <li>Biaya paket meeting (halfday/fullday/fullboard);</li>
-                                    <li>Uang harian paket meeting peserta, panitia/moderator dan/atau narasumber baik yang berasal dari dalam kota maupun dari luar kota; dan</li>
+                                    <li>Biaya paket <i>meeting (halfday/fullday/fullboard)</i>;</li>
+                                    <li>Uang harian paket <i>meeting</i> peserta, panitia/moderator dan/atau narasumber baik yang berasal dari dalam kota maupun dari luar kota; dan</li>
                                     <li>Uang harian perjalanan dan/atau biaya penginapan peserta/narasumber/moderator dari luar kota dan mengalami kesulitan transportasi.</li>
-                                    <p>Besaran nilai biaya paket meeting, uang transport, uang harian paket meeting, dan uang harian perjalanan mengikuti ketentuan yang mengatur mengenai standar biaya tahun berkenaan.</p>
+                                    <p>Besaran nilai biaya paket <i>meeting</i>, uang transport, uang harian paket <i>meeting</i>, dan uang harian perjalanan mengikuti ketentuan yang mengatur mengenai standar biaya tahun berkenaan.</p>
                                 </ol>
                             </ol>
                             <li>Catatan Penting</li>
@@ -679,16 +683,16 @@
                                 <li>Untuk pejabat eselon II ke atas, akomodasi 1 (satu) kamar untuk 1 (satu) orang;</li>
                                 <li>Untuk pejabat eselon III ke bawah, akomodasi 1 (satu) kamar untuk 2 (dua) orang;</li>
                                 <li>Kepada panitia (karena faktor transportasi dan/atau guna dan mempersiapkan pelaksanaan kegiatan penyelesaian pertanggungjawaban) dan kepada peserta (karena faktor transportasi) yang memerlukan waktu tambahan untuk berangkat/pulang di luar waktu pelaksanaan kegiatan, dapat dialokasikan biaya penginapan dan uang harian perjalanan dinas sesuai dengan ketentuan peraturan perundang-undangan, untuk 1 (satu) hari sebelum dan/atau 1 (satu) hari sesudah pelaksanaan kegiatan;</li>
-                                <li>Kegiatan paket meeting dapat dilaksanakan apabila melibatkan peserta dari kementerian negara/lembaga lainnya yang terkait pelaksanaan tugas dan fungsi/masyarakat;</li>
+                                <li>Kegiatan paket <i>meeting</i> dapat dilaksanakan apabila melibatkan peserta dari kementerian negara/lembaga lainnya yang terkait pelaksanaan tugas dan fungsi/masyarakat;</li>
                                 <li>Kegiatan rapat, seminar, dan sejenisnya dapat diselenggarakan di luar kantor dengan berpedoman pada Peraturan Menteri Keuangan mengenai Standar Biaya, dan fasilitas di kantor tidak mencukupi yang dibuktikan dengan surat pernyataan dari penanggung jawab kegiatan;</li>
-                                <li>Dalam hal tidak terdapat fasilitas hotel atau penginapan yang memadai di dalam kota untuk paket meeting pelatihan petugas, maka Satker dapat mengadakan kegiatan paket meeting di luar kota, dengan terlebih dahulu melakukan revisi akun ke akun 524119; dan</li>
-                                <li>Dalam hal peserta merupakan narasumber yang berasal dari luar instansi penyelenggara, maka tidak dapat diberikan uang harian fullboard/fullday/halfday pada saat yang bersangkutan menjadi narasumber dalam kegiatan tersebut.</li>
+                                <li>Dalam hal tidak terdapat fasilitas hotel atau penginapan yang memadai di dalam kota untuk paket <i>meeting</i> pelatihan petugas, maka Satker dapat mengadakan kegiatan paket meeting di luar kota, dengan terlebih dahulu melakukan revisi akun ke akun 524119; dan</li>
+                                <li>Dalam hal peserta merupakan narasumber yang berasal dari luar instansi penyelenggara, maka tidak dapat diberikan uang harian <i>fullboard/fullday/halfday</i> pada saat yang bersangkutan menjadi narasumber dalam kegiatan tersebut.</li>
                             </ol>
                             <li>Akun yang Dapat Digunakan</li>
-                            <p>Akun 524114 - Belanja Perjalanan Dinas Paket Meeting Dalam Kota</p>
+                            <p>Akun 524114 - Belanja Perjalanan Dinas Paket <i>Meeting</i> Dalam Kota</p>
                             <li>Kelengkapan Tagihan Pembayaran</li>
                             <ol type="a">
-                                <li>Kelengkapan tagihan pembayaran perjalanan dalam rangka paket meeting:</li>
+                                <li>Kelengkapan tagihan pembayaran perjalanan dalam rangka paket <i>meeting</i>:</li>
                                 <ol class="angka">
                                     <li>Kerangka Acuan Kerja (KAK);</li>
                                     <li>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK);</li>
@@ -700,18 +704,18 @@
                                         <li>Kepala Satker (BPS Provinsi/Kabupaten/Kota).</li>
                                     </ol>
                                     <li>Daftar Hadir;</li>
-                                    <li>Kegiatan paket meeting harus menghasilkan output berupa:</li>
+                                    <li>Kegiatan paket <i>meeting</i> harus menghasilkan <i>output</i> berupa:</li>
                                     <ol class="huruf">
                                         <li>Transkip hasil rapat;</li>
                                         <li>Notulensi rapat; dan/atau</li>
                                         <li>Laporan hasil kegiatan. yang harus diketahui dan ditandatangani oleh penanggung jawab kegiatan.</li>
                                     </ol>
                                     <li>Dokumentasi;</li>
-                                    <li>SPD Paket Meeting Dalam Kota;</li>
+                                    <li>SPD Paket <i>Meeting</i> Dalam Kota;</li>
                                     <li>Surat Pernyataan Tidak Menggunakan Kendaraan Dinas; dan</li>
-                                    <li> Daftar Uang Harian Perjadin Paket Meeting.</li>
+                                    <li> Daftar Uang Harian Perjadin Paket <i>Meeting</i>.</li>
                                 </ol>
-                                <li>Kelengkapan tagihan penyelenggaraan paket meeting:</li>
+                                <li>Kelengkapan tagihan penyelenggaraan paket <i>meeting</i>:</li>
                                 <ol class="angka">
                                     <li>Kerangka Acuan Kerja (KAK);</li>
                                     <li>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK);</li>
@@ -723,20 +727,20 @@
                                         <li>Kepala Satker (BPS Provinsi/Kabupaten/Kota).</li>
                                     </ol>
                                     <li>Daftar Hadir;</li>
-                                    <li>Kegiatan paket meeting harus menghasilkan output terdiri dari:</li>                        
+                                    <li>Kegiatan paket <i>meeting</i> harus menghasilkan <i>output</i> terdiri dari:</li>                        
                                     <ol class="huruf">
                                         <li>Transkip hasil rapat dan atau notulensi rapat;</li>
                                         <li>laporan hasil kegiatan termasuk Dokumentasi;</li>
                                         <p>yang harus diketahui dan ditandatangani oleh penanggung jawab kegiatan.</p>
                                     </ol>
-                                    <li>Surat Pernyataan Fasilitas Kantor tidak mencukupi untuk meeting di dalam kantor dari Penanggung Jawab Kegiatan;</li>
+                                    <li>Surat Pernyataan Fasilitas Kantor tidak mencukupi untuk <i>meeting</i> di dalam kantor dari Penanggung Jawab Kegiatan;</li>
                                     <li>Komitmen dalam bentuk kontrak dapat berupa:</li>
                                     <ol class="huruf">
                                         <li>Bukti Pembelian/Pembayaran (nilai pengadaan paling banyak Rp10.000.000,00 (sepuluh juta rupiah));</li>
                                         <li>Kuitansi (nilai pengadaan paling banyak Rp50.000.000,00 (lima puluh juta rupiah));</li>
                                         <li>Surat Perintah Kerja (nilai pengadaan bernilai di atas Rp50.000.000,00 (lima puluh juta rupiah) sampai dengan Rp200.000.000,00 (dua ratus juta rupiah));</li>
                                         <li>Surat Perjanjian (nilai pengadaan di atas 200.000.000,00 (dua ratus juta rupiah)); dan/atau</li>
-                                        <li>Surat/Bukti Pesanan (Jika menggunakan E-Purchasing): sesuai dengan ketentuan peraturan perundang-undangan mengenai pengadaan barang/jasa pemerintah.</li>
+                                        <li>Surat/Bukti Pesanan (Jika menggunakan <i>E-Purchasing</i>): sesuai dengan ketentuan peraturan perundang-undangan mengenai pengadaan barang/jasa pemerintah.</li>
                                     </ol>
                                     <li>Bukti Prestasi Pekerjaan dapat berbentuk:</li>
                                     <ol class="huruf">
@@ -745,30 +749,30 @@
                                         <li>Berita Acara Pembayaran.</li>
                                         <p>Bukti prestasi pekerjaan tersebut sesuai dengan ketentuan peraturan perundang-undangan mengenai pengadaan barang dan jasa pemerintah.</p>
                                     </ol>
-                                    <li>Daftar penggunaan kamar (roomlist) yang dilegalisasi oleh hotel/penginapan;</li>
-                                    <li>Faktur;</li>
+                                    <li>Daftar penggunaan kamar <i>(roomlist)</i> yang dilegalisasi oleh hotel/penginapan;</li>
+                                    <li><i>Invoice;</i></li>
                                     <li>Fotokopi NPWP dan rekening koran; dan</li>
                                     <li>SSP PPh 23 sebesar 2%.</li>
                                 </ol>
                             </ol>
                         </ol>
-                        <li>Belanja Paket Meeting Luar Kota</li>
+                        <li>Belanja Paket <i>Meeting</i> Luar Kota</li>
                         <ol type="1">
                             <li>Pengertian</li>
                             <p>Pengeluaran untuk perjalanan dinas dalam rangka kegiatan rapat, seminar, dan sejenisnya yang dilaksanakan di luar kota satker penyelenggara dan dibiayai seluruhnya oleh satker penyelenggara, serta yang dilaksanakan di luar kota satker peserta dengan biaya perjalanan dinas yang ditanggung oleh satker peserta, meliputi:</p>
                             <ol type="1">
                                 <li>Biaya transportasi peserta, panitia/moderator, dan/atau narasumber baik yang berasal dari dalam kota maupun dari luar kota;</li>
-                                <li>Biaya paket meeting (fullboard);</li>
-                                <li>Uang harian paket meeting peserta, panitia/moderator baik yang berasal dari dalam kota maupun dari luar kota; dan</li>
+                                <li>Biaya paket <i>meeting (fullboard)</i>;</li>
+                                <li>Uang harian paket <i>meeting</i> peserta, panitia/moderator baik yang berasal dari dalam kota maupun dari luar kota; dan</li>
                                 <li>Uang harian perjalanan dan/atau biaya penginapan peserta, panitia/moderator, dan/atau narasumber yang mengalami kesulitan transportasi.</li>
                             </ol>
-                            <p>Besaran nilai biaya paket meeting, uang transport, uang saku, dan uang harian mengikuti ketentuan yang mengatur mengenai standar biaya tahun berkenaan.</p>
+                            <p>Besaran nilai biaya paket <i>meeting</i>, uang transport, uang saku, dan uang harian mengikuti ketentuan yang mengatur mengenai standar biaya tahun berkenaan.</p>
                             <li>Catatan Penting</li>
                             <ol type="a">
                                 <li>Untuk pejabat eselon II ke atas, akomodasi 1 (satu) kamar untuk 1 (satu) orang;</li>
                                 <li>Untuk pejabat eselon III ke bawah, akomodasi 1 (satu) kamar untuk 2 (dua) orang;</li>
                                 <li>Kepada panitia (karena faktor transportasi dan/atau guna mempersiapkan pelaksanaan kegiatan dan penyelesaian pertanggungjawaban) dan kepada peserta (karena faktor transportasi) yang memerlukan waktu tambahan untuk berangkat/pulang di luar waktu pelaksanaan kegiatan, dapat dialokasikan biaya penginapan dan uang harian perjalanan dinas sesuai dengan ketentuan peraturan perundang-undangan, untuk 1 (satu) hari sebelum dan/atau 1 (satu) hari sesudah pelaksanaan kegiatan;</li>
-                                <li>Kegiatan paket meeting dapat dilaksanakan apabila melibatkan peserta dari kementerian negara/lembaga lainnya yang terkait pelaksanaan tugas dan fungsi/masyarakat;</li>
+                                <li>Kegiatan paket <i>meeting</i> dapat dilaksanakan apabila melibatkan peserta dari kementerian negara/lembaga lainnya yang terkait pelaksanaan tugas dan fungsi/masyarakat;</li>
                                 <li>Kegiatan rapat, seminar, dan sejenisnya dapat diselenggarakan di luar kantor dengan berpedoman pada Peraturan Menteri Keuangan mengenai Standar Biaya, dan fasilitas di kantor tidak mencukupi;</li>
                                 <li>Fasilitas di kantor tidak mencukupi sebagaimana dimaksud pada point (5) dibuktikan dengan surat pernyataan dari penanggung jawab kegiatan;</li>
                                 <li>Kegiatan rapat, seminar, dan sejenisnya yang diselenggarakan di luar kota, selain mengikuti ketentuan sebagaimana dimaksud dalam point (5), dilaksanakan sepanjang memenuhi ketentuan sebagai berikut:</li>
@@ -781,13 +785,13 @@
                                         <li>diselenggarakan pada lokasi yang terdekat dengan kota satuan kerja penyelenggara.</li>
                                     </ol>
                                 </ol>
-                                <li>Dalam hal peserta merupakan narasumber yang berasal dari luar instansi penyelenggara, maka tidak dapat diberikan uang harian fullboard/fullday/halfday pada saat yang bersangkutan menjadi narasumber dalam kegiatan tersebut.</li>
+                                <li>Dalam hal peserta merupakan narasumber yang berasal dari luar instansi penyelenggara, maka tidak dapat diberikan uang harian <i>fullboard/fullday/halfday</i> pada saat yang bersangkutan menjadi narasumber dalam kegiatan tersebut.</li>
                             </ol>
                             <li>Akun Yang Dapat Digunakan</li>
-                            <p>Akun 524119 - Belanja Perjalanan Dinas Paket Meeting Luar Kota.</p>
+                            <p>Akun 524119 - Belanja Perjalanan Dinas Paket <i>Meeting</i> Luar Kota.</p>
                             <li>Kelengkapan Tagihan Pembayaran</li>
                             <ol type="a">
-                                <li>Kelengkapan tagihan pembayaran perjalanan dalam rangka paket meeting:</li>
+                                <li>Kelengkapan tagihan pembayaran perjalanan dalam rangka paket <i>meeting</i>:</li>
                                 <ol class="angka">
                                     <li>Kerangka Acuan Kerja (KAK);</li>
                                     <li>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK);</li>
@@ -799,7 +803,7 @@
                                         <li>Kepala Satker (BPS Provinsi/Kabupaten/Kota).</li>
                                     </ol>
                                     <li>Daftar Hadir;</li>
-                                    <li>Kegiatan paket meeting harus menghasilkan output berupa:</li>
+                                    <li>Kegiatan paket <i>meeting</i> harus menghasilkan <i>output</i> berupa:</li>
                                     <ol class="huruf">
                                         <li>Transkip hasil rapat;</li>
                                         <li>Notulensi rapat; dan/atau</li>
@@ -807,11 +811,11 @@
                                         <p>yang harus diketahui dan ditandatangani oleh penanggung jawab kegiatan.</p>
                                     </ol>
                                     <li>Dokumentasi;</li>
-                                    <li>SPD Paket Meeting Luar Kota;</li>
+                                    <li>SPD Paket <i>Meeting</i> Luar Kota;</li>
                                     <li>Surat Pernyataan Tidak Menggunakan Kendaraan Dinas; dan</li>
-                                    <li>Daftar Uang Harian/Saku Perjadin Paket Meeting.</li>
+                                    <li>Daftar Uang Harian/Saku Perjadin Paket <i>Meeting</i>.</li>
                                 </ol>
-                                <li>Kelengkapan tagihan penyelenggaraan paket meeting:</li>
+                                <li>Kelengkapan tagihan penyelenggaraan paket <i>meeting</i>:</li>
                                 <ol class="angka">
                                     <li>Kerangka Acuan Kerja (KAK);</li>
                                     <li>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK);</li>
@@ -823,7 +827,7 @@
                                         <li>Kepala Satker (BPS Provinsi/Kabupaten/Kota).</li>
                                     </ol>
                                     <li>Daftar Hadir;</li>
-                                    <li>Kegiatan paket meeting harus menghasilkan output berupa:</li>
+                                    <li>Kegiatan paket <i>meeting</i> harus menghasilkan <i>output</i> berupa:</li>
                                     <ol class="huruf">
                                         <li>Transkip hasil rapat;</li>
                                         <li>Notulensi rapat; dan/atau</li>
@@ -831,7 +835,7 @@
                                         <p>yang harus diketahui dan ditandatangani oleh penanggung jawab kegiatan.</p>
                                     </ol>
                                     <li>Dokumentasi;</li>
-                                    <li>Surat Pernyataan Fasilitas Kantor tidak mencukupi untuk meeting di dalam kantor dari penanggung jawab kegiatan;</li>
+                                    <li>Surat Pernyataan Fasilitas Kantor tidak mencukupi untuk <i>meeting</i> di dalam kantor dari penanggung jawab kegiatan;</li>
                                     <li>Bukti Prestasi Pekerjaan dapat berbentuk:</li>
                                     <ol class="huruf">
                                         <li>Berita Acara Penyelesaian Pekerjaan;</li>
@@ -847,10 +851,10 @@
                                         <li>Kuitansi (nilai pengadaan paling banyak Rp50.000.000,00 (lima puluh juta rupiah));</li>
                                         <li>Surat Perintah Kerja (nilai pengadaan bernilai di atas Rp50.000.000,00 (lima puluh juta rupiah));</li>
                                         <li>Surat Perjanjian (nilai pengadaan di atas Rp200.000.000,00 (dua ratus juta rupiah)); dan/atau</li>
-                                        <li>Surat/Bukti Pesanan (Jika menggunakan E-Purchasing);</li>
+                                        <li>Surat/Bukti Pesanan (Jika menggunakan <i>E-Purchasing</i>);</li>
                                         <p>sesuai dengan ketentuan peraturan perundang-undangan mengenai pengadaan barang/jasa pemerintah.</p>
                                     </ol>
-                                    <li>Invoice;</li>
+                                    <li><i>Invoice;</i></li>
                                     <li>Fotokopi NPWP dan rekening koran; dan</li>
                                     <li>SSP PPh23 sebesar 2%.</li>
                                 </ol>
@@ -887,7 +891,7 @@
                     <ol type="A">
                         <li>Pengertian</li>
                         <ol type="1">
-                            <li>Sewa didefinisikan sebagai perjanjian di mana pihak yang menyewakan (lessee) menyewakan aset dari pihak yang menyewakan (lessor) untuk digunakan dalam jangka waktu tertentu dengan keseimbangan sewa yang telah ditentukan.</li>
+                            <li>Sewa didefinisikan sebagai perjanjian di mana pihak yang menyewakan <i>(lessee)</i> menyewakan aset dari pihak yang menyewakan <i>(lessor)</i> untuk digunakan dalam jangka waktu tertentu dengan keseimbangan sewa yang telah ditentukan.</li>
                             <li>Belanja Sewa dapat berupa sewa gedung untuk pertemuan; sewa bangunan/ruangan untuk gudang, sewa tenda; sewa kursi/meja; sewa kendaraan untuk mengangkut logistik perlengkapan pelatihan; dan sejenisnya.</li>
                         </ol>
                         <li>Akun yang Dapat Digunakan</li>
@@ -902,7 +906,7 @@
                                 <li>Kuitansi (nilai pengadaan paling banyak Rp50.000.000,00 (lima puluh juta rupiah));</li>
                                 <li>Surat Perintah Kerja (nilai pengadaan bernilai di Rp50.000.000,00 (lima puluh juta rupiah) sampai dengan. Rp200.000.000,00 (dua ratus juta rupiah));</li>
                                 <li>Surat Perjanjian (nilai pengadaan di atas Rp200.000.000,00 (dua ratus juta rupiah)); dan/atau</li>
-                                <li>Surat/Bukti Pesanan (Jika menggunakan E-Purchasing);</li>
+                                <li>Surat/Bukti Pesanan (Jika menggunakan <i>E-Purchasing</i>);</li>
                                 <p>sesuai dengan ketentuan peraturan perundang-undangan mengenai pengadaan barang/jasa pemerintah.</p>
                             </ol>
                             <li>Bukti Prestasi Pekerjaan dapat berupa:</li>
@@ -915,7 +919,7 @@
                                 <p>Bukti prestasi pekerjaan tersebut sesuai dengan ketentuan peraturan perundang-undangan mengenai pengadaan barang dan jasa pemerintah.</p>
                             </ol>
                             <li>Fotokopi NPWP dan fotokopi rekening koran;</li>
-                            <li>Invoice;</li>
+                            <li><i>Invoice;</i></li>
                             <li>Faktur Pajak;</li>
                             <li>SSP PPN dikenakan atas Pengusaha Kena Pajak (PKP), untuk transaksi diatas 2 juta rupiah;</li>
                             <li>SSP PPh Pasal 4 ayat 2 Final sebesar 10% untuk sewa bangunan/ruangan selain hotel atau penginapan; dan</li>
@@ -958,14 +962,14 @@
                         <ol type="1">
                             <li>Kerangka Acuan Kerja (KAK);</li>
                             <li>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK);</li>
-                            <li>Invoice;</li>
+                            <li><i>Invoice;</i></li>
                             <li>Komitmen dalam bentuk kontrak dapat berupa:</li>
                             <ol type="a">
                                 <li>Bukti Pembelian/Pembayaran (nilai pengadaan paling banyak Rp10.000.000,00 (sepuluh juta rupiah));</li>
                                 <li>Kuitansi (nilai pengadaan paling banyak Rp50.000.000,00 (lima puluh juta rupiah));</li>
                                 <li>Surat Perintah Kerja (nilai pengadaan bernilai di atas Rp50.000.000,00 (lima puluh juta rupiah) sampai dengan Rp200.000.000,00 (dua ratus juta rupiah));</li>
                                 <li>Surat Perjanjian (nilai pengadaan di atas Rp200.000.000,00 (dua ratus juta rupiah)); dan/atau</li>
-                                <li>Surat/Bukti Pesanan (Jika menggunakan E-Purchasing);</li>
+                                <li>Surat/Bukti Pesanan (Jika menggunakan <i>E-Purchasing</i>);</li>
                                 <p>sesuai dengan ketentuan peraturan perundang-undangan mengenai pengadaan barang/jasa pemerintah.</p>
                             </ol>
                             <li>Bukti Prestasi Pekerjaan dapat berbentuk:</li>
@@ -1033,7 +1037,7 @@
                                 <li>Kuitansi (nilai pengadaan paling banyak Rp50.000.000,00 (lima puluh juta rupiah));</li>
                                 <li>Surat Perintah Kerja (nilai pengadaan bernilai di Rp.50.000.000,00 (lima puluh juta rupiah) sampai dengan Rp200.000.000,00 (dua ratus juta rupiah));</li>
                                 <li>Surat Perjanjian (nilai pengadaan di atas Rp200.000.000,00 (dua ratus juta rupiah)); dan/atau</li>
-                                <li>Surat/Bukti Pesanan (Jika menggunakan E-Purchasing):</li>
+                                <li>Surat/Bukti Pesanan (Jika menggunakan <i>E-Purchasing</i>):</li>
                                 <p>sesuai dengan ketentuan peraturan perundang-undangan mengenai pengadaan barang/jasa pemerintah.</p>
                             </ol>
                             <li>Premi sesuai peserta; dan</li>
@@ -1073,7 +1077,7 @@
                         <li>Catatan Penting</li>
                         <ol type="1">
                             <li>Digunakan untuk pembayaran jasa yang tidak bisa ditampung pada kelompok akun 52211, 52212, 52213, 52214, dan 52215.</li>
-                            <li>Contoh dari jasa lainnya adalah jasa Event Organizer (EO), sosialisasi melalui media, penayangan iklan, publisitas off air, pengadaan call center, dan jenis jasa lainnya.</li>
+                            <li>Contoh dari jasa lainnya adalah jasa <i>Event Organizer</i> (EO), sosialisasi melalui media, penayangan iklan, publisitas <i>off air</i>, pengadaan <i>call center</i>, dan jenis jasa lainnya.</li>
                         </ol>
                         <li>Akun yang Dapat Digunakan</li>
                         <p>Akun 522191 - Belanja Jasa Lainnya.</p>
@@ -1088,7 +1092,7 @@
                                 <li>Kuitansi (nilai pengadaan paling banyak Rp50.000.000,00 (lima puluh juta rupiah));</li>
                                 <li>Surat Perintah Kerja (nilai pengadaan bernilai di atas Rp50.000.000,00 (lima puluh juta rupiah) sampai dengan Rp200.000.000,00);</li>
                                 <li>Surat Perjanjian (nilai pengadaan di atas Rp200.000.000,00 (dua ratus juta rupiah)); dan/atau</li>
-                                <li>Surat/Bukti Pesanan (Jika menggunakan E-Purchasing);</li>
+                                <li>Surat/Bukti Pesanan (Jika menggunakan <i>E-Purchasing</i>);</li>
                                 <p>sesuai dengan ketentuan peraturan perundang-undangan mengenai pengadaan barang/jasa pemerintah.</p>
                             </ol>
                             <li>Bukti Prestasi Pekerjaan dapat berbentuk:</li>
@@ -1136,8 +1140,8 @@
                     <ol type="A">
                         <li>Pengertian</li>
                         <ol type="1">
-                            <li>Biaya paket data dan komunikasi adalah bantuan biaya yang diberikan kepada pegawai yang dalam pelaksanaan tugasnya sebagian besar membutuhkan komunikasi secara daring (online). Pemberian biaya paket data dan komunikasi dilakukan secara selektif dengan mempertimbangkan intensitas pelaksanaan tugas dan fungsi penggunakan media daring (online) dan ketersediaan anggaran, dan sesuai dengan prinsip tata kelola yang baik dan akuntabilitas.</li>
-                            <li>Belanja pulsa/paket data pada kegiatan sensus/survei merupakan biaya yang diberikan kepada pegawai/petugas guna mendukung rangkaian kegiatan sensus/survei seperti pelatihan petugas secara daring (online), paket data untuk kegiatan lapangan.</li>
+                            <li>Biaya paket data dan komunikasi adalah bantuan biaya yang diberikan kepada pegawai yang dalam pelaksanaan tugasnya sebagian besar membutuhkan komunikasi secara daring <i>(online)</i>. Pemberian biaya paket data dan komunikasi dilakukan secara selektif dengan mempertimbangkan intensitas pelaksanaan tugas dan fungsi penggunakan media daring <i>(online)</i> dan ketersediaan anggaran, dan sesuai dengan prinsip tata kelola yang baik dan akuntabilitas.</li>
+                            <li>Belanja pulsa/paket data pada kegiatan sensus/survei merupakan biaya yang diberikan kepada pegawai/petugas guna mendukung rangkaian kegiatan sensus/survei seperti pelatihan petugas secara daring <i>(online)</i>, paket data untuk kegiatan lapangan.</li>
                         </ol>
                         <li>Catatan Penting</li>
                         <p>Pengadaan paket data/pulsa mengikuti isi perjanjian/surat kontrak, pedoman teknis kegiatan sensus/survei, atau surat edaran dari pimpinan BPS.</p>
@@ -1153,7 +1157,7 @@
                                 <li>Kuitansi (nilai pengadaan paling banyak Rp50.000.000,00 (lima puluh juta rupiah));</li>
                             </ol>
                             <li>Daftar nama dan nomor hp penerima paket data/pulsa;</li>
-                            <li>Bukti tanda terima paket data/pulsa (screenshoot bukti transfer pulsa); dan</li>
+                            <li>Bukti tanda terima paket data/pulsa (<i>screenshoot</i> bukti transfer pulsa); dan</li>
                             <li>SSP PPh 22 (dikenakan untuk transaksi di atas Rp2.000.000,00 (dua juta rupiah))</li>
                         </ol>
                     </ol>
