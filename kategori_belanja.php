@@ -74,6 +74,28 @@
                             <li>SSP PPh 23 sebesar 2% (jika membeli konsumsi melalui jasa boga atau katering).</li>
                         </ol>
                     </ol>
+                    <div class="container my-4">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="card shadow-sm border-0 rounded-3">
+                                    <div class="card-body text-center">
+                                        <h5 class="card-title fw-bold">Pedoman Belanja Konsumsi Rapat</h5>
+                                        <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Konsumsi Rapat.</p>
+          
+                                        <!-- Tombol Buka PDF -->
+                                        <a href="https://drive.google.com/file/d/1HBYHNqqS9zYXD4QV07u_TWig1d24X63w/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
+                                        📄 Buka PDF
+                                        </a>
+          
+                                         <!-- Tombol Download PDF -->
+                                        <a href="https://drive.google.com/uc?export=download&id=1HBYHNqqS9zYXD4QV07u_TWig1d24X63w" class="btn btn-success">
+                                        ⬇️ Download PDF
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
                 <!-- Belanja Perlengkapan Pakai Habis -->
@@ -129,6 +151,28 @@
                             <li>SSP PPh 22 sebesar 2% (dikenakan untuk transaksi di atas Rp2.000.000,00 (dua juta rupiah)).</li>
                         </ol>
                     </ol>
+                    <div class="container my-4">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="card shadow-sm border-0 rounded-3">
+                                    <div class="card-body text-center">
+                                        <h5 class="card-title fw-bold">Pedoman Belanja Perlengkapan Pakai Habis</h5>
+                                        <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Belanja Perlengkapan Pakai Habis.</p>
+          
+                                        <!-- Tombol Buka PDF -->
+                                        <a href="https://drive.google.com/file/d/1scZzWbHb2qnFPM1YWjiGq_slyfLUGH-P/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
+                                        📄 Buka PDF
+                                        </a>
+          
+                                         <!-- Tombol Download PDF -->
+                                        <a href="https://drive.google.com/uc?export=download&id=1scZzWbHb2qnFPM1YWjiGq_slyfLUGH-P" class="btn btn-success">
+                                        ⬇️ Download PDF
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
                 <!-- Belanja Penggandaan / Pencentakan -->
@@ -180,6 +224,28 @@
                             <li>SSP PPh 22 sebesar 1,5% (dikenakan untuk transaksi diatas Rp2.000.000,00 (dua juta rupiah)).</li>
                         </ol>
                     </ol>
+                    <div class="container my-4">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="card shadow-sm border-0 rounded-3">
+                                    <div class="card-body text-center">
+                                        <h5 class="card-title fw-bold">Pedoman Belanja Penggandaan / Pencentakan</h5>
+                                        <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Belanja Penggandaan / Pencentakan.</p>
+          
+                                        <!-- Tombol Buka PDF -->
+                                        <a href="https://drive.google.com/file/d/1hinlwZce0_NhICJwEJCOyviXhGq9SW-U/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
+                                        📄 Buka PDF
+                                        </a>
+          
+                                         <!-- Tombol Download PDF -->
+                                        <a href="https://drive.google.com/uc?export=download&id=1hinlwZce0_NhICJwEJCOyviXhGq9SW-U" class="btn btn-success">
+                                        ⬇️ Download PDF
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
                 <!-- Belanja Persediaan Barang Konsumsi -->
@@ -237,6 +303,28 @@
                             <li>SSP PPh 22 sebesar 1,5% (dikenakan untuk transaksi di atas Rp2.000.000,00 (dua juta rupiah)).</li>
                         </ol>
                     </ol>
+                    <div class="container my-4">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="card shadow-sm border-0 rounded-3">
+                                    <div class="card-body text-center">
+                                        <h5 class="card-title fw-bold">Pedoman Belanja Persediaan Barang Konsumsi</h5>
+                                        <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Belanja Persediaan Barang Konsumsi.</p>
+          
+                                        <!-- Tombol Buka PDF -->
+                                        <a href="https://drive.google.com/file/d/1sxaBDJpzTV4t2AXhJ3CwjU-F46XB1YS_/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
+                                        📄 Buka PDF
+                                        </a>
+          
+                                         <!-- Tombol Download PDF -->
+                                        <a href="https://drive.google.com/uc?export=download&id=1sxaBDJpzTV4t2AXhJ3CwjU-F46XB1YS" class="btn btn-success">
+                                        ⬇️ Download PDF
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
                 <!-- Belanja Honorarium -->
@@ -347,6 +435,28 @@
                             </ol>
                         </ol>
                     </ol>
+                    <div class="container my-4">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="card shadow-sm border-0 rounded-3">
+                                    <div class="card-body text-center">
+                                        <h5 class="card-title fw-bold">Pedoman Belanja Honorarium</h5>
+                                        <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Belanja Honorarium.</p>
+          
+                                        <!-- Tombol Buka PDF -->
+                                        <a href="https://drive.google.com/file/d/1C7PaqwmMgwBRp4BFVkm1ygDbKQM5X2R5/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
+                                        📄 Buka PDF
+                                        </a>
+          
+                                         <!-- Tombol Download PDF -->
+                                        <a href="https://drive.google.com/uc?export=download&id=1C7PaqwmMgwBRp4BFVkm1ygDbKQM5X2R5" class="btn btn-success">
+                                        ⬇️ Download PDF
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
                 <!-- Belanja Perjalanan Dinas -->
@@ -486,6 +596,28 @@
                             </ol>
                         </ol>
                     </ol>
+                    <div class="container my-4">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="card shadow-sm border-0 rounded-3">
+                                    <div class="card-body text-center">
+                                        <h5 class="card-title fw-bold">Pedoman Belanja Perjalanan Dinas</h5>
+                                        <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Belanja Perjalanan Dinas.</p>
+          
+                                        <!-- Tombol Buka PDF -->
+                                        <a href="https://drive.google.com/file/d/1ERZfX85Tu0_JkBiZO5rKDh-ub6TVym7N/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
+                                        📄 Buka PDF
+                                        </a>
+          
+                                         <!-- Tombol Download PDF -->
+                                        <a href="https://drive.google.com/uc?export=download&id=1ERZfX85Tu0_JkBiZO5rKDh-ub6TVym7N" class="btn btn-success">
+                                        ⬇️ Download PDF
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
                 <!-- Belanja Paket Meeting-->
@@ -704,6 +836,28 @@
                             </ol>
                         </ol>
                     </ol>
+                    <div class="container my-4">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="card shadow-sm border-0 rounded-3">
+                                    <div class="card-body text-center">
+                                        <h5 class="card-title fw-bold">Pedoman Belanja Paket Meeting</h5>
+                                        <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Belanja Paket Meeting.</p>
+          
+                                        <!-- Tombol Buka PDF -->
+                                        <a href="https://drive.google.com/file/d/1H4r-fz6tvqbV_qlJlP-uS9USQyhUb5d0/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
+                                        📄 Buka PDF
+                                        </a>
+          
+                                         <!-- Tombol Download PDF -->
+                                        <a href="https://drive.google.com/uc?export=download&id=1H4r-fz6tvqbV_qlJlP-uS9USQyhUb5d0" class="btn btn-success">
+                                        ⬇️ Download PDF
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
                 <!-- Belanja Sewa -->
@@ -747,6 +901,28 @@
                             <li>SSP PPh pasal 23 sebesar 2% jika memiliki NPWP atau 4% jika tidak memiliki NPWP untuk sewa selain alat/harta selain bangunan.</li>
                         </ol>
                     </ol>
+                    <div class="container my-4">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="card shadow-sm border-0 rounded-3">
+                                    <div class="card-body text-center">
+                                        <h5 class="card-title fw-bold">Pedoman Belanja Sewa</h5>
+                                        <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Belanja Sewa.</p>
+          
+                                        <!-- Tombol Buka PDF -->
+                                        <a href="https://drive.google.com/file/d/1aoFOLEL77LCbsvuQmgnCzLjmdeMfU4Ya/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
+                                        📄 Buka PDF
+                                        </a>
+          
+                                         <!-- Tombol Download PDF -->
+                                        <a href="https://drive.google.com/uc?export=download&id=1aoFOLEL77LCbsvuQmgnCzLjmdeMfU4Ya" class="btn btn-success">
+                                        ⬇️ Download PDF
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
                 <!-- Belanja Jasa Pengiriman/Ekspedisi -->
@@ -787,6 +963,28 @@
                             <li>SSP PPh 23 sebesar 2% jika memiliki NPWP atau 4% jika tidak memiliki NPWP.</li>
                         </ol>
                     </ol>
+                    <div class="container my-4">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="card shadow-sm border-0 rounded-3">
+                                    <div class="card-body text-center">
+                                        <h5 class="card-title fw-bold">Pedoman Belanja Jasa Pengiriman / Ekspedisi</h5>
+                                        <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Belanja Jasa Pengiriman / Ekspedisi.</p>
+          
+                                        <!-- Tombol Buka PDF -->
+                                        <a href="https://drive.google.com/file/d/1OBnVzyh5gjK3lD3ThCDIJOd-i2iMgECl/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
+                                        📄 Buka PDF
+                                        </a>
+          
+                                         <!-- Tombol Download PDF -->
+                                        <a href="https://drive.google.com/uc?export=download&id=1OBnVzyh5gjK3lD3ThCDIJOd-i2iMgECl" class="btn btn-success">
+                                        ⬇️ Download PDF
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
                 <!-- Belanja Jasa Asuransi -->
@@ -821,6 +1019,28 @@
                             <li>Polis asuransi, kartu tanda kepersetaan, atau sertifikat ke persetaan asuransi.</li>
                         </ol>
                     </ol>
+                    <div class="container my-4">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="card shadow-sm border-0 rounded-3">
+                                    <div class="card-body text-center">
+                                        <h5 class="card-title fw-bold">Pedoman Belanja Jasa Asuransi</h5>
+                                        <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Belanja Jasa Asuransi.</p>
+          
+                                        <!-- Tombol Buka PDF -->
+                                        <a href="https://drive.google.com/file/d/1UWCIT9a_2OUgRHV-5KDWcH6QExPcT9yc/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
+                                        📄 Buka PDF
+                                        </a>
+          
+                                         <!-- Tombol Download PDF -->
+                                        <a href="https://drive.google.com/uc?export=download&id=1UWCIT9a_2OUgRHV-5KDWcH6QExPcT9yc" class="btn btn-success">
+                                        ⬇️ Download PDF
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
                 <!-- Belanja Jasa Lainnya -->
@@ -865,6 +1085,28 @@
                             <li>SSP PPh 23 sebesar 2%.</li>
                         </ol>
                     </ol>
+                    <div class="container my-4">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="card shadow-sm border-0 rounded-3">
+                                    <div class="card-body text-center">
+                                        <h5 class="card-title fw-bold">Pedoman Belanja Jasa Lainnya</h5>
+                                        <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Belanja Jasa Lainnya.</p>
+          
+                                        <!-- Tombol Buka PDF -->
+                                        <a href="https://drive.google.com/file/d/1hpX3a4080nkWSVDpPYsrhvUcJtwqZ0fH/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
+                                        📄 Buka PDF
+                                        </a>
+          
+                                         <!-- Tombol Download PDF -->
+                                        <a href="https://drive.google.com/uc?export=download&id=1hpX3a4080nkWSVDpPYsrhvUcJtwqZ0fH" class="btn btn-success">
+                                        ⬇️ Download PDF
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
                 <!-- Belanja Pulsa/Paket Data Internet -->
@@ -894,6 +1136,28 @@
                             <li>SSP PPh 22 (dikenakan untuk transaksi di atas Rp2.000.000,00 (dua juta rupiah))</li>
                         </ol>
                     </ol>
+                    <div class="container my-4">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="card shadow-sm border-0 rounded-3">
+                                    <div class="card-body text-center">
+                                        <h5 class="card-title fw-bold">Pedoman Belanja Pulsa / Paket Data Internet</h5>
+                                        <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Belanja Pulsa / Paket Data Internet.</p>
+          
+                                        <!-- Tombol Buka PDF -->
+                                        <a href="https://drive.google.com/file/d/11omyW91nSyueDAvlNeA2y3ZaoQ5M48xo/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
+                                        📄 Buka PDF
+                                        </a>
+          
+                                         <!-- Tombol Download PDF -->
+                                        <a href="https://drive.google.com/uc?export=download&id=11omyW91nSyueDAvlNeA2y3ZaoQ5M48xo" class="btn btn-success">
+                                        ⬇️ Download PDF
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

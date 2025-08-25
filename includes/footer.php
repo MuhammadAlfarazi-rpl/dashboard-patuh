@@ -55,22 +55,6 @@
 
 <script>
 
-
-// Switch Theme Icon
-const toggle = document.querySelector('.darkmode-toggle');
-const icon = toggle.querySelector('i');
-
-toggle.addEventListener('click', () => {
-  document.body.classList.toggle('dark');
-  
-  if (document.body.classList.contains('dark')) {
-    icon.classList.replace('bx-sun', 'bx-moon');
-  } else {
-    icon.classList.replace('bx-moon', 'bx-sun');
-  }
-});
-
-
 // Intro
 anime.timeline()
 

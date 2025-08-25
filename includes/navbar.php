@@ -12,17 +12,29 @@
     <!-- Bagian KANAN -->
     <div class="me-3 d-flex align-items-center gap-3">
   <!-- Language / Menu Switch -->
-  <div class="dropdown">
-    <div class="language-switch dropdown-toggle align-items-center" data-bs-toggle="dropdown" aria-expanded="false" style="cursor: pointer;">
-      <span>Pilihan Pedoman</span>
-    </div>
-    <ul class="dropdown-menu">
-      <li><a class="dropdown-item" href="kategori_belanja.php">Kategori Belanja</a></li>
-      <li><a class="dropdown-item" href="pedoman_dinas.php">Pedoman Dinas</a></li>
-    </ul>
+  <?php
+    $current_page = basename($_SERVER['PHP_SELF']);
+    $dropdown_label = "Pilihan Pedoman";
+
+    if ($current_page === "pedoman_dinas.php") {
+      $dropdown_label = "Pedoman Dinas";
+    } elseif ($current_page === "kategori_belanja.php") {
+      $dropdown_label = "Pedoman Administrasi";
+    }
+  ?>
+  
+<div class="dropdown">
+  <div class="language-switch dropdown-toggle align-items-center" data-bs-toggle="dropdown" aria-expanded="false" style="cursor: pointer;">
+    <span><?php echo $dropdown_label; ?></span>
   </div>
-      <div class="darkmode-toggle" style="cursor: pointer;">
-        <i class='bx bx-sun'></i>
-      </div>
+  <ul class="dropdown-menu">
+    <li><a class="dropdown-item disabled">Pilihan Pedoman</a></li>
+    <li><hr class="dropdown-divider"></li>
+    <li><a class="dropdown-item" href="kategori_belanja.php">Pedoman Administrasi</a></li>
+    <li><a class="dropdown-item" href="pedoman_dinas.php">Pedoman Dinas</a></li>
+  </ul>
+</div>
+
+
   </div>
 </nav>

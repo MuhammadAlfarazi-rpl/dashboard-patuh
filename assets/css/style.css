@@ -66,6 +66,25 @@ body {
   z-index: 1050;
 }
 
+.dropdown-menu {
+  opacity: 0;
+  transform: scaleY(0.95);
+  transform-origin: top;
+  transition: all 0.25s ease;
+  display: block;  
+  visibility: hidden;
+  max-height: 0;
+  overflow: hidden;
+}
+
+.dropdown-menu.show {
+  opacity: 1;
+  transform: scaleY(1);
+  visibility: visible;
+  max-height: 500px;
+}
+
+
 .language-switch::before {
   content: "";
   position: absolute;
@@ -103,8 +122,6 @@ body {
     margin-top: 7rem !important;
 }
 
-/* PEDOMAN DINAS */
-/* Biar teks di link wrap ke bawah */
 .nav-pills .nav-link {
   white-space: normal;
   word-break: break-word;
@@ -115,12 +132,10 @@ body {
   padding-right: 0.75rem;
 }
 
-/*Sidebar tidak menyentuh konten dan tetap ada batas */
 .sidebar-border-end {
   border-right: 1px solid #dee2e6;
 }
 
-/*Sidebar tetap muat dan bisa scroll kalau terlalu tinggi */
 .sidebar-scroll {
   max-height: 100vh;
   overflow-y: auto;
@@ -157,7 +172,7 @@ body {
   position: absolute;
   bottom: 20px;
   right: 20px;
-  border: 3px solid #007bff;
+  border: 3px solid #278fff;
   border-radius: 10px;
   color: #000;
   padding: 10px 20px;
