@@ -202,3 +202,20 @@ body {
  .language-switch.dropdown-toggle::after {
   display: none !important; /* hilangkan arrow bawaan bootstrap */
 }
+
+/* list 1) dan a) */
+.angka {
+  list-style-type: decimal; 
+}
+
+  .angka li::marker {
+    content: counter(list-item) ") "; 
+  }
+
+.huruf {
+  list-style-type: lower-alpha; 
+}
+
+  .huruf li::marker {
+    content: counter(list-item, lower-alpha) ") "; 
+  }
