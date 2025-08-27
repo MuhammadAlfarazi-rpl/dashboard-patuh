@@ -5,21 +5,27 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-   .angka {
-            list-style-type: decimal; /* angka biasa */
-        }
-        .angka li::marker {
-            content: counter(list-item) ") "; /* kasih angka + ) */
-        }
-        .huruf {
-            list-style-type: lower-alpha; 
-        }
-        .huruf li::marker {
-            content: counter(list-item, lower-alpha) ") "; 
-        }
-        .justify-list li {
-          text-align: justify;
-        }
+    .angka {
+        list-style-type: decimal; 
+    }
+    .angka li::marker {
+        content: counter(list-item) ") "; 
+    }
+    .huruf {
+        list-style-type: lower-alpha; 
+    }
+    .huruf li::marker {
+        content: counter(list-item, lower-alpha) ") "; 
+    }
+    .justify-list li {
+        text-align: justify;
+    }
+    .nav-link:hover {
+        background-color: #e0e0e0;
+    }
+    .nav-link {
+        transition: background-color 0.8s ease;
+    }
 </style>
 </head>
 <body>
