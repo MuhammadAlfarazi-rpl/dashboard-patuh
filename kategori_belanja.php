@@ -20,6 +20,12 @@
         .justify-list li {
             text-align: justify;
         }
+        .nav-link:hover {
+            background-color: #e0e0e0;
+        }
+        .nav-link {
+            transition: background-color 0.8s ease;
+        }
     </style>
 </head>
 <body>
