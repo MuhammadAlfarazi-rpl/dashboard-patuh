@@ -108,6 +108,39 @@ if (btn) {
   });
 }
 
+// Agara biar bagian 2 ada animasi scroll
+document.addEventListener("DOMContentLoaded", () => {
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+
+        // animasi masuk (fade up)
+        anime({
+          targets: entry.target,
+          opacity: [0, 1],
+          translateY: [50, 0],
+          easing: "easeOutExpo",
+          duration: 1000
+        });
+      } else {
+
+        // animasi keluar (fade down)
+        anime({
+          targets: entry.target,
+          opacity: [1, 0],
+          translateY: [0, 50],
+          easing: "easeInExpo",
+          duration: 800
+        });
+      }
+    });
+  }, { threshold: 0.2 });
+
+  document.querySelectorAll(".content, .section-title").forEach((el) => {
+    el.style.opacity = 0; 
+    observer.observe(el);
+  });
+});
 </script>
 
 

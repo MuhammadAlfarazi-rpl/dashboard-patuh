@@ -1,7 +1,7 @@
 <?php include 'includes/header.php'; ?>
     <div class="container-xxl flex-grow-1 container-p-y bg-gradient">
         <div class="d-flex justify-content-center align-items-center vh-100 logo-wrapper">
-            <img id="logo" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Lambang_Badan_Pusat_Statistik_%28BPS%29_Indonesia.svg" class="img-fluid logo" style="width: 250px;">
+            <img id="logo" src="assets/img/bps.png" class="img-fluid logo" style="width: 250px;">
 
             <div id="title">
                 <div class="main-text fw-bold fst-italic">Info SPJ Kantor</div>
@@ -15,4 +15,35 @@
                 </button>
             </a>
     </div>
+
+    <!-- Bagisn Kedua -->
+    <div class="container py-5">
+        <div class="section-title text-center mb-5">
+            <h2 class="fw-bold">Tentang SPJ</h2>
+            <p class="text-muted">SPJ merupakan singkatan dari Surat Pertanggungjawaban</p>
+        </div>
+
+        <div class="row align-items-center content">
+            <div class="col-md-5 text-center">
+                <img src="assets/img/spj.png" alt="SPJ" class="center-icon">
+                <h4 class="mt-3">Apa Itu SPJ BPS?</h4>
+                <p class="mt-3 text-justify">
+                    SPJ merupakan singkatan dari Surat Pertanggungjawaban. Ini adalah dokumen resmi yang menyatakan pertanggungjawaban atas penggunaan dana atau pelaksanaan kegiatan, berupa bukti-bukti fisik seperti kuitansi, nota, tiket, dan lain-lain yang mendukung bahwa penggunaan dana sudah sesuai rencana.
+                </p>
+            </div>
+
+            <div class="col-md-7">
+                <p><em>Isi dari SPJ BPS bisa memiliki variasi tergantung kepada aturan dan regulasi daerah setempat. Namun, pada umumnya melibatkan aspek-aspek seperti :</em></p>
+                <ul>
+                    <li class="text-justify"><b>IDENTITAS DAN ADMINISTRASI :</b> Bagian ini berisi informasi dasar mengenai dokumen SPJ, seperti cover, nomor dan tanggal dokumen, nama kegiatan atau jenis belanja, periode waktu penggunaan dana, serta identitas pejabat atau bendahara yang bertanggung jawab. Identitas ini penting untuk memastikan dokumen bisa dilacak dan diverifikasi secara administratif.</li>
+                    <li class="text-justify"><b>RINCIAN KEUANGAN :</b> Aspek ini memuat catatan lengkap mengenai penerimaan dan pengeluaran dana. Di dalamnya tercantum jenis belanja yang dilakukan, jumlah anggaran yang tersedia, jumlah yang dipakai, serta sisa dana. Rincian tersebut biasanya disusun dalam tabel agar mudah dipahami dan diaudit.</li>
+                    <li class="text-justify"><b>BUKTI TRANSAKSI :</b> Semua pengeluaran dalam SPJ harus didukung bukti nyata. Dokumen yang dilampirkan dapat berupa kuitansi, nota, faktur, tiket perjalanan, invoice hotel, bukti transfer, hingga surat tugas atau berita acara. Bukti ini menjadi dasar utama bahwa dana benar-benar digunakan sesuai peruntukan.</li>
+                    <li class="text-justify"><b>LEGALITAS DAN TANGGUNG JAWAB :</b> Bagian ini menunjukkan bahwa SPJ sah secara hukum. Terdapat tanda tangan pejabat yang berwenang, seperti bendahara atau PPK, serta stempel instansi. Legalitas ini menegaskan bahwa semua transaksi dan laporan bisa dipertanggungjawabkan secara formal.</li>
+                </ul>
+            <p class="text-justify">
+            Dengan demikian, SPJ tidak hanya berfungsi sebagai laporan administrasi keuangan, tetapi juga sebagai bukti kepatuhan terhadap regulasi pemerintah dan instrumen yang siap diuji dalam audit internal maupun oleh BPK.
+            </p>
+        </div>
+    </div>
+</div>
 <?php include 'includes/footer.php'; ?>

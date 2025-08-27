@@ -215,5 +215,44 @@ body {
  }
 
  .language-switch.dropdown-toggle::after {
-  display: none !important; /* hilangkan arrow bawaan bootstrap */
+  display: none !important; 
+}
+
+    h2 {
+      font-weight: 600;
+      margin-bottom: 20px;
+    }
+    h4 {
+      font-weight: bold;
+    }
+    .section-title {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    .section-title h2 {
+      font-weight: 700;
+    }
+    .section-title p {
+      color: #666;
+      font-size: 15px;
+    }
+    .icon-img {
+      width: 120px;
+      margin-bottom: 15px;
+    }
+    .content {
+      margin-top: 40px;
+    }
+    .content ul li {
+      margin-bottom: 10px;
+    }
+    .text-justify {
+      text-align: justify;
+    }
+
+.center-icon {
+  display: block;            
+  margin: 0 auto 20px auto;  
+  width: 200px;              
+  height: auto;              
 }
