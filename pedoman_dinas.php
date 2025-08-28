@@ -94,8 +94,8 @@
             <div class="col-md-6">
               <div class="card shadow-sm border-0 rounded-3">
                 <div class="card-body text-center">
-                  <h5 class="card-title fw-bold">Pedoman Dinas</h5>
-                    <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Dinas.</p>
+                  <h5 class="card-title fw-bold">Pedoman Perjalanan Dinas</h5>
+                    <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Perjalanan Dinas.</p>
           
                       <!-- Tombol Buka PDF -->
                       <a href="https://drive.google.com/file/d/1TQV-eo9kS8YOuNVgO5oy6EAo4RxISvTM/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
