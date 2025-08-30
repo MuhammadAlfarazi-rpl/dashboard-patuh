@@ -77,34 +77,55 @@
                         <li>Akun yang Dapat Digunakan</li>
                         <p>Akun 521211 - Belanja Bahan.</p>
                         <li>Kelengkapan Tagihan Pembayaran</li>
-                        <ol type="1">
-                            <li>Kerangka Acuan Kerja (KAK);</li>
-                            <li>Form Permintaan (dari Penanggung Jawab Kegiatan kepada Pejabat Pembuat Komitmen (PPK));</li>
-                            <li>Undangan</li>
-                            <li>Daftar Hadir</li>
-                            <li>Notulen</li>
-                            <li>Komitmen dalam bentuk kontrak dapat berupa:</li>
-                            <ol type="a">
-                                <li>Bukti Pembelian/Pembayaran (nilai pengadaan paling banyak. Rp10.000.000,00 (sepuluh juta rupiah));</li>
-                                <li>Kuitansi (nilai pengadaan paling banyak Rp50,000,000,00 (lima puluh juta rupiah));</li>
-                                <li>Surat Perintah Kerja (nilai pengadaan bernilai di atas Rp50.000.000,00 (lima puluh juta rupiah sampai dengan Rp200.000.000,00 (dua ratus juta rupiah)));</li>
-                                <li>Surat Perjanjian (nilai pengadaan di atas Rp200.000.000,00 (dua ratus juta rupiah)); dan/atau</li>
-                                <li>Surat/Bukti Pesanan (jika menggunakan <i>E-Purchasing</i>);</li>
-                                <p>sesuai dengan ketentuan peraturan perundang-undangan mengenai pengadaan barang/jasa pemerintah;</p>
-                            </ol>
-                            <li>Bukti Prestasi Pekerjaan dapat berbentuk:</li>
-                            <ol type="a">
-                                <li>Berita Acara Penyelesaian Pekerjaan;</li>
-                                <li>Berita Acara Serah Terima Pekerjaan/Barang;</li>
-                                <li>Berita Acara Pembayaran;</li>
-                                <li>Berita Acara Kemajuan Pekerjaan; dan/atau</li>
-                                <li>Bukti Penyelesaian Pekerjaan lainnya.</li>
-                                <p>Bukti prestasi pekerjaan tersebut sesuai dengan ketentuan peraturan perundang-undangan mengenai pengadaan barang dan jasa pemerintah;</p>
-                            </ol>
-                            <li>Surat setoran pajak (SSP) PPh 22 sebesar 1,5% (jika membeli konsumsi di warung/toko) dan</li>
-                            <li>SSP PPh 23 sebesar 2% (jika membeli konsumsi melalui jasa boga atau katering).</li>
-                        </ol>
-                    </ol>
+                        <table cellpadding="6" cellspacing="0">
+                            <tbody>
+                                <tr>
+                                    <td>1.</td>
+                                    <td>Kerangka Acuan Kerja (KAK)</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>2.</td>
+                                    <td>Form Permintaan</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>3.</td>
+                                    <td>Undangan</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>4.</td>
+                                    <td>Daftar Hadir</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>5.</td>
+                                    <td>Notulen</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>6.</td>
+                                    <td>Komitmen dalam bentuk kontrak</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>7.</td>
+                                    <td>Bukti Prestasi Pekerjaan</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>8.</td>
+                                    <td>Surat Setoran Pajak (SSP) PPh 22 sebesar 1,5%</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>9.</td>
+                                    <td>SSP PPh 23 sebesar 2%</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                            </tbody>
+                        </table>
                     <div class="container my-4">
                         <div class="row">
                             <div class="col-md-6">
@@ -155,33 +176,50 @@
                         <li>Akun yang Dapat Digunakan</li>
                         <p>Pada umumnya akun yang dapat digunakan dalam belanja barang perlengkapan pakai habis pada Program Penyediaan dan Pelayanan Informasi Statistik (PPIS) untuk kegiatan Sensus dan Survei adalah akun belanja barang khususnya pada akun belanja bahan (521211).</p>
                         <li>Kelengkapan Tagihan Pembayaran</li>
-                        <ol type="1">
-                            <li>Kerangka Acuan Kerja (KAK);</li>
-                            <li>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK);</li>
-                            <li>Komitmen dalam bentuk kontrak dapat berupa:</li>
-                            <ol type="a">
-                                <li>Bukti Pembelian/Pembayaran (nilai pengadaan paling banyak Rp10.000.000,00 (sepuluh juta rupiah));</li>
-                                <li>Kuitansi (nilai pengadaan paling banyak Rp50.000.000,00 (lirna puluh juta rupiah));</li>
-                                <li>Surat Perintah Kerja (nilai pengadaan bernilai di atas Rp50.000.000,00 (lima puluh juta rupiah) sampai dengan Rp200.000.000,00 (dua ratus juta rupiah));</li>
-                                <li>Surat Perjanjian (nilai pengadaan di atas Rp200.000.000,00 (dua ratus juta rupiah)); dan/atau</li>
-                                <li>Surat/Bukti Pesanan (Jika menggunakan <i>E-Purchasing</i>);</li>
-                                <p>sesuai dengan ketentuan peraturan perundang-undangan mengenai pengadaan barang/jasa pemerintah;</p>
-                            </ol>
-                            <li>Daftar Alokasi (tanda terima barang diserahkan);</li>
-                            <li>Bukti Prestasi Pekerjaan dapat berbentuk:</li>
-                            <ol type="a">
-                                <li>Berita Acara Penyelesaian Pekerjaan;</li>
-                                <li>Berita Acara Serah Terima Pekerjaan/Barang;</li>
-                                <li>Berita Acara Pembayaran;</li>
-                                <li>Berita Acara Kemajuan Pekerjaan; dan/atau</li>
-                                <li>Bukti Penyelesaian Pekerjaan lainnya.</li>
-                                <p>Bukti prestasi pekerjaan tersebut sesuai dengan ketentuan peraturan perundang-undangan mengenai pengadaan barang dan jasa pemerintah;</p>
-                            </ol>
-                            <li>Faktur Pajak;</li>
-                            <li>SSP PPN sebesar 11% (dikenakan atas Pengusaha Kena Pajak (PK?), untuk transaksi diatas Rp2.000.000,00 (dua juta rupiah)); dan</li>
-                            <li>SSP PPh 22 sebesar 2% (dikenakan untuk transaksi di atas Rp2.000.000,00 (dua juta rupiah)).</li>
-                        </ol>
-                    </ol>
+                        <table cellpadding="6" cellspacing="0">
+                            <tbody>
+                                <tr>
+                                    <td>1.</td>
+                                    <td>Kerangka Acuan Kerja (KAK)</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>2.</td>
+                                    <td>Form Permintaan</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>3.</td>
+                                    <td>Komitmen dalam bentuk kontrak</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>4.</td>
+                                    <td>Daftar Alokasi</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>5.</td>
+                                    <td>Bukti Prestasi Pekerjaan</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>6.</td>
+                                    <td>Faktur Pajak</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>7.</td>
+                                    <td>SSP PPN sebesar 11%</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>8.</td>
+                                    <td>SSP PPh 22 sebesar 2%</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                            </tbody>
+                        </table>
                     <div class="container my-4">
                         <div class="row">
                             <div class="col-md-6">
@@ -229,32 +267,45 @@
                             <p>Menggunakan akun 521811 jika belanja ini menghasilkan persediaan berupa barang konsumsi.</p>
                         </ol>
                         <li>Kelengkapan Tagihan Pembayaran</li>
-                        <ol type="1">
-                            <li>Kerangka Acuan Kerja (KAK);</li>
-                            <li>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK);</li>
-                            <li>Komitmen dalam bentuk kontrak dapat berupa:</li>
-                            <ol type="a">
-                                <li>Bukti Pembelian/Pembayaran (nilai pengadaan paling banyak Rp10.000.000,00 (sepuluh juta rupiah));</li>
-                                <li>Kuitansi (nilai pengadaan paling banyak Rp50.000.000,00 (lima) puluh juta rupiah);</li>
-                                <li>Surat Perintah Kerja (nilai pengadaan bernilai di atas Rp50.000.000,00 (lima puluh juta rupiah) sampai dengan Rp200.000.000,00 (dua ratus juta rupiah));</li>
-                                <li>Surat Perjanjian (nilai pengadaan di atas Rp200.000.000,00 (dua ratus juta rupiah)); dan/atau</li>
-                                <li>Surat/Bukti Pesanan (jika menggunakan <i>E-Purchasing</i>);</li>
-                                <p>sesuai dengan ketentuan peraturan perundang-undangan mengenai pengadaan barang/jasa pemerintah;</p>
-                            </ol>
-                            <li>Bukti Prestasi Pekerjaan dapat berbentuk:</li>
-                            <ol type="a">
-                                <li>Berita Acara Penyelesaian Pekerjaan;</li>
-                                <li>Berita Acara Serah Terima Pekerjaan/Barang;</li>
-                                <li>Berita Acara Pembayaran;</li>
-                                <li>Berita Acara Kemajuan Pekerjaan, dan/atau</li>
-                                <li>Bukti Penyelesaian Pekerjaan lainnya.</li>
-                                <p>Bukti prestasi pekerjaan tersebut sesuai dengan ketentuan peraturan perundang-undangan mengenai pengadaan barang dan jasa pemerintah;</p>
-                            </ol>
-                            <li>Faktur pajak;</li>
-                            <li>SSP PPh sebesar 11% (dikenakan atas pengusaha kena pajak (PKP),untuk transaksi diatas Rp2.000.000,00 (dua juta rupiah)); dan</li>
-                            <li>SSP PPh 22 sebesar 1,5% (dikenakan untuk transaksi diatas Rp2.000.000,00 (dua juta rupiah)).</li>
-                        </ol>
-                    </ol>
+                        <table cellpadding="6" cellspacing="0">
+                            <tbody>
+                                <tr>
+                                    <td>1.</td>
+                                    <td>Kerangka Acuan Kerja (KAK)</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>2.</td>
+                                    <td>Form Permintaan</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>3.</td>
+                                    <td>Komitmen dalam bentuk kontrak</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>4.</td>
+                                    <td>Bukti Prestasi Pekerjaan</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>5.</td>
+                                    <td>Faktur Pajak</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>6.</td>
+                                    <td>SSP PPh sebesar 11%</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>7.</td>
+                                    <td>SSP PPh sebesar 1,5%</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                            </tbody>
+                        </table>
                     <div class="container my-4">
                         <div class="row">
                             <div class="col-md-6">
@@ -310,30 +361,45 @@
                         <li>Akun yang Dapat Digunakan</li>
                         <p>Akun 521811 - Belanja Persediaan Barang Konsumsi.</p>
                         <li>Kelengkapan Tagihan Pembayaran</li>
-                        <ol type="1">
-                            <li>Kerangka Acuan Kerja (KAK);</li>
-                            <li>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK);</li>
-                            <li>Komitmen dalam bentuk kontrak dapat berupa:</li>
-                            <ol type="a">
-                                <li>Bukti Pembelian/Pembayaran (nilai pengadaan paling banyak Rp10.000.000,00 (sepuluh juta rupiah));</li>
-                                <li>Kuitansi (nilai pengadaan paling banyak Rp50.000.000,00 (lima puluh juta rupiah));</li>
-                                <li>Surat Perintah Kerja (nilai pengadaan bernilai di atas Rp50.000.000,00 (lima puluh juta rupiah) sampai dengan Rp200.000.000,00 (dua ratus juta rupiah));</li>
-                                <li>Surat Perjanjian (nilai pengadaan di atas Rp200.000.000,00 (dua ratus juta rupiah)); dan/atau</li>
-                                <li>Surat/Bukti Pesanan (jika menggunakan <i>E-Purchasing</i>);</li>
-                                <p>sesuai dengan ketentuan peraturan perundang-undangan mengenai pengadaan barang/jasa pemerintah;</p>
-                            </ol>
-                            <li>Bukti Prestasi Pekerjaan dapat berbentuk:</li>
-                            <ol type="a">
-                                <li>Berita Acara Penyelesaian Pekerjaan;</li>
-                                <li>Berita Acara Serah Terima Pekerjaan/Barang; dan</li>
-                                <li>Berita Acara Pembayaran.</li>
-                                <p>Bukti prestasi pekerjaan tersebut sesuai dengan ketentuan peraturan perundang-undangan mengenai pengadaan barang dan jasa pemerintah;</p>
-                            </ol>
-                            <li>Faktur pajak;</li>
-                            <li>SSP PPN sebesar 11% (dikenakan atas Pengusaha Kena Pajak (PKP), untuk transaksi diatas Rp2.000.000,00 (dua juta rupiah)); dan</li>
-                            <li>SSP PPh 22 sebesar 1,5% (dikenakan untuk transaksi di atas Rp2.000.000,00 (dua juta rupiah)).</li>
-                        </ol>
-                    </ol>
+                        <table cellpadding="6" cellspacing="0">
+                            <tbody>
+                                <tr>
+                                    <td>1.</td>
+                                    <td>Kerangka Acuan Kerja (KAK)</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>2.</td>
+                                    <td>Form Permintaan</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>3.</td>
+                                    <td>Komitmen dalam bentuk kontrak</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>4.</td>
+                                    <td>Bukti Prestasi Pekerjaan</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>5.</td>
+                                    <td>Faktur Pajak</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>6.</td>
+                                    <td>SSP PPN sebesar 11%</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>7.</td>
+                                    <td>SSP PPh 22 sebesar 1,5%</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                            </tbody>
+                        </table>
                     <div class="container my-4">
                         <div class="row">
                             <div class="col-md-6">
@@ -384,54 +450,190 @@
                             <li>Kelengkapan Tagihan Pembayaran</li>
                             <ol type="a">
                                 <li>Kelengkapan pembayaran honor tim:</li>
-                                <ol class="angka">
-                                    <li>Kerangka Acuan Kerja (KAK);</li>
-                                    <li>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK);</li>
-                                    <li>SK KPA/SK KBPS yang mencakup tugas dan fungsi, besaran rate, dan kedudukan dalam Pokja;</li>
-                                    <li>Laporan tim/<i>output</i> pekerjaan;</li>
-                                    <li>Daftar rincian penerima honor <i>output</i> kegiatan/kuitansi perorang;</li>
-                                    <li>Rekapitulasi sesuai jabatan dalam keanggotaan Pokja; dan</li>
-                                    <li>SSP PPh Pasal 21.</li>
-                                </ol>
+                        <table cellpadding="6" cellspacing="0">
+                            <tbody>
+                                <tr>
+                                    <td>1)</td>
+                                    <td>Kerangka Acuan Kerja (KAK)</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>2)</td>
+                                    <td>Form Permintaan</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>3)</td>
+                                    <td>SK KPA/SK KBPS yang mencakup tugas dan fungsi, besaran rate, dan kedudukan dalam Pokja</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>4)</td>
+                                    <td>Laporan tim/<i>output</i> pekerjaan</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>5)</td>
+                                    <td>Daftar rincian penerima honor <i>output</i> kegiatan/kuitansi perorang</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>6)</td>
+                                    <td>Rekapitulasi sesuai jabatan dalam keanggotaan Pokja</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+			                    <tr>
+                                    <td>7)</td>
+                                    <td>SSP PPh Pasal 21</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                            </tbody>
+                        </table>
                                 <li>Kelengkapan pembayaran honor camat, kepala desa, dan penunjuk jalan:</li>
-                                <ol class="angka">
-                                    <li>Kerangka Acuan Kerja (KAK);</li>
-                                    <li>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK);</li>
-                                    <li>SK KPA;</li>
-                                    <li>Daftar rincian penerima honor atau kuitansi per orang, dan</li>
-                                    <li>SSP PPh Pasal 21.</li>
-                                </ol>
+                        <table cellpadding="6" cellspacing="0">
+                            <tbody>
+                                <tr>
+                                    <td>1)</td>
+                                    <td>Kerangka Acuan Kerja (KAK)</td>
+                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>2)</td>
+                                    <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
+                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>3)</td>
+                                    <td>SK KPA</td>
+                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>4)</td>
+                                    <td>Daftar rincian penerima honor atau kuitansi per orang</td>
+                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>5)</td>
+                                    <td>SSP PPh Pasal 21</td>
+                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                            </tbody>
+                        </table>
                                 <li>Kelengkapan pembayaran honor pengajar (Innas atau Inda):</li>
-                                <ol class="angka">
-                                    <li>Kerangka Acuan Kerja (KAK);</li>
-                                    <li>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK);</li>
-                                    <li>SK KPA;</li>
-                                    <li>Jadwal kegiatan (mengikuti jadwal pada pedoman penyelenggaraan pelatihan);</li>
-                                    <li>Daftar hadir (panitia, pengajar, dan peserta);</li>
-                                    <li>Rekapitulasi belanja honor;</li>
-                                    <li>Laporan pengajar (Innas atau Inda); dan</li>
-                                    <li>SSP PPh Pasal 21.</li>
-                                </ol>
+                        <table cellpadding="6" cellspacing="0">
+                            <tbody>
+                                <tr>
+                                    <td>1)</td>
+                                    <td>Kerangka Acuan Kerja (KAK)</td>
+                                    <td style="padding-left: 170px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>2)</td>
+                                    <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
+                                    <td style="padding-left: 170px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>3)</td>
+                                    <td>SK KPA</td>
+                                    <td style="padding-left: 170px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>4)</td>
+                                    <td>Jadwal kegiatan (mengikuti jadwal pada pedoman penyelenggaraan pelatihan)</td>
+                                    <td style="padding-left: 170px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>5)</td>
+                                    <td>Daftar hadir</td>
+                                    <td style="padding-left: 170px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>6)</td>
+                                    <td>Rekapitulasi belanja honor</td>
+                                    <td style="padding-left: 170px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>7)</td>
+                                    <td>Laporan pengajar (Innas atau Inda)</td>
+                                    <td style="padding-left: 170px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>8)</td>
+                                    <td>SSP PPh Pasal 21</td>
+                                    <td style="padding-left: 170px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                            </tbody>
+                        </table>    
                                 <li>Kelengkapan pembayaran honor petugas mitra (non PNS atau PNS non BPS):</li>
-                                <ol class="angka">
-                                    <li>Kerangka Acuan Kerja (KAK);</li>
-                                    <li>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK);</li>
-                                    <li>SK KPA;</li>
-                                    <li>Surat kontrak/surat perjanjian kerja;</li>
-                                    <li>Rekapitulasi belanja honor;</li>
-                                    <li>Bukti Prestasi Pekerjaan dalam bentuk Berita Acara Serah Terima Pekerjaan/Barang (BAST) sesuai dengan kontrak;   dan</li>
-                                    <li>SSP PPh Pasal 21.</li>
-                                </ol>
+                        <table cellpadding="6" cellspacing="0">
+                            <tbody>
+                                <tr>
+                                    <td>1)</td>
+                                    <td>Kerangka Acuan Kerja (KAK)</td>
+                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>2)</td>
+                                    <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
+                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>3)</td>
+                                    <td>SK KPA</td>
+                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>4)</td>
+                                    <td>Surat kontrak/surat perjanjian kerja</td>
+                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>5)</td>
+                                    <td>Rekapitulasi belanja honor</td>
+                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>6)</td>
+                                    <td>Bukti Prestasi Pekerjaan</td>
+                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>7)</td>
+                                    <td>SSP PPh Pasal 21</td>
+                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                            </tbody>
+                        </table>
                                 <li>Kelengkapan pembayaran honor petugas (PNS BPS):</li>
-                                <ol class="angka">
-                                    <li>Kerangka Acuan Kerja (KAK);</li>
-                                    <li>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK);</li>
-                                    <li>SK KPA tentang Honor Petugas;</li>
-                                    <li>Rekapitulasi belanja honor; dan</li>
-                                    <li>SSP PPh Pasal 21.</li>
-                                </ol>
-                            </ol>
-                        </ol>
+                        <table cellpadding="6" cellspacing="0">
+                            <tbody>
+                                <tr>
+                                    <td>1)</td>
+                                    <td>Kerangka Acuan Kerja (KAK)</td>
+                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>2)</td>
+                                    <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
+                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>3)</td>
+                                    <td>SK KPA tentang Honor Petugas</td>
+                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>4)</td>
+                                    <td>Rekapitulasi belanja honor</td>
+                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>7)</td>
+                                    <td>SSP PPh Pasal 21</td>
+                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                            </tbody>
+                        </table>
                         <br>
                         <li>Honor Terkait Jasa Profesi</li>
                         <ol type="1">
@@ -451,19 +653,66 @@
                             <li>Akun yang Dapat Digunakan</li>
                             <p>Akun 522151 - Belanja Jasa Profesi.</p>
                             <li>Kelengkapan Tagihan Pembayaran</li>
-                            <ol type="a">
-                                <li>Kerangka Acuan Kerja (KAK);</li>
-                                <li>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK);</li>
-                                <li>SK KPA tentang belanja jasa profesi yang berisi nama narasumber/moderator, golongan, dan rate;</li>
-                                <li>Undangan narasumber/moderator;</li>
-                                <li>Undangan peserta;</li>
-                                <li>Jadwal kegiatan sesuai panduan penyelenggaraan;</li>
-                                <li>Daftar hadir narasumber/moderator;</li>
-                                <li>Bahan paparan narasumber (moderator tidak perlu);</li>
-                                <li>Kuitansi;</li>
-                                <li>Salinan/fotokopi NPWP dan buku rekening; dan</li>
-                                <li>SSP PPh Pasal 21.</li>
-                            </ol>
+                            <li>Kelengkapan Tagihan Pembayaran</li>
+                        <table cellpadding="6" cellspacing="0">
+                            <tbody>
+                                <tr>
+                                    <td>a.</td>
+                                    <td>Kerangka Acuan Kerja (KAK)</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>b.</td>
+                                    <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>c.</td>
+                                    <td>SK KPA tentang belanja jasa profesi yang berisi nama narasumber/moderator, golongan, dan rate</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>d.</td>
+                                    <td>Undangan narasumber/moderator</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>e.</td>
+                                    <td>Undangan peserta</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>f.</td>
+                                    <td>Jadwal kegiatan sesuai panduan penyelenggaraan</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>g.</td>
+                                    <td>Daftar hadir narasumber/moderator</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>h.</td>
+                                    <td>Bahan paparan narasumber (moderator tidak perlu)</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>i.</td>
+                                    <td>Kuitansi</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>j.</td>
+                                    <td>Salinan/fotokopi NPWP dan buku rekening</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>k.</td>
+                                    <td>SSP PPh Pasal 21</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                            </tbody>
+                        </table>
                         </ol>
                     </ol>
                     <div class="container my-4">
@@ -550,20 +799,76 @@
                             <p>Akun 524111- Belanja Perjalanan Dinas Biasa.</p>
                             <li>Kelengkapan Tagihan Pembayaran</li>
                             <ol type="a">
-                                <li>Kerangka Acuan Kerja (KAK);</li>
-                                <li>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK);</li>
-                                <li>Surat tugas;</li>
-                                <li>Surat Perjalanan Dinas (SPD) dan Visum;</li>
-                                <li>Daftar Ongkos Perjalanan (DOP);</li>
-                                <li>Bukti transportasi (taxi bandara);</li>
-                                <li>Daftar Pengeluaran <i>riil</i> untuk transport yang tidak ada tanda bukti;</li>
-                                <li>Tiket/<i>boarding pass</i>;</li>
-                                <li>Bukti Penginapan atau Surat Pernyataan Tidak Menginap di Hotel (bila ada);</li>
-                                <li>Laporan Perjalanan Dinas dan Dokumentasi Kegiatan;</li>
-                                <li>Rincian Biaya Perjalanan Dinas Biasa (DOP);</li>
-                                <li>Pengeluaran <i>Riil</i> (jika ada biaya yang tidak ada tanda bukti); dan</li>
-                                <li>Kuitansi.</li>
-                            </ol>
+                                
+                        <table cellpadding="6" cellspacing="0">
+                            <tbody>
+                                <tr>
+                                    <td>a.</td>
+                                    <td>Kerangka Acuan Kerja (KAK)</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>b.</td>
+                                    <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>c.</td>
+                                    <td>Surat tugas</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>d.</td>
+                                    <td>Surat Perjalanan Dinas (SPD) dan Visum</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>e.</td>
+                                    <td>Daftar Ongkos Perjalanan (DOP)</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>f.</td>
+                                    <td>Bukti transportasi (taxi bandara)</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>g.</td>
+                                    <td>Daftar Pengeluaran <i>riil</i> untuk transport yang tidak ada tanda bukti</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>h.</td>
+                                    <td>Tiket/<i>boarding pass</i></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>i.</td>
+                                    <td>Bukti Penginapan atau Surat Pernyataan Tidak Menginap di Hotel (bila ada)</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>j.</td>
+                                    <td>Laporan Perjalanan Dinas dan Dokumentasi Kegiatan</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>k.</td>
+                                    <td>Rincian Biaya Perjalanan Dinas Biasa (DOP)</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>l.</td>
+                                    <td>Pengeluaran <i>Riil</i> (jika ada biaya yang tidak ada tanda bukti)</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>m.</td>
+                                    <td>Kuitansi</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                            </tbody>
+                        </table>
                         </ol>
                         <li>Belanja Perjalanan Dinas Dalam Kota Kurang Dari 8 (delapan) Jam</li>
                         <ol type="1">
@@ -582,16 +887,51 @@
                             <li>Akun yang Dapat Digunakan</li>
                             <p>Akun 524113 - Belanja Perjalanan Dinas Dalam Kota.</p>
                             <li>Kelengkapan Tagihan Pembayaran</li>
-                            <ol type="a">
-                                <li>Kerangka Acuan Kerja (KAK);</li>
-                                <li>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK);</li>
-                                <li>Surat Tugas;</li>
-                                <li>Kwitansi Transport;</li>
-                                <li>Daftar Pengeluaran <i>riil</i> untuk transport yang tidak ada tanda bukti;</li>
-                                <li>Bukti Visum;</li>
-                                <li>Surat pernyataan tidak menggunakan kendaraan dinas; dan</li>
-                                <li>Laporan Perjalanan Dinas dan dokumentasi kegiatan.</li>
-                            </ol>
+                            
+                        <table cellpadding="6" cellspacing="0">
+                            <tbody>
+                                <tr>
+                                    <td>a.</td>
+                                    <td>Kerangka Acuan Kerja (KAK)</td>
+                                    <td style="padding-left: 150px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>b.</td>
+                                    <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
+                                    <td style="padding-left: 150px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>c.</td>
+                                    <td>Surat tugas</td>
+                                    <td style="padding-left: 150px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>d.</td>
+                                    <td>Kwitansi Transport</td>
+                                    <td style="padding-left: 150px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>e.</td>
+                                    <td>Daftar Pengeluaran <i>riil</i> untuk transport yang tidak ada tanda bukti</td>
+                                    <td style="padding-left: 150px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>f.</td>
+                                    <td>Bukti Visum</td>
+                                    <td style="padding-left: 150px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>g.</td>
+                                    <td>Surat pernyataan tidak menggunakan kendaraan dinas</td>
+                                    <td style="padding-left: 150px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>h.</td>
+                                    <td>Laporan Perjalanan Dinas dan dokumentasi kegiatan</td>
+                                    <td style="padding-left: 150px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                            </tbody>
+                        </table>
                         </ol>
                         <li>Belanja Perjalanan Dinas Dalam Kota Lebih Dari 8 (delapan) Jam</li>
                         <ol type="1">
@@ -612,19 +952,65 @@
                             <li>Akun yang Dapat Digunakan</li>
                             <p>Akun 524113- Belanja Perjalanan Dinas Dalam Kota.</p>
                             <li>Kelengkapan Tagihan Pembayaran</li>
-                            <ol type="a">
-                                <li>Kerangka Acuan Kerja (KAK);</li>
-                                <li>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK);</li>
-                                <li>Surat Tugas;</li>
-                                <li>Surat Perjalanan Dinas (SPD) dan Visum;</li>
-                                <li>Kuitansi transport;</li>
-                                <li>Daftar Pengeluaran <i>riil</i> untuk transport yang tidak ada tanda bukti;</li>
-                                <li>Daftar Ongkos Perjalanan (DOP);</li>
-                                <li>Jadwal Kegiatan;</li>
-                                <li>Bukti Visum;</li>
-                                <li>Surat pernyataan tidak menggunakan kendaraan dinas; dan</li>
-                                <li>Laporan Perjalanan Dinas dan Dokumentasi Kegiatan.</li>
-                            </ol>
+                        <table cellpadding="6" cellspacing="0">
+                            <tbody>
+                                <tr>
+                                    <td>a.</td>
+                                    <td>Kerangka Acuan Kerja (KAK)</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>b.</td>
+                                    <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>c.</td>
+                                    <td>Surat Tugas</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>d.</td>
+                                    <td>Surat Perjalanan Dinas (SPD) dan Visum</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>e.</td>
+                                    <td>Kuitansi transport</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                    <tr>
+                                    <td>f.</td>
+                                    <td>Daftar Pengeluaran <i>riil</i> untuk transport yang tidak ada tanda bukti</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>g.</td>
+                                    <td>Daftar Ongkos Perjalanan (DOP)</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>h.</td>
+                                    <td>Jadwal Kegiatan</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>i.</td>
+                                    <td>Bukti Visum</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>j.</td>
+                                    <td>Surat pernyataan tidak menggunakan kendaraan dinas</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                                <tr>
+                                    <td>k.</td>
+                                    <td>Laporan Perjalanan Dinas dan Dokumentasi Kegiatan</td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                </tr>
+                            </tbody>
+                        </table>
                         </ol>
                     </ol>
                     <div class="container my-4">
