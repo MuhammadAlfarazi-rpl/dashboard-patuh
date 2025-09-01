@@ -78,8 +78,8 @@ anime.timeline()
       .add({
         targets: '#title',
         opacity: [0, 1],
-        translateY: [10, -25],
-        translateX: 100,
+        translateY: [10, -30],
+        translateX: 110,
         easing: 'easeOutExpo',
         duration: 2000
       });
