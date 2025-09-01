@@ -260,3 +260,11 @@ body {
 .arrow {
   width: 100px;
 }
+
+.icon_footer {
+  transition: all ease-in-out 0.2s;
+}
+
+.icon_footer:hover {
+  transform: scale(1.2);
+}

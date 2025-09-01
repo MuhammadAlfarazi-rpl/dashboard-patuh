@@ -20,10 +20,10 @@
       </div>
       <div class="col-md-3 text-md-end text-center">
         <div class="d-flex gap-3 justify-content-md-end justify-content-center" >
-          <a href="https://web.facebook.com/bpskepri/?_rdc=1&_rdr#"><i class="bx bxl-facebook text-dark fs-2"></i></a>
-          <a href="https://www.instagram.com/bpskepri?igsh=cDhta2YzbDF2Z2E1"><i class="bx bxl-instagram text-dark fs-2"></i></a>
-          <a href="https://youtube.com/@bpsprovkepri?si=LT-6OTt4zt70ukgN"><i class="bx bxl-youtube text-dark fs-2"></i></a>
-          <a href="https://kepri.bps.go.id/id"><i class="bx bx-globe text-dark fs-2"></i> </a>
+          <a href="https://web.facebook.com/bpskepri/?_rdc=1&_rdr#"><i class="bx bxl-facebook text-dark fs-2 icon_footer"></i></a>
+          <a href="https://www.instagram.com/bpskepri?igsh=cDhta2YzbDF2Z2E1"><i class="bx bxl-instagram text-dark fs-2 icon_footer"></i></a>
+          <a href="https://youtube.com/@bpsprovkepri?si=LT-6OTt4zt70ukgN"><i class="bx bxl-youtube text-dark fs-2 icon_footer"></i></a>
+          <a href="https://kepri.bps.go.id/id"><i class="bx bx-globe text-dark fs-2 icon_footer"></i> </a>
         </div>
       </div>
     </div>
