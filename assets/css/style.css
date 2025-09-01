@@ -1,3 +1,4 @@
+/* Pengaturan Font DmSans */
 @font-face {
   font-family: 'DM Sans';
   src: url('../fonts/DMSans-Regular.ttf') format('truetype');
@@ -12,6 +13,7 @@
   font-style: normal;
 }
 
+/* Body dan Background */
 body { 
   margin: 0;
   height: 100vh;
@@ -27,7 +29,7 @@ body {
   image-rendering: crisp-edges;
 }
 
-
+/* Navbar Style */
 .navbar {
     position: fixed;
     top: 0;
@@ -40,6 +42,7 @@ body {
     box-shadow: 0 2px 5px rgba(0,0,0,0.1); 
 }
 
+/* Underline Style (dengan JS)*/
 .underline-indicator {
   position: absolute;
   bottom: 0;
@@ -52,6 +55,7 @@ body {
   z-index: 1;
 }
 
+/* Pedoman Dinas button background gradient*/
 .language-switch {
   display: flex;                 
   justify-content: center;       
@@ -65,25 +69,6 @@ body {
   position: relative;
   z-index: 1050;
 }
-
-.dropdown-menu {
-  opacity: 0;
-  transform: scaleY(0.95);
-  transform-origin: top;
-  transition: all 0.25s ease;
-  display: block;  
-  visibility: hidden;
-  max-height: 0;
-  overflow: hidden;
-}
-
-.dropdown-menu.show {
-  opacity: 1;
-  transform: scaleY(1);
-  visibility: visible;
-  max-height: 500px;
-}
-
 
 .language-switch::before {
   content: "";
@@ -114,8 +99,23 @@ body {
   }
 }
 
-.darkmode-toggle i {
-  font-size: 20x;
+/* Dropdown untuk pilihan pedoman */
+.dropdown-menu {
+  opacity: 0;
+  transform: scaleY(0.95);
+  transform-origin: top;
+  transition: all 0.25s ease;
+  display: block;  
+  visibility: hidden;
+  max-height: 0;
+  overflow: hidden;
+}
+
+.dropdown-menu.show {
+  opacity: 1;
+  transform: scaleY(1);
+  visibility: visible;
+  max-height: 500px;
 }
 
 .main-content {

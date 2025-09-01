@@ -114,7 +114,6 @@
                                         <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Konsumsi Rapat.</p>
           
                                         <!-- Tombol Buka PDF -->
-                                        <a href="https://drive.google.com/file/d/1HBYHNqqS9zYXD4QV07u_TWig1d24X63w/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
                                         📄 Buka PDF
                                         </a>
           
