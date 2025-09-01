@@ -82,47 +82,47 @@
                                 <tr>
                                     <td>1.</td>
                                     <td>Kerangka Acuan Kerja (KAK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>2.</td>
                                     <td>Form Permintaan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>3.</td>
                                     <td>Undangan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>4.</td>
                                     <td>Daftar Hadir</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>5.</td>
                                     <td>Notulen</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>6.</td>
                                     <td>Komitmen dalam bentuk kontrak</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>7.</td>
                                     <td>Bukti Prestasi Pekerjaan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>8.</td>
                                     <td>Surat Setoran Pajak (SSP) PPh 22 sebesar 1,5%</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>9.</td>
                                     <td>SSP PPh 23 sebesar 2%</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -180,42 +180,42 @@
                                 <tr>
                                     <td>1.</td>
                                     <td>Kerangka Acuan Kerja (KAK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>2.</td>
                                     <td>Form Permintaan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>3.</td>
                                     <td>Komitmen dalam bentuk kontrak</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>4.</td>
                                     <td>Daftar Alokasi</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>5.</td>
                                     <td>Bukti Prestasi Pekerjaan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>6.</td>
                                     <td>Faktur Pajak</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>7.</td>
                                     <td>SSP PPN sebesar 11%</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>8.</td>
                                     <td>SSP PPh 22 sebesar 2%</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -271,37 +271,37 @@
                                 <tr>
                                     <td>1.</td>
                                     <td>Kerangka Acuan Kerja (KAK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>2.</td>
                                     <td>Form Permintaan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>3.</td>
                                     <td>Komitmen dalam bentuk kontrak</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>4.</td>
                                     <td>Bukti Prestasi Pekerjaan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>5.</td>
                                     <td>Faktur Pajak</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>6.</td>
                                     <td>SSP PPh sebesar 11%</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>7.</td>
                                     <td>SSP PPh sebesar 1,5%</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -365,37 +365,37 @@
                                 <tr>
                                     <td>1.</td>
                                     <td>Kerangka Acuan Kerja (KAK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>2.</td>
                                     <td>Form Permintaan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>3.</td>
                                     <td>Komitmen dalam bentuk kontrak</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>4.</td>
                                     <td>Bukti Prestasi Pekerjaan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>5.</td>
                                     <td>Faktur Pajak</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>6.</td>
                                     <td>SSP PPN sebesar 11%</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>7.</td>
                                     <td>SSP PPh 22 sebesar 1,5%</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -449,191 +449,191 @@
                             <li>Kelengkapan Tagihan Pembayaran</li>
                             <ol type="a">
                                 <li>Kelengkapan pembayaran honor tim:</li>
-                        <table cellpadding="6" cellspacing="0">
-                            <tbody>
-                                <tr>
-                                    <td>1)</td>
-                                    <td>Kerangka Acuan Kerja (KAK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>2)</td>
-                                    <td>Form Permintaan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>3)</td>
-                                    <td>SK KPA/SK KBPS yang mencakup tugas dan fungsi, besaran rate, dan kedudukan dalam Pokja</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>4)</td>
-                                    <td>Laporan tim/<i>output</i> pekerjaan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>5)</td>
-                                    <td>Daftar rincian penerima honor <i>output</i> kegiatan/kuitansi perorang</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>6)</td>
-                                    <td>Rekapitulasi sesuai jabatan dalam keanggotaan Pokja</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-			                    <tr>
-                                    <td>7)</td>
-                                    <td>SSP PPh Pasal 21</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                            </tbody>
-                        </table>
+                                <table cellpadding="6" cellspacing="0">
+                                    <tbody>
+                                        <tr>
+                                            <td>1)</td>
+                                            <td>Kerangka Acuan Kerja (KAK)</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>2)</td>
+                                            <td>Form Permintaan</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>3)</td>
+                                            <td>SK KPA/SK KBPS yang mencakup tugas dan fungsi, besaran rate, dan kedudukan dalam Pokja</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>4)</td>
+                                            <td>Laporan tim/<i>output</i> pekerjaan</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>5)</td>
+                                            <td>Daftar rincian penerima honor <i>output</i> kegiatan/kuitansi perorang</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>6)</td>
+                                            <td>Rekapitulasi sesuai jabatan dalam keanggotaan Pokja</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+			                            <tr>
+                                            <td>7)</td>
+                                            <td>SSP PPh Pasal 21</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
                                 <li>Kelengkapan pembayaran honor camat, kepala desa, dan penunjuk jalan:</li>
-                        <table cellpadding="6" cellspacing="0">
-                            <tbody>
-                                <tr>
-                                    <td>1)</td>
-                                    <td>Kerangka Acuan Kerja (KAK)</td>
-                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>2)</td>
-                                    <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
-                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>3)</td>
-                                    <td>SK KPA</td>
-                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>4)</td>
-                                    <td>Daftar rincian penerima honor atau kuitansi per orang</td>
-                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>5)</td>
-                                    <td>SSP PPh Pasal 21</td>
-                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                            </tbody>
-                        </table>
+                                <table cellpadding="6" cellspacing="0">
+                                    <tbody>
+                                        <tr>
+                                            <td>1)</td>
+                                            <td>Kerangka Acuan Kerja (KAK)</td>
+                                            <td style="padding-left: 270px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>2)</td>
+                                            <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
+                                            <td style="padding-left: 270px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>3)</td>
+                                            <td>SK KPA</td>
+                                            <td style="padding-left: 270px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>4)</td>
+                                            <td>Daftar rincian penerima honor atau kuitansi per orang</td>
+                                            <td style="padding-left: 270px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>5)</td>
+                                            <td>SSP PPh Pasal 21</td>
+                                            <td style="padding-left: 270px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
                                 <li>Kelengkapan pembayaran honor pengajar (Innas atau Inda):</li>
-                        <table cellpadding="6" cellspacing="0">
-                            <tbody>
-                                <tr>
-                                    <td>1)</td>
-                                    <td>Kerangka Acuan Kerja (KAK)</td>
-                                    <td style="padding-left: 170px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>2)</td>
-                                    <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
-                                    <td style="padding-left: 170px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>3)</td>
-                                    <td>SK KPA</td>
-                                    <td style="padding-left: 170px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>4)</td>
-                                    <td>Jadwal kegiatan (mengikuti jadwal pada pedoman penyelenggaraan pelatihan)</td>
-                                    <td style="padding-left: 170px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>5)</td>
-                                    <td>Daftar hadir</td>
-                                    <td style="padding-left: 170px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>6)</td>
-                                    <td>Rekapitulasi belanja honor</td>
-                                    <td style="padding-left: 170px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>7)</td>
-                                    <td>Laporan pengajar (Innas atau Inda)</td>
-                                    <td style="padding-left: 170px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>8)</td>
-                                    <td>SSP PPh Pasal 21</td>
-                                    <td style="padding-left: 170px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                            </tbody>
-                        </table>    
+                                <table cellpadding="6" cellspacing="0">
+                                    <tbody>
+                                        <tr>
+                                            <td>1)</td>
+                                            <td>Kerangka Acuan Kerja (KAK)</td>
+                                            <td style="padding-left: 170px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>2)</td>
+                                            <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
+                                            <td style="padding-left: 170px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>3)</td>
+                                            <td>SK KPA</td>
+                                            <td style="padding-left: 170px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>4)</td>
+                                            <td>Jadwal kegiatan (mengikuti jadwal pada pedoman penyelenggaraan pelatihan)</td>
+                                            <td style="padding-left: 170px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>5)</td>
+                                            <td>Daftar hadir</td>
+                                            <td style="padding-left: 170px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>6)</td>
+                                            <td>Rekapitulasi belanja honor</td>
+                                            <td style="padding-left: 170px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>7)</td>
+                                            <td>Laporan pengajar (Innas atau Inda)</td>
+                                            <td style="padding-left: 170px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>8)</td>
+                                            <td>SSP PPh Pasal 21</td>
+                                            <td style="padding-left: 170px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>    
                                 <li>Kelengkapan pembayaran honor petugas mitra (non PNS atau PNS non BPS):</li>
-                        <table cellpadding="6" cellspacing="0">
-                            <tbody>
-                                <tr>
-                                    <td>1)</td>
-                                    <td>Kerangka Acuan Kerja (KAK)</td>
-                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>2)</td>
-                                    <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
-                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>3)</td>
-                                    <td>SK KPA</td>
-                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>4)</td>
-                                    <td>Surat kontrak/surat perjanjian kerja</td>
-                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>5)</td>
-                                    <td>Rekapitulasi belanja honor</td>
-                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>6)</td>
-                                    <td>Bukti Prestasi Pekerjaan</td>
-                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>7)</td>
-                                    <td>SSP PPh Pasal 21</td>
-                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                            </tbody>
-                        </table>
+                                <table cellpadding="6" cellspacing="0">
+                                    <tbody>
+                                        <tr>
+                                            <td>1)</td>
+                                            <td>Kerangka Acuan Kerja (KAK)</td>
+                                            <td style="padding-left: 270px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>2)</td>
+                                            <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
+                                            <td style="padding-left: 270px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>3)</td>
+                                            <td>SK KPA</td>
+                                            <td style="padding-left: 270px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>4)</td>
+                                            <td>Surat kontrak/surat perjanjian kerja</td>
+                                            <td style="padding-left: 270px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>5)</td>
+                                            <td>Rekapitulasi belanja honor</td>
+                                            <td style="padding-left: 270px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>6)</td>
+                                            <td>Bukti Prestasi Pekerjaan</td>
+                                            <td style="padding-left: 270px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>7)</td>
+                                            <td>SSP PPh Pasal 21</td>
+                                            <td style="padding-left: 270px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
                                 <li>Kelengkapan pembayaran honor petugas (PNS BPS):</li>
-                        <table cellpadding="6" cellspacing="0">
-                            <tbody>
-                                <tr>
-                                    <td>1)</td>
-                                    <td>Kerangka Acuan Kerja (KAK)</td>
-                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>2)</td>
-                                    <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
-                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>3)</td>
-                                    <td>SK KPA tentang Honor Petugas</td>
-                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>4)</td>
-                                    <td>Rekapitulasi belanja honor</td>
-                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>7)</td>
-                                    <td>SSP PPh Pasal 21</td>
-                                    <td style="padding-left: 270px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                            </tbody>
-                        </table>
-                        <br>
+                                <table cellpadding="6" cellspacing="0">
+                                    <tbody>
+                                        <tr>
+                                            <td>1)</td>
+                                            <td>Kerangka Acuan Kerja (KAK)</td>
+                                            <td style="padding-left: 270px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>2)</td>
+                                            <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
+                                            <td style="padding-left: 270px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>3)</td>
+                                            <td>SK KPA tentang Honor Petugas</td>
+                                            <td style="padding-left: 270px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>4)</td>
+                                            <td>Rekapitulasi belanja honor</td>
+                                            <td style="padding-left: 270px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>7)</td>
+                                            <td>SSP PPh Pasal 21</td>
+                                            <td style="padding-left: 270px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            <br>
                         <li>Honor Terkait Jasa Profesi</li>
                         <ol type="1">
                             <li>Pengertian</li>
@@ -652,66 +652,65 @@
                             <li>Akun yang Dapat Digunakan</li>
                             <p>Akun 522151 - Belanja Jasa Profesi.</p>
                             <li>Kelengkapan Tagihan Pembayaran</li>
-                            <li>Kelengkapan Tagihan Pembayaran</li>
-                        <table cellpadding="6" cellspacing="0">
-                            <tbody>
-                                <tr>
-                                    <td>a.</td>
-                                    <td>Kerangka Acuan Kerja (KAK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>b.</td>
-                                    <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>c.</td>
-                                    <td>SK KPA tentang belanja jasa profesi yang berisi nama narasumber/moderator, golongan, dan rate</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>d.</td>
-                                    <td>Undangan narasumber/moderator</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>e.</td>
-                                    <td>Undangan peserta</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>f.</td>
-                                    <td>Jadwal kegiatan sesuai panduan penyelenggaraan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>g.</td>
-                                    <td>Daftar hadir narasumber/moderator</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>h.</td>
-                                    <td>Bahan paparan narasumber (moderator tidak perlu)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>i.</td>
-                                    <td>Kuitansi</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>j.</td>
-                                    <td>Salinan/fotokopi NPWP dan buku rekening</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>k.</td>
-                                    <td>SSP PPh Pasal 21</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                            </tbody>
-                        </table>
+                            <table cellpadding="6" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <td>a.</td>
+                                        <td>Kerangka Acuan Kerja (KAK)</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>b.</td>
+                                        <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>c.</td>
+                                        <td>SK KPA tentang belanja jasa profesi yang berisi nama narasumber/moderator, golongan, dan rate</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>d.</td>
+                                        <td>Undangan narasumber/moderator</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>e.</td>
+                                        <td>Undangan peserta</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>f.</td>
+                                        <td>Jadwal kegiatan sesuai panduan penyelenggaraan</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>g.</td>
+                                        <td>Daftar hadir narasumber/moderator</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>h.</td>
+                                        <td>Bahan paparan narasumber (moderator tidak perlu)</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>i.</td>
+                                        <td>Kuitansi</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>j.</td>
+                                        <td>Salinan/fotokopi NPWP dan buku rekening</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>k.</td>
+                                        <td>SSP PPh Pasal 21</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                </tbody>
+                            </table>
                         </ol>
                     </ol>
                     <div class="container my-4">
@@ -797,77 +796,75 @@
                             <li>Akun yang Dapat Digunakan</li>
                             <p>Akun 524111- Belanja Perjalanan Dinas Biasa.</p>
                             <li>Kelengkapan Tagihan Pembayaran</li>
-                            <ol type="a">
-                                
-                        <table cellpadding="6" cellspacing="0">
-                            <tbody>
-                                <tr>
-                                    <td>a.</td>
-                                    <td>Kerangka Acuan Kerja (KAK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>b.</td>
-                                    <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>c.</td>
-                                    <td>Surat tugas</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>d.</td>
-                                    <td>Surat Perjalanan Dinas (SPD) dan Visum</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>e.</td>
-                                    <td>Daftar Ongkos Perjalanan (DOP)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>f.</td>
-                                    <td>Bukti transportasi (taxi bandara)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>g.</td>
-                                    <td>Daftar Pengeluaran <i>riil</i> untuk transport yang tidak ada tanda bukti</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>h.</td>
-                                    <td>Tiket/<i>boarding pass</i></td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>i.</td>
-                                    <td>Bukti Penginapan atau Surat Pernyataan Tidak Menginap di Hotel (bila ada)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>j.</td>
-                                    <td>Laporan Perjalanan Dinas dan Dokumentasi Kegiatan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>k.</td>
-                                    <td>Rincian Biaya Perjalanan Dinas Biasa (DOP)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>l.</td>
-                                    <td>Pengeluaran <i>Riil</i> (jika ada biaya yang tidak ada tanda bukti)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>m.</td>
-                                    <td>Kuitansi</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                            </tbody>
-                        </table>
+                            <table cellpadding="6" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <td>a.</td>
+                                        <td>Kerangka Acuan Kerja (KAK)</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>b.</td>
+                                        <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>c.</td>
+                                        <td>Surat tugas</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>d.</td>
+                                        <td>Surat Perjalanan Dinas (SPD) dan Visum</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>e.</td>
+                                        <td>Daftar Ongkos Perjalanan (DOP)</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>f.</td>
+                                        <td>Bukti transportasi (taxi bandara)</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>g.</td>
+                                        <td>Daftar Pengeluaran <i>riil</i> untuk transport yang tidak ada tanda bukti</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>h.</td>
+                                        <td>Tiket/<i>boarding pass</i></td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>i.</td>
+                                        <td>Bukti Penginapan atau Surat Pernyataan Tidak Menginap di Hotel (bila ada)</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>j.</td>
+                                        <td>Laporan Perjalanan Dinas dan Dokumentasi Kegiatan</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>k.</td>
+                                        <td>Rincian Biaya Perjalanan Dinas Biasa (DOP)</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>l.</td>
+                                        <td>Pengeluaran <i>Riil</i> (jika ada biaya yang tidak ada tanda bukti)</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>m.</td>
+                                        <td>Kuitansi</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                </tbody>
+                            </table>
                         </ol>
                         <li>Belanja Perjalanan Dinas Dalam Kota Kurang Dari 8 (delapan) Jam</li>
                         <ol type="1">
@@ -886,51 +883,50 @@
                             <li>Akun yang Dapat Digunakan</li>
                             <p>Akun 524113 - Belanja Perjalanan Dinas Dalam Kota.</p>
                             <li>Kelengkapan Tagihan Pembayaran</li>
-                            
-                        <table cellpadding="6" cellspacing="0">
-                            <tbody>
-                                <tr>
-                                    <td>a.</td>
-                                    <td>Kerangka Acuan Kerja (KAK)</td>
-                                    <td style="padding-left: 150px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>b.</td>
-                                    <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
-                                    <td style="padding-left: 150px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>c.</td>
-                                    <td>Surat tugas</td>
-                                    <td style="padding-left: 150px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>d.</td>
-                                    <td>Kwitansi Transport</td>
-                                    <td style="padding-left: 150px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>e.</td>
-                                    <td>Daftar Pengeluaran <i>riil</i> untuk transport yang tidak ada tanda bukti</td>
-                                    <td style="padding-left: 150px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>f.</td>
-                                    <td>Bukti Visum</td>
-                                    <td style="padding-left: 150px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>g.</td>
-                                    <td>Surat pernyataan tidak menggunakan kendaraan dinas</td>
-                                    <td style="padding-left: 150px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>h.</td>
-                                    <td>Laporan Perjalanan Dinas dan dokumentasi kegiatan</td>
-                                    <td style="padding-left: 150px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                            </tbody>
-                        </table>
+                            <table cellpadding="6" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <td>a.</td>
+                                        <td>Kerangka Acuan Kerja (KAK)</td>
+                                        <td style="padding-left: 150px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>b.</td>
+                                        <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
+                                        <td style="padding-left: 150px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>c.</td>
+                                        <td>Surat tugas</td>
+                                        <td style="padding-left: 150px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>d.</td>
+                                        <td>Kwitansi Transport</td>
+                                        <td style="padding-left: 150px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>e.</td>
+                                        <td>Daftar Pengeluaran <i>riil</i> untuk transport yang tidak ada tanda bukti</td>
+                                        <td style="padding-left: 150px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>f.</td>
+                                        <td>Bukti Visum</td>
+                                        <td style="padding-left: 150px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>g.</td>
+                                        <td>Surat pernyataan tidak menggunakan kendaraan dinas</td>
+                                        <td style="padding-left: 150px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>h.</td>
+                                        <td>Laporan Perjalanan Dinas dan dokumentasi kegiatan</td>
+                                        <td style="padding-left: 150px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                </tbody>
+                            </table>
                         </ol>
                         <li>Belanja Perjalanan Dinas Dalam Kota Lebih Dari 8 (delapan) Jam</li>
                         <ol type="1">
@@ -951,65 +947,65 @@
                             <li>Akun yang Dapat Digunakan</li>
                             <p>Akun 524113- Belanja Perjalanan Dinas Dalam Kota.</p>
                             <li>Kelengkapan Tagihan Pembayaran</li>
-                        <table cellpadding="6" cellspacing="0">
-                            <tbody>
-                                <tr>
-                                    <td>a.</td>
-                                    <td>Kerangka Acuan Kerja (KAK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>b.</td>
-                                    <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>c.</td>
-                                    <td>Surat Tugas</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>d.</td>
-                                    <td>Surat Perjalanan Dinas (SPD) dan Visum</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>e.</td>
-                                    <td>Kuitansi transport</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
+                            <table cellpadding="6" cellspacing="0">
+                                <tbody>
                                     <tr>
-                                    <td>f.</td>
-                                    <td>Daftar Pengeluaran <i>riil</i> untuk transport yang tidak ada tanda bukti</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>g.</td>
-                                    <td>Daftar Ongkos Perjalanan (DOP)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>h.</td>
-                                    <td>Jadwal Kegiatan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>i.</td>
-                                    <td>Bukti Visum</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>j.</td>
-                                    <td>Surat pernyataan tidak menggunakan kendaraan dinas</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>k.</td>
-                                    <td>Laporan Perjalanan Dinas dan Dokumentasi Kegiatan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                            </tbody>
-                        </table>
+                                        <td>a.</td>
+                                        <td>Kerangka Acuan Kerja (KAK)</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>b.</td>
+                                        <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>c.</td>
+                                        <td>Surat Tugas</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>d.</td>
+                                        <td>Surat Perjalanan Dinas (SPD) dan Visum</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>e.</td>
+                                        <td>Kuitansi transport</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>f.</td>
+                                        <td>Daftar Pengeluaran <i>riil</i> untuk transport yang tidak ada tanda bukti</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>g.</td>
+                                        <td>Daftar Ongkos Perjalanan (DOP)</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>h.</td>
+                                        <td>Jadwal Kegiatan</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>i.</td>
+                                        <td>Bukti Visum</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>j.</td>
+                                        <td>Surat pernyataan tidak menggunakan kendaraan dinas</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>k.</td>
+                                        <td>Laporan Perjalanan Dinas dan Dokumentasi Kegiatan</td>
+                                        <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    </tr>
+                                </tbody>
+                            </table>
                         </ol>
                     </ol>
                     <div class="container my-4">
@@ -1084,140 +1080,140 @@
                             <li>Kelengkapan Tagihan Pembayaran</li>
                             <ol type="a">
                                 <li>Kelengkapan tagihan pembayaran perjalanan dalam rangka paket <i>meeting</i>:</li>
-                            <table cellpadding="6" cellspacing="0">
-                            <tbody>
-                                <tr>
-                                    <td>1)</td>
-                                    <td>Kerangka Acuan Kerja (KAK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>2)</td>
-                                    <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>3)</td>
-                                    <td>Undangan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>4)</td>
-                                    <td>Jadwal Kegiatan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>5)</td>
-                                    <td>Surat Tugas</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                    <tr>
-                                    <td>6)</td>
-                                    <td>Daftar Hadir</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>7)</td>
-                                    <td>Output Paket Meeting</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>8)</td>
-                                    <td>Dokumentasi</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>9)</td>
-                                    <td>SPD Paket <i>Meeting</i> Dalam Kota</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>10)</td>
-                                    <td>Surat pernyataan tidak menggunakan kendaraan dinas</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>11)</td>
-                                    <td>Daftar Uang Harian Perjadin Paket <i>Meeting</i></td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                            </tbody>
-                        </table>
+                                <table cellpadding="6" cellspacing="0">
+                                    <tbody>
+                                        <tr>
+                                            <td>1)</td>
+                                            <td>Kerangka Acuan Kerja (KAK)</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>2)</td>
+                                            <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>3)</td>
+                                            <td>Undangan</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>4)</td>
+                                            <td>Jadwal Kegiatan</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>5)</td>
+                                            <td>Surat Tugas</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>6)</td>
+                                            <td>Daftar Hadir</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>7)</td>
+                                            <td>Output Paket Meeting</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>8)</td>
+                                            <td>Dokumentasi</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>9)</td>
+                                            <td>SPD Paket <i>Meeting</i> Dalam Kota</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>10)</td>
+                                            <td>Surat pernyataan tidak menggunakan kendaraan dinas</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>11)</td>
+                                            <td>Daftar Uang Harian Perjadin Paket <i>Meeting</i></td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
                                 <li>Kelengkapan tagihan penyelenggaraan paket <i>meeting</i>:</li>
-                        <table cellpadding="6" cellspacing="0">
-                            <tbody>
-                                <tr>
-                                    <td>1)</td>
-                                    <td>Kerangka Acuan Kerja (KAK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>2)</td>
-                                    <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>3)</td>
-                                    <td>Undangan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>4)</td>
-                                    <td>Jadwal Kegiatan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>5)</td>
-                                    <td>Surat Tugas</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                    <tr>
-                                    <td>6)</td>
-                                    <td>Daftar Hadir</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>7)</td>
-                                    <td>Output Paket Meeting</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>8)</td>
-                                    <td>Surat Pernyataan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>9)</td>
-                                    <td>Komitmen / Kontrak</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>10)</td>
-                                    <td>Bukti Prestasi Pekerjaan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>11)</td>
-                                    <td>Daftar penggunaan kamar <i>(roomlist)</i></td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-				                <tr>
-                                    <td>12)</td>
-                                    <td>Invoice</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-				                <tr>
-                                    <td>13)</td>
-                                    <td>Fotokopi NPWP dan rekening koran</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-				                <tr>
-                                    <td>14)</td>
-                                    <td>SSP PPh 23 sebesar 2%</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                            </tbody>
-                        </table>
+                                <table cellpadding="6" cellspacing="0">
+                                    <tbody>
+                                        <tr>
+                                            <td>1)</td>
+                                            <td>Kerangka Acuan Kerja (KAK)</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>2)</td>
+                                            <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>3)</td>
+                                            <td>Undangan</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>4)</td>
+                                            <td>Jadwal Kegiatan</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>5)</td>
+                                            <td>Surat Tugas</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>6)</td>
+                                            <td>Daftar Hadir</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>7)</td>
+                                            <td>Output Paket Meeting</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>8)</td>
+                                            <td>Surat Pernyataan</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>9)</td>
+                                            <td>Komitmen / Kontrak</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>10)</td>
+                                            <td>Bukti Prestasi Pekerjaan</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>11)</td>
+                                            <td>Daftar penggunaan kamar <i>(roomlist)</i></td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+				                        <tr>
+                                            <td>12)</td>
+                                            <td>Invoice</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+				                        <tr>
+                                            <td>13)</td>
+                                            <td>Fotokopi NPWP dan rekening koran</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+				                        <tr>
+                                            <td>14)</td>
+                                            <td>SSP PPh 23 sebesar 2%</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
                             </ol>
                         </ol>
                         <li>Belanja Paket <i>Meeting</i> Luar Kota</li>
@@ -1257,139 +1253,139 @@
                             <ol type="a">
                                 <li>Kelengkapan tagihan pembayaran perjalanan dalam rangka paket <i>meeting</i>:</li>
                                 <table cellpadding="6" cellspacing="0">
-                            <tbody>
-                                <tr>
-                                    <td>1)</td>
-                                    <td>Kerangka Acuan Kerja (KAK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>2)</td>
-                                    <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>3)</td>
-                                    <td>Undangan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>4)</td>
-                                    <td>Jadwal Kegiatan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>5)</td>
-                                    <td>Surat Tugas</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                    <tr>
-                                    <td>6)</td>
-                                    <td>Daftar Hadir</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>7)</td>
-                                    <td>Output Paket Meeting</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>8)</td>
-                                    <td>Dokumentasi</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>9)</td>
-                                    <td>SPD Paket <i>Meeting</i> Luar Kota</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>10)</td>
-                                    <td>Surat pernyataan tidak menggunakan kendaraan dinas</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>11)</td>
-                                    <td>Daftar Uang Harian / Saku Perjadin Paket <i>Meeting</i></td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                            </tbody>
-                        </table>
+                                    <tbody>
+                                        <tr>
+                                            <td>1)</td>
+                                            <td>Kerangka Acuan Kerja (KAK)</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>2)</td>
+                                            <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>3)</td>
+                                            <td>Undangan</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>4)</td>
+                                            <td>Jadwal Kegiatan</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>5)</td>
+                                            <td>Surat Tugas</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>6)</td>
+                                            <td>Daftar Hadir</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>7)</td>
+                                            <td>Output Paket Meeting</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>8)</td>
+                                            <td>Dokumentasi</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>9)</td>
+                                            <td>SPD Paket <i>Meeting</i> Luar Kota</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>10)</td>
+                                            <td>Surat pernyataan tidak menggunakan kendaraan dinas</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>11)</td>
+                                            <td>Daftar Uang Harian / Saku Perjadin Paket <i>Meeting</i></td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
                                 <li>Kelengkapan tagihan penyelenggaraan paket <i>meeting</i>:</li>
-                            <table cellpadding="6" cellspacing="0">
-                            <tbody>
-                                <tr>
-                                    <td>1)</td>
-                                    <td>Kerangka Acuan Kerja (KAK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>2)</td>
-                                    <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>3)</td>
-                                    <td>Undangan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>4)</td>
-                                    <td>Jadwal Kegiatan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>5)</td>
-                                    <td>Surat Tugas</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                    <tr>
-                                    <td>6)</td>
-                                    <td>Daftar Hadir</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>7)</td>
-                                    <td>Output Paket Meeting</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>8)</td>
-                                    <td>Dokumentasi</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>9)</td>
-                                    <td>Surat Pernyataan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>10)</td>
-                                    <td>Bukti Prestasi Pekerjaan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                                <tr>
-                                    <td>11)</td>
-                                    <td>Komitmen / Kontrak</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-				                <tr>
-                                    <td>12)</td>
-                                    <td>Invoice</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-				                <tr>
-                                    <td>13)</td>
-                                    <td>Fotokopi NPWP dan rekening koran</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-				                <tr>
-                                    <td>14)</td>
-                                    <td>SSP PPh 23 sebesar 2%</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
-                                </tr>
-                            </tbody>
-                        </table>
+                                <table cellpadding="6" cellspacing="0">
+                                    <tbody>
+                                        <tr>
+                                            <td>1)</td>
+                                            <td>Kerangka Acuan Kerja (KAK)</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>2)</td>
+                                            <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>3)</td>
+                                            <td>Undangan</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>4)</td>
+                                            <td>Jadwal Kegiatan</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>5)</td>
+                                            <td>Surat Tugas</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>6)</td>
+                                            <td>Daftar Hadir</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>7)</td>
+                                            <td>Output Paket Meeting</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>8)</td>
+                                            <td>Dokumentasi</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>9)</td>
+                                            <td>Surat Pernyataan</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>10)</td>
+                                            <td>Bukti Prestasi Pekerjaan</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>11)</td>
+                                            <td>Komitmen / Kontrak</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+				                        <tr>
+                                            <td>12)</td>
+                                            <td>Invoice</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+				                        <tr>
+                                            <td>13)</td>
+                                            <td>Fotokopi NPWP dan rekening koran</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+				                        <tr>
+                                            <td>14)</td>
+                                            <td>SSP PPh 23 sebesar 2%</td>
+                                            <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
                             </ol>
                         </ol>
                     </ol>
@@ -1434,52 +1430,52 @@
                                 <tr>
                                     <td>1.</td>
                                     <td>Kerangka Acuan Kerja (KAK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>2.</td>
                                     <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>3.</td>
                                     <td>Komitmen / Kontrak</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>4.</td>
                                     <td>Bukti Prestasi Pekerjaan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>5.</td>
                                     <td>Fotokopi NPWP dan rekening koran</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                     <tr>
                                     <td>6.</td>
                                     <td>Invoice</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>7.</td>
                                     <td>Faktur Pajak</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>8.</td>
                                     <td>SSP PPN</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>9.</td>
                                     <td>SSP PPh Pasal 4 ayat 2</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>10.</td>
                                     <td>SSP PPh pasal 23</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -1522,52 +1518,52 @@
                                 <tr>
                                     <td>1.</td>
                                     <td>Kerangka Acuan Kerja (KAK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>2.</td>
                                     <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>3.</td>
                                     <td>Invoice</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>4.</td>
                                     <td>Komitmen / Kontrak</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>5.</td>
                                     <td>Bukti Prestasi Pekerjaan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                     <tr>
                                     <td>6.</td>
                                     <td>Resi pengiriman/Surat Tanda Terima Barang (STT)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>7.</td>
                                     <td>Fotokopi NPWP dan rekening koran</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>8.</td>
                                     <td>Faktur Pajak</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>9.</td>
                                     <td>SSP PPN</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>10.</td>
                                     <td>SSP PPh 23</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -1617,27 +1613,27 @@
                                 <tr>
                                     <td>1.</td>
                                     <td>Kerangka Acuan Kerja (KAK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>2.</td>
                                     <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>3.</td>
                                     <td>Komitmen / Kontrak</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>4.</td>
                                     <td>Premi sesuai peserta</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>5.</td>
                                     <td>Polis asuransi, kartu tanda kepersetaan, atau sertifikat ke persetaan asuransi</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -1685,47 +1681,47 @@
                                 <tr>
                                     <td>1.</td>
                                     <td>Kerangka Acuan Kerja (KAK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>2.</td>
                                     <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>3.</td>
                                     <td>Undangan dan Daftar Hadir</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>4.</td>
                                     <td>Komitmen / Kontrak</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>5.</td>
                                     <td>Bukti Prestasi Pekerjaan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                     <tr>
                                     <td>6.</td>
                                     <td>Laporan pelaksanaan kegiatan</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>7.</td>
                                     <td>Faktur Pajak</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>8.</td>
                                     <td>SSP PPN</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>9.</td>
                                     <td>SSP PPh 23 sebesar 2%</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -1773,17 +1769,17 @@
                                 <tr>
                                     <td>1.</td>
                                     <td>Kerangka Acuan Kerja (KAK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>2.</td>
                                     <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>3.</td>
                                     <td>Dokumen Komitmen Pengadaan Barang/Jasa</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                 <tr>
                                     <td>4.</td>
@@ -1793,12 +1789,12 @@
                                 <tr>
                                     <td>5.</td>
                                     <td>Bukti tanda terima paket data/pulsa</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                                     <tr>
                                     <td>6.</td>
                                     <td>SSP PPh 22</td>
-                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" style="text-decoration: none;" class="bx  bx-folder-open text-dark">Lihat</a></td>
+                                    <td style="padding-left: 70px;"><a href="#link" target="_blank" class="bx  bx-folder-open text-dark">Lihat</a></td>
                                 </tr>
                             </tbody>
                         </table>
