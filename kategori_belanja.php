@@ -1405,7 +1405,7 @@
                                             <td>1)</td>
                                             <td>Kerangka Acuan Kerja (KAK)</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1QcLvQWrfd9Jcrl_7uwDMRe_UmGtRzcbz?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1413,7 +1413,7 @@
                                             <td>2)</td>
                                             <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1co8kC1xsDZkIzDJys2hPTSshWVD9viDR?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1421,7 +1421,7 @@
                                             <td>3)</td>
                                             <td>Undangan</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1P1GMF9tbhDsU3C0dlj3eTjN3XIxUuRB1?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1429,7 +1429,7 @@
                                             <td>4)</td>
                                             <td>Jadwal Kegiatan</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1No74ZKstdQXqBoO6DSCTf9q17rIDuP0N?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1437,7 +1437,7 @@
                                             <td>5)</td>
                                             <td>Surat Tugas</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1wADzuIcEZcMYk4zTNQDGpU3RRwRfb4ZU?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1445,7 +1445,7 @@
                                             <td>6)</td>
                                             <td>Daftar Hadir</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1Fw3_pgMnpBkbdwZ6bHM81SekicBO5Qmr?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1453,7 +1453,7 @@
                                             <td>7)</td>
                                             <td>Output Paket Meeting</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1bM0qip9I6ayYq33Q9zsftCw4fvLesrmZ?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1461,7 +1461,7 @@
                                             <td>8)</td>
                                             <td>Dokumentasi</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1lwtapCfKkqanfyYMJx9uarxNZIFMyt8n?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1469,7 +1469,7 @@
                                             <td>9)</td>
                                             <td>SPD Paket <i>Meeting</i> Dalam Kota</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1jF7O1wot44C16hlGlJLG8R6xVx3LB9p5?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1477,7 +1477,7 @@
                                             <td>10)</td>
                                             <td>Surat pernyataan tidak menggunakan kendaraan dinas</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1777FBRh5BAov1lN1rygqRtp73HX9QOz-?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1485,7 +1485,7 @@
                                             <td>11)</td>
                                             <td>Daftar Uang Harian Perjadin Paket <i>Meeting</i></td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1ja3mrLuOmgy0QLzDyb7GVB0plMpNVkDv?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1498,7 +1498,7 @@
                                             <td>1)</td>
                                             <td>Kerangka Acuan Kerja (KAK)</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1UVGGUm0JIYeiLh6mlAAQjqT1cGWXmUOt?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1506,7 +1506,7 @@
                                             <td>2)</td>
                                             <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1QrKoHzH0UY3W1uqvSXWdTE5X3UIdDDMh?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1514,7 +1514,7 @@
                                             <td>3)</td>
                                             <td>Undangan</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1LZxZ1mq3QlulLx73uZsGH_1xpfbPlw-J?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1522,7 +1522,7 @@
                                             <td>4)</td>
                                             <td>Jadwal Kegiatan</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1KS4n3A--y5eaHFDs0YWWVCzuXFbS9mkw?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1530,7 +1530,7 @@
                                             <td>5)</td>
                                             <td>Surat Tugas</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1lhlZQQrZyTdqg9uS2SmUaJHX9oWELT5Y?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1538,7 +1538,7 @@
                                             <td>6)</td>
                                             <td>Daftar Hadir</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1t5J78aIQncel3ftBCn5YNfkoU7oXr0-f?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1546,7 +1546,7 @@
                                             <td>7)</td>
                                             <td>Output Paket Meeting</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1OSPcNkGGybSdfBF3lWO4zisjxNwJieEI?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1554,7 +1554,7 @@
                                             <td>8)</td>
                                             <td>Surat Pernyataan</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1UHlJtNg9m2jsED_786uYWMs6dejDIKDq?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1562,7 +1562,7 @@
                                             <td>9)</td>
                                             <td>Komitmen / Kontrak</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/11lUBsEnY02tylthiCJfgDJLcUR2z_MdQ?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1570,7 +1570,7 @@
                                             <td>10)</td>
                                             <td>Bukti Prestasi Pekerjaan</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1JLUZUFBW4xXZuCZ56hhfgIsRmEuqwyjm?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1578,7 +1578,7 @@
                                             <td>11)</td>
                                             <td>Daftar penggunaan kamar <i>(roomlist)</i></td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1_liq8IvmpGihb4Kl32r5HSEz59iAWv4h?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1586,7 +1586,7 @@
                                             <td>12)</td>
                                             <td>Invoice</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1dv8hkfCcoGH6Mhow1fa0WQmXH9y0hoU5?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1594,7 +1594,7 @@
                                             <td>13)</td>
                                             <td>Fotokopi NPWP dan rekening koran</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/13l5Bnv5HwqBLS3eScWn25IUs3jaqXnZf?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1602,7 +1602,7 @@
                                             <td>14)</td>
                                             <td>SSP PPh 23 sebesar 2%</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1dZYDW_qrR5ZjlzOkBuL8zvk9FJdYntPt?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1652,7 +1652,7 @@
                                             <td>1)</td>
                                             <td>Kerangka Acuan Kerja (KAK)</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/13uC38MlmPsi079F9BTyBPiFrEcrFsXA2?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1660,7 +1660,7 @@
                                             <td>2)</td>
                                             <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1yUWt7cP3EAuLIUsVqCZ4hzjtJ8DJwPrV?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1668,7 +1668,7 @@
                                             <td>3)</td>
                                             <td>Undangan</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1lFjU3K59EgtyTtlgpmr9ek2_o6KeLqpH?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1676,7 +1676,7 @@
                                             <td>4)</td>
                                             <td>Jadwal Kegiatan</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1NW46hHOkd2s8X9Vg0aph0LSBmGLmClQb?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1684,7 +1684,7 @@
                                             <td>5)</td>
                                             <td>Surat Tugas</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1O30y0hMXiy4hbubFgYvdd48mJd7kYO3_?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1692,7 +1692,7 @@
                                             <td>6)</td>
                                             <td>Daftar Hadir</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1PiSYf_hJxsTF198K-KOJRenliRPIt9pY?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1700,7 +1700,7 @@
                                             <td>7)</td>
                                             <td>Output Paket Meeting</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1U2nvdhuq8zFrTWf3Gu3UntJERCR75CWH?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1708,7 +1708,7 @@
                                             <td>8)</td>
                                             <td>Dokumentasi</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1mC9i6emJ3k3ZdNz9UkT7iMU4ssS2u9vK?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1716,7 +1716,7 @@
                                             <td>9)</td>
                                             <td>SPD Paket <i>Meeting</i> Luar Kota</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1vNw3rJlDh-ASmf1DoBoOuDSy_n5KauUS?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1724,7 +1724,7 @@
                                             <td>10)</td>
                                             <td>Surat pernyataan tidak menggunakan kendaraan dinas</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1F_88NM2mq_kawaFZa_Fbmd4pmcE7dl_n?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1732,7 +1732,7 @@
                                             <td>11)</td>
                                             <td>Daftar Uang Harian / Saku Perjadin Paket <i>Meeting</i></td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1u0XFdmcZrNe8IMnSvmjloGDyjYFRPrt0?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1745,7 +1745,7 @@
                                             <td>1)</td>
                                             <td>Kerangka Acuan Kerja (KAK)</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1SYtKFXmUwzuTekw9QLPurFsSgjPczmQr?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1753,7 +1753,7 @@
                                             <td>2)</td>
                                             <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/10A5hTkWCmAE4WEr9_4iYBF66_TPNbGvv?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1761,7 +1761,7 @@
                                             <td>3)</td>
                                             <td>Undangan</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1RHrPZO1CB9dOndoallhDqIkL-DtFCA9Q?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1769,7 +1769,7 @@
                                             <td>4)</td>
                                             <td>Jadwal Kegiatan</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1v9P1HKUwIZ7ksue8W4HMgD_hZNupmid9?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1777,7 +1777,7 @@
                                             <td>5)</td>
                                             <td>Surat Tugas</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1d1W-iY_hLqJPwzBtjtGX4VGdYf1_LUfZ?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1785,7 +1785,7 @@
                                             <td>6)</td>
                                             <td>Daftar Hadir</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1UJXaigYb8-raxGwWVtYGrEvEw8-e4Tze?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1793,7 +1793,7 @@
                                             <td>7)</td>
                                             <td>Output Paket Meeting</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1rZ5imOFuH2MLLLWaFwpXfVo8D1lMCitu?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1801,7 +1801,7 @@
                                             <td>8)</td>
                                             <td>Dokumentasi</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1iie8ZyPCRdD-xWFpPjVzmd1k_zQXjief?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1809,7 +1809,7 @@
                                             <td>9)</td>
                                             <td>Surat Pernyataan</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1DfPOExZkICg9R8n_kCrOuvfQWKAo0Gsq?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1817,7 +1817,7 @@
                                             <td>10)</td>
                                             <td>Bukti Prestasi Pekerjaan</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/158FrVL2LuZyv2Q1QTuv1qmoiX_c5rvGB?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1825,7 +1825,7 @@
                                             <td>11)</td>
                                             <td>Komitmen / Kontrak</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1FavZ3uRYzzeruGZTvOhRT4CJFYex5HZ2?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1833,7 +1833,7 @@
                                             <td>12)</td>
                                             <td>Invoice</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/11jrDwgi3n83-35SW4_G0mwJWrHlonU2C?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1841,7 +1841,7 @@
                                             <td>13)</td>
                                             <td>Fotokopi NPWP dan rekening koran</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1ocV577JKQ1OKZQqwaYIdFwF-RjwjaE0T?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1849,7 +1849,7 @@
                                             <td>14)</td>
                                             <td>SSP PPh 23 sebesar 2%</td>
                                             <td style="padding-left: 70px;">
-                                                <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                                <a href="https://drive.google.com/drive/folders/1XiJnGMTXnjDfX0celkYxYWDVjADZInWV?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
                                         </tr>
@@ -1900,7 +1900,7 @@
                                     <td>1.</td>
                                     <td>Kerangka Acuan Kerja (KAK)</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1oVqb1CXsZMww7suuOBBjBcVh_-Pi3sLX?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -1908,7 +1908,7 @@
                                     <td>2.</td>
                                     <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1P5b85qA4A1_gZBHkDs1Qt6i0GFa14jHl?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -1916,7 +1916,7 @@
                                     <td>3.</td>
                                     <td>Komitmen / Kontrak</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1YMvmGtXZ3ZDbENKABXnIlK4601VO9oua?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -1924,7 +1924,7 @@
                                     <td>4.</td>
                                     <td>Bukti Prestasi Pekerjaan</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/17o5-Ct9WX-e28RafmeaxeSPE9KO_keHg?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -1932,7 +1932,7 @@
                                     <td>5.</td>
                                     <td>Fotokopi NPWP dan rekening koran</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1X1VOLoX3fAcPi8dMlG42qHE3i4hocw2W?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -1940,7 +1940,7 @@
                                     <td>6.</td>
                                     <td>Invoice</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1HljNeqAdNloeBiQ7OoxvK_aAuDDyqtT6?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -1948,7 +1948,7 @@
                                     <td>7.</td>
                                     <td>Faktur Pajak</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1BToTc1gNw_cUJahhJ8MD5mLSnzbzyC_N?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -1956,7 +1956,7 @@
                                     <td>8.</td>
                                     <td>SSP PPN</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/13aknJqncgkDqDc6ZG94tJmnfn5i1PWbZ?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -1964,7 +1964,7 @@
                                     <td>9.</td>
                                     <td>SSP PPh Pasal 4 ayat 2</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1f0AaJ85NBlKFDTLfo8uZfNe07H8jl4_j?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -1972,7 +1972,7 @@
                                     <td>10.</td>
                                     <td>SSP PPh pasal 23</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1XLb7wEng-g-Dz2fFf63i_2qdeceKL_hg?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2018,7 +2018,7 @@
                                     <td>1.</td>
                                     <td>Kerangka Acuan Kerja (KAK)</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1tlKTPuno_7ggsSYa3tEtJ0AEuGZbmA6F?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2026,7 +2026,7 @@
                                     <td>2.</td>
                                     <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1pAlFnjgvWLzIespVu-w9R6gQQWeSDB56?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2034,7 +2034,7 @@
                                     <td>3.</td>
                                     <td>Invoice</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1gsEDI4DXSH0eEUA91RWSkoZQUiqhjrsg?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2042,7 +2042,7 @@
                                     <td>4.</td>
                                     <td>Komitmen / Kontrak</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1-QD2me8Xbt8MvH1_HSkYTetvfsuu4NOG?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2050,7 +2050,7 @@
                                     <td>5.</td>
                                     <td>Bukti Prestasi Pekerjaan</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1G2-Ok01hlG5wyE4fpvGA1JrQ2PpOrS4x?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2058,7 +2058,7 @@
                                     <td>6.</td>
                                     <td>Resi pengiriman/Surat Tanda Terima Barang (STT)</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1tL7mgjTgU4wBznSYo008_FXmvyPDlUPP?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2066,7 +2066,7 @@
                                     <td>7.</td>
                                     <td>Fotokopi NPWP dan rekening koran</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1wX9BdNSu9Axavp7xs8NmYf5Qp3bDqB_e?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2074,7 +2074,7 @@
                                     <td>8.</td>
                                     <td>Faktur Pajak</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/10XZH6jzOjq0WNf4mHBdTFA7yb1W0FVFp?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2082,7 +2082,7 @@
                                     <td>9.</td>
                                     <td>SSP PPN</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1BuegYaURcefCm-iUXLUeRNCkc5LDUwDn?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2090,7 +2090,7 @@
                                     <td>10.</td>
                                     <td>SSP PPh 23</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1GXdoXKILQtGG3veTrYqfZxf9uAyOilhI?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2143,7 +2143,7 @@
                                     <td>1.</td>
                                     <td>Kerangka Acuan Kerja (KAK)</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/12T3ZWogP0VW0c8lnMWJJrKc-KEFqpCw2?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2151,7 +2151,7 @@
                                     <td>2.</td>
                                     <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1p2jffLh0M2dNtT3g3RH8v5Toef-KrCHk?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2159,7 +2159,7 @@
                                     <td>3.</td>
                                     <td>Komitmen / Kontrak</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1HhDC5R6rjD66RVp5wGgDfAexMwYtuGW8?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2167,7 +2167,7 @@
                                     <td>4.</td>
                                     <td>Premi sesuai peserta</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1OTXW8oPF8kZzWrRT3_owKS5mWSFqaZhw?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2175,7 +2175,7 @@
                                     <td>5.</td>
                                     <td>Polis asuransi, kartu tanda kepersetaan, atau sertifikat ke persetaan asuransi</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1DIDZY7eaFAt_cywau6JZsqh-tJfj-Qhy?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2226,7 +2226,7 @@
                                     <td>1.</td>
                                     <td>Kerangka Acuan Kerja (KAK)</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/14WWpZOTdgHD32nXoyMn0FBQC3phuhNpM?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2234,7 +2234,7 @@
                                     <td>2.</td>
                                     <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/12SGcy6rP3LZ2zH13re7GwfKQ8yCSIRIo?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2242,7 +2242,7 @@
                                     <td>3.</td>
                                     <td>Undangan dan Daftar Hadir</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1mpCjRbC-nRTFFTvyPyIWNZfxch4mE1Hi?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2250,7 +2250,7 @@
                                     <td>4.</td>
                                     <td>Komitmen / Kontrak</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1WxI54IdQUGWcyMSNNfDhppXpPxYq24Q1?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2258,7 +2258,7 @@
                                     <td>5.</td>
                                     <td>Bukti Prestasi Pekerjaan</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1SI_At9OMyuGNf-A9kuj6hE1YKXxSr9ym?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2266,7 +2266,7 @@
                                     <td>6.</td>
                                     <td>Laporan pelaksanaan kegiatan</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1S6UegwlUSHy_k-hN8Os-08_GWzVwT_Rk?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2274,7 +2274,7 @@
                                     <td>7.</td>
                                     <td>Faktur Pajak</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1M8wyOLvsbCo1NHpBr9pXwf2OliHTiCcg?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2282,7 +2282,7 @@
                                     <td>8.</td>
                                     <td>SSP PPN</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1FG4muy4_23r_-87nXAY4ZCcFdkdzFvhM?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2290,7 +2290,7 @@
                                     <td>9.</td>
                                     <td>SSP PPh 23 sebesar 2%</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/drive/folders/1svC6_h7SIuWp9F4pToQhGUd3WcrBgagW?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
