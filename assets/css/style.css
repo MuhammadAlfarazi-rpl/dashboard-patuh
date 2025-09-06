@@ -1,24 +1,9 @@
-/* Pengaturan Font DmSans */
-@font-face {
-  font-family: 'DM Sans';
-  src: url('../fonts/DMSans-Regular.ttf') format('truetype');
-  font-weight: 400;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'DM Sans';
-  src: url('../fonts/DMSans-Bold.ttf') format('truetype');
-  font-weight: 700;
-  font-style: normal;
-}
-
 /* Body dan Background */
 body { 
   margin: 0;
   height: 100vh;
-  background: linear-gradient(120deg, #f8f8f8, #ede4e4, #cecece);
   background-size: 200% 200%;
+  font-family: 'Inter', sans-serif;
 }
 
 .background {
@@ -27,6 +12,7 @@ body {
   background-size: cover;
   image-rendering: -webkit-optimize-contrast;
   image-rendering: crisp-edges;
+  background-color: #f8f8f8;
 }
 
 /* Navbar Style */
@@ -268,3 +254,45 @@ body {
 .icon_footer:hover {
   transform: scale(1.2);
 }
+
+::-webkit-scrollbar {
+  width: 10px;              
+  height: 10px;            
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f100;       
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #007bff;       
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #0056b3;       
+}
+
+* {
+  scrollbar-width: thin;           
+  scrollbar-color: #007bff #f1f1f1;  
+}
+
+.card {
+  border: 0px;
+}
+
+.nav-item {
+    text-decoration: none;   
+    color: inherit;          
+    cursor: pointer;         
+    padding: 8px 12px;
+    display: inline-block; 
+    color: #5d5d5d;  
+    transition: all 0.2s ease-in-out;
+  }
+
+  .nav-item:hover {
+    color: #000000;          /* contoh hover effect */
+  }

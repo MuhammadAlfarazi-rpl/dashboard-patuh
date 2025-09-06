@@ -141,6 +141,12 @@ document.addEventListener("DOMContentLoaded", () => {
     observer.observe(el);
   });
 });
+
+  document.querySelectorAll(".nav-item").forEach(item => {
+    item.addEventListener("click", () => {
+      window.location.href = item.dataset.url;
+    });
+  });
 </script>
 
 

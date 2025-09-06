@@ -17,12 +17,15 @@
             </a>
     </div>
 
-    <!-- Bagisn Kedua -->
-    <div class="container py-5">
-        <div class="section-title text-center mb-5">
-            <h2 class="fw-bold">Tentang SPJ</h2>
-            <p class="text-muted">SPJ merupakan singkatan dari Surat Pertanggungjawaban</p>
-        </div>
+    <!-- Bagian Kedua -->
+
+    <div class="container my-5">
+        <div class="card shadow-sm rounded-4">
+            <div class="card-body p-4">
+                <h2 class="card-title text-center fw-bold mb-3">Tentang SPJ</h2>
+                    <p class="text-center text-muted">
+                        SPJ merupakan singkatan dari Surat Pertanggungjawaban
+                    </p>
 
         <div class="row align-items-center content">
             <div class="col-md-5 text-center">
@@ -41,9 +44,7 @@
                     <li class="text-justify"><b>BUKTI TRANSAKSI :</b> Semua pengeluaran dalam SPJ harus didukung bukti nyata. Dokumen yang dilampirkan dapat berupa kuitansi, nota, faktur, tiket perjalanan, invoice hotel, bukti transfer, hingga surat tugas atau berita acara. Bukti ini menjadi dasar utama bahwa dana benar-benar digunakan sesuai peruntukan.</li>
                     <li class="text-justify"><b>LEGALITAS DAN TANGGUNG JAWAB :</b> Bagian ini menunjukkan bahwa SPJ sah secara hukum. Terdapat tanda tangan pejabat yang berwenang, seperti bendahara atau PPK, serta stempel instansi. Legalitas ini menegaskan bahwa semua transaksi dan laporan bisa dipertanggungjawabkan secara formal.</li>
                 </ul>
-            <p class="text-justify">
-            Dengan demikian, SPJ tidak hanya berfungsi sebagai laporan administrasi keuangan, tetapi juga sebagai bukti kepatuhan terhadap regulasi pemerintah dan instrumen yang siap diuji dalam audit internal maupun oleh BPK.
-            </p>
+            </div>
         </div>
     </div>
 </div>
