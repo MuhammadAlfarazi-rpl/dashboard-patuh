@@ -1,34 +1,4 @@
 <?php include 'includes/header.php'; ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .angka {
-            list-style-type: decimal; 
-        }
-        .angka li::marker {
-            content: counter(list-item) ") "; 
-        }
-        .huruf {
-            list-style-type: lower-alpha; 
-        }
-        .huruf li::marker {
-            content: counter(list-item, lower-alpha) ") "; 
-        }
-        .justify-list li {
-            text-align: justify;
-        }
-        .nav-link:hover {
-            background-color: #e0e0e0;
-        }
-        .nav-link {
-            transition: background-color 0.8s ease;
-        }
-    </style>
-</head>
-<body>
 
 <!-- JUDUL BESAR -->
 <div class="container-fluid mt-5 pt-5">
@@ -41,8 +11,6 @@
                 di Lingkungan Badan Pusat Statistik
             </h6>
         </div>
-    </div>
-</div>
 
 <!-- MAIN CONTENT: SIDEMENU + KONTEN -->
 <div class="container-fluid mb-5">
@@ -2002,6 +1970,7 @@
                         </div>
                     </div>
                 </div>
+                <!-- riists Was here!!! -->
 
                 <!-- Belanja Jasa Pengiriman/Ekspedisi -->
                 <div class="tab-pane fade" id="pills-8" role="tabpanel">
@@ -2414,6 +2383,8 @@
             </div>
         </div>
         </div>
+    </div>
+</div>
     </div>
 </div>
 </body>

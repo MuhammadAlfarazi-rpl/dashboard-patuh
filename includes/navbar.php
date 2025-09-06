@@ -6,16 +6,18 @@
       <div class="ms-3 d-flex align-items-center">
         <img src="assets/img/bps.png" alt="BPS" width="30" class="me-2 icon_footer">
         <div class="vr mx-2"></div>
-        <strong>Badan Pusat Statistik</strong>
+        <div>
+          <h5 class="m-0 fw-bold">DAPURKU</h5>
+          <small class="text-muted">Dashboard Administrasi & Pedoman Urusan Keuangan</small>
+        </div>
       </div>
     </a>
 
     <!-- Bagian KANAN -->
     <div class="me-3 d-flex align-items-center gap-3">
-      <a class="nav-item" data-url="pedoman_dinas.php">Pedoman Dinas</a>
-      <a class="nav-item" data-url="kategori_belanja.php">Kategori Belanja</a>
+      <a class="nav-item" href="pedoman_dinas.php">Pedoman Dinas</a>
+      <a class="nav-item" href="kategori_belanja.php">Kategori Belanja</a>
     </div>
-
 
   </div>
 </nav>

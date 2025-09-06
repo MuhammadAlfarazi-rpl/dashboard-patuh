@@ -70,7 +70,7 @@ anime.timeline()
       // Logo geser 
       .add({
         targets: '#logo',
-        translateX: -250,
+        translateX: -200,
         easing: 'easeInOutQuad',
         duration: 1000
       })
@@ -79,7 +79,7 @@ anime.timeline()
         targets: '#title',
         opacity: [0, 1],
         translateY: [10, -30],
-        translateX: 110,
+        translateX: 100,
         easing: 'easeOutExpo',
         duration: 2000
       });
@@ -146,6 +146,18 @@ document.addEventListener("DOMContentLoaded", () => {
     item.addEventListener("click", () => {
       window.location.href = item.dataset.url;
     });
+  });
+
+// Navbar bold
+  const navLinks = document.querySelectorAll(".nav-item");
+  const currentPage = window.location.pathname.split("/").pop();
+
+  navLinks.forEach(link => {
+    if (link.getAttribute("href") === currentPage) {
+      link.classList.add("fw-bold", "text-dark"); 
+    } else {
+      link.classList.remove("fw-bold");
+    }
   });
 </script>
 
