@@ -1,21 +1,21 @@
 <!-- Footer -->
 <hr>
-<footer class="text-dark py-2">
+<footer class="text-dark py-4">
   <div class="container">
     <div class="row d-flex justify-content-between flex-wrap">
       <div class="col-md-5 d-flex flex-column justify-content-between">
-        <div class="text-muted">
-          <h5 class="fw-bold text-dark">Badan Pusat Statistik</h5>
-          <p>Badan Pusat Statistik Provinsi Kepulauan Riau</p>
-          <p>Jl.Ahmad Yani No. 21 Tanjungpinang 29124</p>
+        <div class="text-muted" style="font-size: small;">
+          <h6 class="fw-bold text-dark">Badan Pusat Statistik</h6>
+          <p class="mb-0">Badan Pusat Statistik Provinsi Kepulauan Riau</p>
+          <p class="mb-0">Jl.Ahmad Yani No. 21 Tanjungpinang 29124</p>
         </div>
       </div>
       <div class="col-md-4">
-        <div class="text-muted">
+        <div class="text-muted" style="font-size: small;">
           <h6 class="fw-bold text-dark">Contact</h6>
-          <p>Telp. (0771) 4500155 / 4500150 (PST)</p>
-          <p>Fax. (0771) 4500157</p>
-          <p>E-mail: bps2100@bps.go.id</p>
+          <p class="mb-0">Telp. (0771) 4500155 / 4500150 (PST)</p>
+          <p class="mb-0">Fax. (0771) 4500157</p>
+          <p class="mb-0">E-mail: bps2100@bps.go.id</p>
         </div>
       </div>
       <div class="col-md-3 text-md-end text-center">
