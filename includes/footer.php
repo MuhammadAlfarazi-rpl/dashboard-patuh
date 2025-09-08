@@ -7,7 +7,7 @@
         <div class="text-muted" style="font-size: small;">
           <h6 class="fw-bold text-dark">Badan Pusat Statistik</h6>
           <p class="mb-0">Badan Pusat Statistik Provinsi Kepulauan Riau</p>
-          <p class="mb-0">Jl.Ahmad Yani No. 21 Tanjungpinang 29124</p>
+          <p class="mb-1">Jl.Ahmad Yani No. 21 Tanjungpinang 29124</p>
         </div>
       </div>
       <div class="col-md-4">
@@ -15,11 +15,11 @@
           <h6 class="fw-bold text-dark">Contact</h6>
           <p class="mb-0">Telp. (0771) 4500155 / 4500150 (PST)</p>
           <p class="mb-0">Fax. (0771) 4500157</p>
-          <p class="mb-0">E-mail: bps2100@bps.go.id</p>
+          <p class="mb-1">E-mail: bps2100@bps.go.id</p>
         </div>
       </div>
-      <div class="col-md-3 text-md-end text-center">
-        <div class="d-flex gap-3 justify-content-md-end justify-content-center" >
+      <div class="col-md-3 text-end">
+        <div class="d-flex gap-3 justify-content-end" >
           <a href="https://web.facebook.com/bpskepri/?_rdc=1&_rdr#"><i class="bx bxl-facebook text-dark fs-2 icon_footer"></i></a>
           <a href="https://www.instagram.com/bpskepri?igsh=cDhta2YzbDF2Z2E1"><i class="bx bxl-instagram text-dark fs-2 icon_footer"></i></a>
           <a href="https://youtube.com/@bpsprovkepri?si=LT-6OTt4zt70ukgN"><i class="bx bxl-youtube text-dark fs-2 icon_footer"></i></a>
