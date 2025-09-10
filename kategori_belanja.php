@@ -1,36 +1,37 @@
 <?php include 'includes/header.php'; ?>
 
-<!-- JUDUL BESAR -->
-<div class="container-fluid mt-5 pt-5">
-    <div class="card shadow-sm">
-        <div class="card-body text-center pb-2 border-bottom">
-            <h3 class="fw-bold text-uppercase display-6">
-                Pedoman Administrasi Keuangan Sensus dan Survei
-            </h3>
-            <h6 class="text-muted">
-                di Lingkungan Badan Pusat Statistik
-            </h6>
+<!-- Container utama -->
+<div class="container-fluid" style="padding-top: 100px;">
+  <div class="row">
+
+    <!-- SIDEMENU -->
+    <div class="col-lg-3">
+      <div class="position-sticky" style="top: 100px;">
+        <div class="card p-2">
+          <?php include 'includes/side_menu2.php'; ?>
+        </div>
+      </div>
+    </div>
+
+    <!-- KONTEN UTAMA -->
+    <div class="col-lg-9">
+
+      <!-- Card: gabungan judul + konten -->
+      <div class="card shadow-sm" style="height: 80vh; overflow-y: auto;">
+
+        <!-- Judul sticky DI DALAM card -->
+        <div class="card-header bg-light text-dark position-sticky z-3" style="top: 0;">
+          <h4 class="fw-bold text-uppercase fs-3 mb-0" style="color: #113F67; text-align: center;">
+            Pedoman Administrasi Keuangan Sensus dan Survei
+          </h4>
         </div>
 
-<!-- MAIN CONTENT: SIDEMENU + KONTEN -->
-<div class="container-fluid mb-5">
-    <div class="card">
-        <div class="row g-0 d-flex align-items-stretch">
-
-        <!-- SIDEMENU -->
-        <div class="col-lg-3 sidebar-border-end">
-            <div class="p-3">
-                <?php include 'includes/side_menu2.php'; ?>
-            </div>
-        </div>
-
-        <!-- KONTEN UTAMA -->
-        <div class="col-lg-9">
-            <div class="justify-list">
-            <div class="p-4 tab-content h-100" id="v-pills-tabContent">
+        <!-- Isi konten yang bisa discroll -->
+        <div class="card-body">
+          <div class="tab-content" id="v-pills-tabContent">
                 <!-- Belanja Konsumsi Rapat -->
                 <div class="tab-pane fade show active" id="pills-0" role="tabpanel">
-                    <h4>Belanja Konsumsi Rapat</h4>
+                    <h5>Belanja Konsumsi Rapat</h5>
                     <ol type="A">
                         <li>Pengertian</li>
                         <p>Satuan Biaya Konsumsi Rapat merupakan satuan biaya yang digunakan untuk kebutuhan biaya pengadaan makan dan kudapan termasuk minuman untuk rapat/pertemuan baik untuk rapat koordinasi tingkat. menteri/eselon 1/setara maupun untuk rapat biasa dan dilaksanakan secara langsung <i>(offline)</i> paling singkat selama 2 (dua) jam.</p>
@@ -147,7 +148,7 @@
 
                 <!-- Belanja Perlengkapan Pakai Habis -->
                 <div class="tab-pane fade" id="pills-1" role="tabpanel">
-                    <h4>Belanja Perlengkapan Pakai Habis</h4>
+                    <h5>Belanja Perlengkapan Pakai Habis</h5>
                     <ol type="A">
                         <li>Pengertian</li>
                         <ol type="1">
