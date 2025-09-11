@@ -335,3 +335,31 @@ body {
     -ms-overflow-style: none;
     scrollbar-width: none;
   }
+
+
+#sidebar.collapsed {
+  transform: translateX(-100%);
+}
+
+#sidebarToggle {
+  border-radius: 50%;
+  width: 35px;
+  height: 35px;
+  padding: 0;
+  text-align: center;
+}
+
+.toggle-btn {
+  position: absolute;
+  top: 50%;
+  right: -20px;  
+  transform: translateY(-50%);
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+}

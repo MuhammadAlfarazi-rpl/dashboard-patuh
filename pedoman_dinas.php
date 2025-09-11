@@ -12,16 +12,16 @@
     </div>
 
 <!-- MAIN CONTENT: SIDEMENU + KONTEN -->
-<div class="container-fluid mb-5">
-  <div class="card">
-    <div class="row g-0 d-flex align-items-stretch">
+  <div class="container-fluid mb-5">
+    <div class="card">
+      <div class="row g-0 d-flex align-items-stretch">
 
       <!-- SIDEMENU -->
-<div class="col-lg-3 sidebar-border-end">
-  <div class="p-3">
-    <?php include 'includes/side_menu.php'; ?>
-  </div>
-</div>
+      <div class="col-lg-3 sidebar-border-end">
+        <div class="p-3">
+          <?php include 'includes/side_menu.php'; ?>
+    </div>
+      </div>
 
 
       <!-- KONTEN UTAMA -->

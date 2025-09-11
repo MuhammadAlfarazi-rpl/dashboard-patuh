@@ -159,6 +159,46 @@ document.addEventListener("DOMContentLoaded", () => {
       link.classList.remove("fw-bold");
     }
   });
+
+  const sidebar = document.getElementById("sidebar");
+  const toggleBtn = document.getElementById("sidebarToggle");
+  const arrow = document.getElementById("arrow");
+
+  let isCollapsed = false;
+
+  toggleBtn.addEventListener("click", () => {
+    if (!isCollapsed) {
+      anime({
+        targets: "#sidebar",
+        translateX: "-100%",
+        duration: 400,
+        easing: "easeInOutQuad"
+      });
+      anime({
+      targets: "#sidebarToggle",
+      translateX: "40px",   // just peek out
+      translateY: "-50%",
+      duration: 400,
+      easing: "easeInOutQuad"
+    });
+      arrow.textContent = "⮞";
+    } else {
+      anime({
+        targets: "#sidebar",
+        translateX: "0%",
+        duration: 400,
+        easing: "easeInOutQuad"
+      });
+      anime({
+      targets: "#sidebarToggle",
+      translateX: "0px",   // back to normal
+      duration: 400,
+      easing: "easeInOutQuad"
+    });
+      arrow.textContent = "⮜";
+    }
+    isCollapsed = !isCollapsed;
+  });
 </script>
 
 
