@@ -1,27 +1,33 @@
 <?php include 'includes/header.php'; ?>
-<!-- JUDUL BESAR -->
-<div class="container-fluid mt-5 pt-5">
-  <div class="card shadow-sm">
-    <div class="card-body text-center pb-2 border-bottom">
-      <h3 class="fw-bold text-uppercase display-6">
-        Pedoman Pelaksanaan Perjalanan Dinas Jabatan
-      </h3>
-      <h6 class="text-muted">
-        di Lingkungan Badan Pusat Statistik
-      </h6>
-    </div>
+<!-- Container utama -->
+<div class="container-fluid" style="padding-top: 100px;">
+  <div class="row">
 
-<!-- MAIN CONTENT: SIDEMENU + KONTEN -->
-  <div class="container-fluid mb-5">
-    <div class="card">
-      <div class="row g-0 d-flex align-items-stretch">
-
-      <!-- SIDEMENU -->
-      <div class="col-lg-3 sidebar-border-end">
-        <div class="p-3">
+    <!-- SIDEMENU -->
+    <div id="sidebar" class="col-lg-3">
+      <div class="position-sticky" style="top: 100px;">
+        <div class="card p-2">
           <?php include 'includes/side_menu.php'; ?>
-    </div>
+        </div>
+
+        <button id="sidebarToggle" class="btn btn-primary toggle-btn">
+          <span id="arrow">⮜</span>
+        </button>
       </div>
+    </div>
+
+    <!-- KONTEN UTAMA -->
+    <div class="col-lg-9">
+
+      <!-- Card: gabungan judul + konten -->
+      <div  id="mainContent" class="card shadow-sm" style="height: 80vh; overflow-y: auto; z-index: 3;">
+
+        <!-- Judul sticky DI DALAM card -->
+        <div class="card-header bg-light text-dark position-sticky z-3" style="top: 0;">
+          <h4 class="fw-bold text-uppercase fs-3 mb-0" style="color: #113F67; text-align: center;">
+            Pedoman Administrasi Keuangan Sensus dan Survei
+          </h4>
+        </div>
 
 
       <!-- KONTEN UTAMA -->

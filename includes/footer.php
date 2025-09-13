@@ -163,6 +163,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const sidebar = document.getElementById("sidebar");
   const toggleBtn = document.getElementById("sidebarToggle");
   const arrow = document.getElementById("arrow");
+  const mainContent = document.getElementById("mainContent");
 
   let isCollapsed = false;
 
@@ -176,8 +177,15 @@ document.addEventListener("DOMContentLoaded", () => {
       });
       anime({
       targets: "#sidebarToggle",
-      translateX: "40px",   // just peek out
+      translateX: "40px",   
       translateY: "-50%",
+      duration: 400,
+      easing: "easeInOutQuad"
+    });
+    anime({
+      targets: "#mainContent",
+      width: ["100%", "132%"], 
+      translateX: ["0%", "-24%"],
       duration: 400,
       easing: "easeInOutQuad"
     });
@@ -191,7 +199,14 @@ document.addEventListener("DOMContentLoaded", () => {
       });
       anime({
       targets: "#sidebarToggle",
-      translateX: "0px",   // back to normal
+      translateX: "0px",   
+      duration: 400,
+      easing: "easeInOutQuad"
+    });
+    anime({
+      targets: "#mainContent",
+      width: ["100%", "100%"], 
+      translateX: ["-5%", "0%"],
       duration: 400,
       easing: "easeInOutQuad"
     });

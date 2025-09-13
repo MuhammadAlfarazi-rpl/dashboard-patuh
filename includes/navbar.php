@@ -4,7 +4,7 @@
     <!-- Bagian KIRI -->
     <a href="index.php" class="text-decoration-none text-dark">
       <div class="ms-3 d-flex align-items-center">
-        <img src="assets/img/bps.png" alt="BPS" width="30" class="me-2 icon_footer">
+        <img src="assets/img/LOGO.png" alt="BPS" width="50px" class="me-2 icon_footer">
         <div class="vr mx-2"></div>
         <div>
           <h5 class="m-0 fw-bold">DAPURKU</h5>

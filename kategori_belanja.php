@@ -21,7 +21,7 @@
     <div class="col-lg-9">
 
       <!-- Card: gabungan judul + konten -->
-      <div class="card shadow-sm" style="height: 80vh; overflow-y: auto;">
+      <div  id="mainContent" class="card shadow-sm" style="height: 80vh; overflow-y: auto; z-index: 3;">
 
         <!-- Judul sticky DI DALAM card -->
         <div class="card-header bg-light text-dark position-sticky z-3" style="top: 0;">
