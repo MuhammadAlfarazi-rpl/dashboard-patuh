@@ -1,4 +1,5 @@
 <?php include 'includes/header.php'; ?>
+<div style="background: linear-gradient(to bottom, #e3eaf2); min-height: 100vh;">
 
 <!-- Container utama -->
 <div class="container-fluid" style="padding-top: 100px;">
