@@ -7,8 +7,8 @@
         <img src="assets/img/LOGO.png" alt="BPS" width="50px" class="me-2 icon_footer">
         <div class="vr mx-2"></div>
         <div>
-          <h5 class="m-0 fw-bold">DAPURKU</h5>
-          <small class="text-muted">Dashboard Administrasi & Pedoman Urusan Keuangan</small>
+          <h5 class="m-0 fw-bold">AKURAT</h5>
+          <small class="text-muted">Administrasi & Keuangan Regulasi Dashboard Terpadu</small>
         </div>
       </div>
     </a>

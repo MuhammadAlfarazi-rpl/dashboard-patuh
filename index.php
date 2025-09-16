@@ -4,9 +4,9 @@
             <img id="logo" src="assets/img/bps.png" class="img-fluid logo" style="width: 250px;">
 
             <div id="title">
-                <div class="main-text fw-bold fst-italic">DAPURKU <!-- Sementara by ris --></div>
-                <div class="secondary-text fst-italic">Dashboard Administrasi & </div>
-                <div class="secondary-text fst-italic">Pedoman Urusan Keuangan</div>
+                <div class="main-text fw-bold fst-italic">AKURAT</div>
+                <div class="secondary-text fst-italic">Administrasi & Keuangan</div>
+                <div class="secondary-text fst-italic">Regulasi Dashboard Terpadu</div>
             </div>
         </div>
             <a href="pedoman_dinas.php" class="text-decoration-none text-dark">
