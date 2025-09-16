@@ -35,7 +35,7 @@
           <div class="tab-content" id="v-pills-tabContent">
                 <!-- Belanja Konsumsi Rapat -->
                 <div class="tab-pane fade show active" id="pills-0" role="tabpanel">
-                    <h5>Belanja Konsumsi Rapat</h5>
+                    <h4>Belanja Konsumsi Rapat</h4>
                     <ol type="A">
                         <li>Pengertian</li>
                         <p>Satuan Biaya Konsumsi Rapat merupakan satuan biaya yang digunakan untuk kebutuhan biaya pengadaan makan dan kudapan termasuk minuman untuk rapat/pertemuan baik untuk rapat koordinasi tingkat. menteri/eselon 1/setara maupun untuk rapat biasa dan dilaksanakan secara langsung <i>(offline)</i> paling singkat selama 2 (dua) jam.</p>
@@ -152,7 +152,7 @@
 
                 <!-- Belanja Perlengkapan Pakai Habis -->
                 <div class="tab-pane fade" id="pills-1" role="tabpanel">
-                    <h5>Belanja Perlengkapan Pakai Habis</h5>
+                    <h4>Belanja Perlengkapan Pakai Habis</h4>
                     <ol type="A">
                         <li>Pengertian</li>
                         <ol type="1">

@@ -1,4 +1,5 @@
 <?php include 'includes/header.php'; ?>
+
 <!-- Container utama -->
 <div class="container-fluid" style="padding-top: 100px;">
   <div class="row">
@@ -29,15 +30,12 @@
           </h4>
         </div>
 
-
-      <!-- KONTEN UTAMA -->
-      <div class="col-lg-9">
-        <div class="justify-list">
-        <div class="p-4 tab-content h-100" id="v-pills-tabContent">
-
+<!-- Isi konten yang bisa discroll -->
+        <div class="card-body">
+          <div class="tab-content" id="v-pills-tabContent">
           <!-- Ketentuan Umum -->
         <div class="tab-pane fade show active" id="pills-0" role="tabpanel">
-        <h4>A. Ketentuan Umum</h4>
+        <h4>Ketentuan Umum</h4>
         <p>Dalam Peraturan Kepala Badan Pusat Statistik ini, yang dimaksud dengan:
           <ol>
           <li>Surat Perjalanan Dinas yang selanjutnya disebut SPD adalah dokumen yang diterbitkan Pejabat Pembuat Komitmen (PPK) dalam rangka pelaksanaan perjalanan dinas bagi Pejabat Negara, Pegawai Negeri Sipil, Pegawai tidak tetap dan pihak lain.</li>
@@ -88,7 +86,7 @@
 
         <!-- Ruang Lingkup Perjalanan Dinas Jabatan -->
           <div class="tab-pane fade" id="pills-1" role="tabpanel">
-            <h4>B. Ruang Lingkup Perjalanan Dinas Jabatan</h4>
+            <h4>Ruang Lingkup Perjalanan Dinas Jabatan</h4>
             <p> 
             <ol>
               <li>Peraturan Kepala Badan ini mengatur mengenai perencanaan, pelaksanaan dan pertanggungjawaban Perjalanan Dinas Jabatan bagi Pelaksana SPD yang meliputi Pejabat Negara, Pegawai Negeri dan Pegawai Tidak Tetap dan Pihak Lain yang dibebankan pada Anggaran Pendapatan dan Belanja Negara di lingkungan Badan Pusat Statistik.</li>
@@ -104,7 +102,7 @@
 
           <!-- Prinsip Perjalanan Dinas Jabatan -->
           <div class="tab-pane fade" id="pills-2" role="tabpanel">
-            <h4>C. Prinsip Perjalanan Dinas Jabatan</h4>
+            <h4>Prinsip Perjalanan Dinas Jabatan</h4>
             <p>
               <ol>
                 <li>Perjalanan Dinas Jabatan dilaksanakan dengan memperhatikan prinsip.
@@ -153,7 +151,7 @@
 
           <!-- Perjalanan Dinas Jabatan -->
           <div class="tab-pane fade" id="pills-3" role="tabpanel">
-            <h4>D. Perjalanan Dinas Jabatan</h4>
+            <h4>Perjalanan Dinas Jabatan</h4>
             <p>
               <ol>
             <li>Perjalanan Dinas Jabatan digolongkan menjadi:</li>
@@ -215,7 +213,7 @@
 
           <!-- Kegiatan Rapat, Konsinyering, dan Sejenisnya -->
           <div class="tab-pane fade" id="pills-4" role="tabpanel">
-            <h4>E. Kegiatan Rapat, Konsinyering, dan Sejenisnya</h4>
+            <h4>Kegiatan Rapat, Konsinyering, dan Sejenisnya</h4>
             <p>
               <ol>
           <li>Kegiatan rapat, konsinyering dan sejenisnya yang dimaksud dalam Peraturan ini meliputi:</li>
@@ -270,7 +268,7 @@
 
           <!-- Biaya Perjalanan Dinas Jabatan -->
           <div class="tab-pane fade" id="pills-5" role="tabpanel">
-            <h4>F. Biaya Perjalanan Dinas Jabatan</h4>
+            <h4>Biaya Perjalanan Dinas Jabatan</h4>
             <p>
               <ol>
                 <li>Biaya Perjalanan Dinas Jabatan terdiri atas komponen-komponen sebagai berikut:</li>
@@ -348,7 +346,7 @@
 
           <!-- Pembatalan Perjalanan Dinas -->
           <div class="tab-pane fade" id="pills-6" role="tabpanel">
-            <h4>G. Pembatalan Perjalanan Dinas</h4>
+            <h4>Pembatalan Perjalanan Dinas</h4>
             <p>
               <ol>
                 <li>Dalam hal terjadi pembatalan pelaksanaan Perjalanan Dinas Jabatan, biaya pembatalan dapat dibebankan pada DIPA satuan kerja berkenaan.</li>
@@ -369,7 +367,7 @@
 
           <!-- Standar Biaya Transportasi -->
           <div class="tab-pane fade" id="pills-7" role="tabpanel">
-            <h4>H. Standar Biaya Transportasi</h4>
+            <h4>Standar Biaya Transportasi</h4>
             <p>
               <ol>
                 <li>Biaya taksi adalah satuan biaya yang digunakan untuk kebutuhan biaya satu kali perjalanan taksi dari tempat kedudukan menuju bandara/pelabuhan/terminal/stasiun keberangkatan atau dari bandara/pelabuhan/terminal/ stasiun kedatangan menuju tempat tujuan di kota bandara/ pelabuhan/terminal/stasiun kedatangan dan sebaliknya. Dalam pelaksanaan anggaran, satuan biaya taksi perjalanan dinas dalam negeri menggunakan metode biaya riil dan sesuai ketentuan Standar Biaya Masukan yang berlaku.</li>
@@ -381,7 +379,7 @@
 
           <!-- Pertanggungjawaban Biaya Perjalanan Dinas Jabatan -->
           <div class="tab-pane fade" id="pills-8" role="tabpanel">
-            <h4>I. Pertanggungjawaban Biaya Perjalanan Dinas Jabatan</h4>
+            <h4>Pertanggungjawaban Biaya Perjalanan Dinas Jabatan</h4>
             <p>
               <ol>
                 <li>Pelaksana SPD mempertanggungjawabkan:</li>
