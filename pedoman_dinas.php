@@ -27,7 +27,7 @@
         <!-- Judul sticky DI DALAM card -->
         <div class="card-header bg-light text-dark position-sticky z-3" style="top: 0;">
           <h4 class="fw-bold text-uppercase fs-3 mb-0" style="color: #113F67; text-align: center;">
-            Pedoman Administrasi Keuangan Sensus dan Survei
+            Pedoman Pelaksanaan Perjalanan Dinas Jabatan
           </h4>
         </div>
 

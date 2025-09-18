@@ -16,7 +16,7 @@
     <!-- Bagian KANAN -->
     <div class="me-3 d-flex align-items-center gap-3">
       <a class="nav-item" href="pedoman_dinas.php">Pedoman Dinas</a>
-      <a class="nav-item" href="kategori_belanja.php">Kategori Belanja</a>
+      <a class="nav-item" href="kategori_belanja.php">Pedoman Administrasi</a>
     </div>
 
   </div>
