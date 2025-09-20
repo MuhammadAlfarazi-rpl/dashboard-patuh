@@ -386,6 +386,11 @@ h4 {
   position: relative;
 }
 
+#sidebar .card {
+  height: 100%;
+  min-height: 80vh;
+}
+
 @media screen and (max-width: 576px) {
   .navbar {
     padding: 4px 8px;

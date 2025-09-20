@@ -1,17 +1,14 @@
 <?php include 'includes/header.php'; ?>
 <div style="background: linear-gradient(to bottom, #e3eaf2); min-height: 100vh;">
 
-<!-- Container utama -->
-<div class="container-fluid" style="padding-top: 100px;">
-  <div class="row">
-
-    <!-- SIDEMENU -->
+<div class="container-fluid" style="padding-top: 100px; min-height: 80vh;">
+  <div class="row d-flex align-items-stretch" style="min-height: 80vh;">
+  
     <div id="sidebar" class="col-lg-3">
       <div class="position-sticky" style="top: 100px;">
-        <div class="card p-2">
-          <?php include 'includes/side_menu2.php'; ?>
+        <div class="card p-2 h-100">
+          <?php include 'includes/side_menu.php'; ?>
         </div>
-
         <button id="sidebarToggle" class="btn btn-primary toggle-btn">
           <span id="arrow">⮜</span>
         </button>
