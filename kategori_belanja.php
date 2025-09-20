@@ -7,7 +7,7 @@
     <div id="sidebar" class="col-lg-3">
       <div class="position-sticky" style="top: 100px;">
         <div class="card p-2 h-100">
-          <?php include 'includes/side_menu.php'; ?>
+          <?php include 'includes/side_menu2.php'; ?>
         </div>
         <button id="sidebarToggle" class="btn btn-primary toggle-btn">
           <span id="arrow">⮜</span>
