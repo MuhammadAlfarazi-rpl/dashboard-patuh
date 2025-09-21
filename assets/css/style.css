@@ -391,6 +391,13 @@ h4 {
   min-height: 80vh;
 }
 
+.highlight {
+  display: inline-block;
+  background: linear-gradient(transparent 60%, #CDC7BE 60%); /* warna stabilo kuning */
+  font-weight: bold;
+  padding: 0 4px;
+}
+
 .timeline-list {
   list-style: none;
   counter-reset: section;
@@ -479,6 +486,8 @@ h4 {
   left: 0;
   /* Tidak ditebalkan */
 }
+
+
 
 
 @media screen and (max-width: 576px) {

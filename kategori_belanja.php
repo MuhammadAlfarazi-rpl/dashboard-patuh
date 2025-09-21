@@ -499,15 +499,14 @@
                 <!-- Belanja Honorarium -->
                 <div class="tab-pane fade" id="pills-4" role="tabpanel">
                     <h4>Belanja Honorarium</h4>
-                    <ol type="A">
-                        <li>Honor <i>Output</i> Kegiatan</li>
+                        <p class="highlight">Honor <i>Output</i> Kegiatan</p>
                         <ol type="1">
-                            <li>Pengertian</li>
+                            <p><b>Pengertian</b></p>
                             <ol type="a" class="justify-list">
                                 <li>Honor <i>Output</i> Kegiatan merupakan honor yang dibayarkan atas pelaksanaan kegiatan yang insidentil dan dapat dibayarkan tidak terus menerus dalam satu tahun. Honor <i>output</i> kegiatan mencakup honor tim pelaksana kegiatan (pengarah, penanggung jawab, koordinator, ketua, sekretaris, anggota, dan staf sekretariat), honor petugas, honor penunjuk jalan, honor ketua SLS, kades/lurah, honor camat, honor pengajar (Innas atau Inda), dll.</li>
                                 <li>Honor Tim Pelaksana Kegiatan adalah honor yang diberikan kepada seseorang yang berdasarkan Surat Keputusan Presiden/Menteri/Pejabat Setingkat Menteri/Pejabat Eselon 1/Kuasa Pengguna Anggaran (KPA) diangkat dalam suatu tim pelaksana kegiatan untuk melaksanakan suatu tugas tertentu.</li>
                             </ol>
-                            <li>Catatan Penting</li>
+                            <p><b>Catatan Penting</b></p>
                             <ol type="a" class="justify-list">
                                 <li>Honor tim pelaksana kegiatan dapat dibayarkan jika terdapat keterlibatan instansi atau kementerian/lembaga lain. Apabila pada bulan tertentu tidak terdapat keterlibatan atau koordinasi dengan instansi atau kementerian/lembaga lain, maka honor tim pelaksana kegiatan pada bulan tersebut tidak dapat dibayarkan.</li>
                                 <li>Dalam satu tahun anggaran, honor tim pelaksana kegiatan hanya dapat dibayarkan untuk dua kegiatan saja. Jika salah satu atau kedua kegiatan telah selesai dilaksanakan sebelum berakhirnya tahun anggaran, maka honor tim pelaksana kegiatan tidak dapat diberikan lagi pada kegiatan yang lain.</li>
@@ -517,9 +516,10 @@
                                 <li>Jika kondisi urgent dan tidak memungkinkan dibayarkan secara transfer bank, Kuasa Pengguna Anggaran masing-masing daerah. dapat menetapkan kebijakan pembayaran secara tunai dengan melengkapi surat pernyataan pembayaran tunai oleh KPA, surat pendelegasian Bendahara kepada yang diberi kuasa untuk membayarkan tunai dan foto saat penyerahan pembayaran.</li>
                                 <li>Satuan Harga Kegiatan Umum BPS adalah satuan biaya berupa honorarium yang dapat digunakan untuk membayar kegiatan statistik yang bersifat umum di BPS. Satuan Harga Kegiatan Khusus BPS adalah satuan biaya berupa honorarium yang dapat digunakan untuk membayar petugas pendataan, petugas pemeriksaan dan petugas pengolahan kegiatan statistik yang bersifat spesifik kegiatan tertentu di BPS. Satuan harga sebagaimana dimaksud merupakan perkiraan yang dapat digunakan sebagai dasar penentuan beban kerja dan total honor dalam satu bulan. Total dalam satu bulan merujuk pada Standar Biaya Masukan Lainnya (SBML) yang disetujui oleh Menteri Keuangan.</li>
                             </ol>
-                            <li>Akun yang Dapat Digunakan</li>
-                            <p>Akun 521213-Belanja Honor <i>Output</i> Kegiatan.</p>
-                            <li>Kelengkapan Tagihan Pembayaran</li>
+                            <br>
+                            <p><b>Akun yang Dapat Digunakan</b></p>
+                            <p>->Akun 521213-Belanja Honor <i>Output</i> Kegiatan.</p>
+                            <p><b>Kelengkapan Tagihan Pembayaran</b></p>
                             <ol type="a">
                                 <li>Kelengkapan pembayaran honor tim:</li>
                                 <table cellpadding="6" cellspacing="0">
@@ -803,24 +803,26 @@
                                     </tbody>
                                 </table>
                             <br>
-                        <li>Honor Terkait Jasa Profesi</li>
+                        </ol>
+                        </ol>
+                        <p class="highlight">Honor Terkait Jasa Profesi</p>
                         <ol type="1">
-                            <li>Pengertian</li>
+                            <p><b>Pengertian</b></p>
                             <ol type="a" class="justify-list">
                                 <li>Honor terkait jasa profesi diberikan kepada narasumber (pegawai negeri/non pegawai negeri) yang memberikan informasi atau pengetahuan kepada pegawai negeri lainnya/masyarakat. Honor terkait jasa profesi juga diberikan kepada moderator.</li>
                                 <li>Honor narasumber adalah honor yang diberikan kepada Pejabat Negara/Pegawai Aparatur Sipil Negara/Anggota Polri/TNI yang memberikan kegiatan dalam informasi/pengetahuan/kemampuan Seminar/Rapat/Sosialisasi/Diseminasi/Bimbingan Teknis/<i>Workshop</i>/Sarasehan/Simposium/Lokakarya/<i>Focus Group Discussion</i>/Kegiatan Sejenis yang dilaksanakan secara langsung <i>(offline)</i> maupun daring <i>(online)</i> melalui aplikas: secara live bukan rekaman/hasil <i>tapping</i>, baik di dalam negeri maupun di luar negeri, tidak termasuk untuk kegiatan diklat/pelatihan.</li>
                                 <li>Honor moderator adalah honor yang diberikan kepada Pegawai Aparatur Sipil Negara/Anggota Polri/TNI yang ditunjuk oleh pejabat yang berwenang untuk melaksanakan tugas sebagai kegiatan moderator pada Seminar/Rapat/Sosialisasi/Diseminasi/Bimbingan Teknis/<i>Workshop</i>/Sarasehan/Simposium/Lokakarya/<i>Focus Group Discussion</i>/Kegiatan Sejenis yang dilaksanakan secara langsung <i>(offline)</i> maupun daring <i>(online)</i> melalui aplikasi secara live bukan rekaman/hasil <i>tapping</i> baik di dalam negeri maupun di luar negeri, tidak termasuk untuk kegiatan diklat/pelatihan.</li>
                                 <li>Honor narasumber pakar adalah satuan biaya honorarium narasumber pakar/praktisi/profesional merupakan satuan biaya yang digunakan untuk kebutuhan honorarium narasumber pakar/praktisi/profesional dari luar lingkup kementerian negara/lembaga penyelenggara yang mempunyai keahlian/profesionalisme dalam ilmu/bidang tertentu dalam kegiatan Seminar/Rapat/Sosialisasi/Diserninasi/<i>Workshop</i>/Sarasehan/Simposium/Diklat/Lokakarya/<i>Focus Group Discussion</i>/Kegiatan Sejenis yang diselenggarakan baik di dalam negeri maupun di luar negeri yang dilaksanakan secara langsung <i>(offline)</i> maupun daring <i>(online)</i> melalui aplikasi secara live dan bukan rekaman/hasil <i>tapping</i>.</li>
                             </ol>
-                            <li>Catatan Penting</li>
+                            <p><b>Catatan Penting</b></p>
                             <ol type="a" class="justify-list">
                                 <li>Satuan jam yang digunakan dalam pemberian honor narasumber adalah 60 (enam puluh) menit baik dilakukan secara panel maupun individual.</li>
                                 <li>Narasumber dan moderator berasal dari luar kementerian negara/lembaga penyelenggara atau dari perguruan tinggi di luar satuan kerja penyelenggara.</li>
                                 <li>Honor narasumber dan moderator hanya dapat diberikan oleh satuan kerja penyelenggara.</li>
                             </ol>
-                            <li>Akun yang Dapat Digunakan</li>
-                            <p>Akun 522151 - Belanja Jasa Profesi.</p>
-                            <li>Kelengkapan Tagihan Pembayaran</li>
+                            <p><b>Akun yang Dapat Digunakan</b></p>
+                            <p>->Akun 522151 - Belanja Jasa Profesi.</p>
+                            <p><b>Kelengkapan Tagihan Pembayaran</b></p>
                             <table cellpadding="6" cellspacing="0">
                                 <tbody>
                                     <tr>
@@ -945,15 +947,14 @@
                 <!-- Belanja Perjalanan Dinas -->
                 <div class="tab-pane fade" id="pills-5" role="tabpanel">
                     <h4>Belanja Perjalanan Dinas</h4>
-                    <ol type="A">
-                        <li>Belanja Perjalanan Dinas Biasa</li>
+                        <p class="highlight">Belanja Perjalanan Dinas Biasa</>
                         <ol type="1">
-                            <li>Pengertian</li>
+                            <p><b>Pengertian</b></p>
                             <ol type="a" class="justify-list">
                                 <li>Perjalanan Dinas Biasa adalah Perjalanan Dinas Jabatan yang dilakukan Pejabat Negara, Pegawai Negeri, dan Pegawai Tidak Tetap, melewati batas Kota dari tempat kedudukan ke tempat yang dituju, dalam rangka melaksanakan tugas, dan kembali ke tempat kedudukan semula di dalam negeri, sesuai dengan perintah atasan Pelaksana perjalanan dinas yang tertuang dalam Surat Tugas.</li>
                                 <li>Batas Kota sebagaimana dimaksud khusus untuk Provinsi DKI Jakarta meliputi kesatuan wilayah Jakarta Pusat, Jakarta Timur, Jakarta Utara, Jakarta Barat, dan Jakarta Selatan.</li>
                             </ol>
-                            <li>Catatan Penting</li>
+                            <p><b>Catatan Penting</b></p>
                             <ol type="a">
                                 <li>Surat Tugas diterbitkan oleh:</li>
                                 <ol class="angka" class="justify-list">
@@ -998,9 +999,9 @@
                                     <p>Uang representasi diberikan kepada Pejabat Negara, Pejabat Eselon I, dan Pejabat Eselon II selama melakukan Perjalanan sesuai jumlah hari <i>riil</i> pelaksanaan Perjalanan Dinas.</p>
                                 </ol>
                             </ol>
-                            <li>Akun yang Dapat Digunakan</li>
-                            <p>Akun 524111- Belanja Perjalanan Dinas Biasa.</p>
-                            <li>Kelengkapan Tagihan Pembayaran</li>
+                            <p><b>Akun yang Dapat Digunakan</b></p>
+                            <p>->Akun 524111- Belanja Perjalanan Dinas Biasa.</p>
+                            <p><b>Kelengkapan Tagihan Pembayaran</b></p>
                             <table cellpadding="6" cellspacing="0">
                                 <tbody>
                                     <tr>
@@ -1110,23 +1111,23 @@
                                 </tbody>
                             </table>
                         </ol>
-                        <li>Belanja Perjalanan Dinas Dalam Kota Kurang Dari 8 (delapan) Jam</li>
+                        <p class="highlight">Belanja Perjalanan Dinas Dalam Kota Kurang Dari 8 (delapan) Jam</p>
                         <ol type="1">
-                            <li>Pengertian</li>
+                            <p><b>Pengertian</b></p>
                             <ol type="a" class="justify-list">
                                 <li>Perjalanan Dinas Dalam Kota kurang dari 8 (delapan) Jam adalah Perjalanan Dinas Jabatan yang dilakukan Pejabat Negara, Pegawai Negeri, dan Pegawai Tidak Tetap, dilaksanakan di dalam Kota yang dilaksanakan kurang dari 8 (delapan) jam sesuai dengan perintah atasan Pelaksana perjalanan dinas yang tertuang dalam Surat Tugas.</li>
                                 <li>Khusus untuk Provinsi DKI Jakarta dalam kota dimaksud meliputi kesatuan wilayah Jakarta Pusat, Jakarta Timur, Jakarta Utara, Jakarta Barat, dan Jakarta Selatan.</li>
                             </ol>
-                            <li>Catatan Penting</li>
+                            <p><b>Catatan Penting</b></p>
                             <ol type="a" class="justify-list">
                                 <li>Dibayarkan secara <i>lumpsum</i> sesuai standar biaya yang berlaku atau berdasarkan SK KPA masing-masing daerah dan diberikan sesuai jumlah hari <i>riil</i> pelaksanaan Perjalanan Dinas;</li>
                                 <li>Penugasan yang dilaksanakan lebih dari satu tujuan pelaksanaan perjalanan dinas dan merupakan satu kesatuan penugasan hanya diberikan sebesar 1 (satu) kali biaya transport dalam kota;</li>
                                 <li>Surat Tugas diterbitkan oleh atasan langsung. Penerbit Surat Tugas membatasi pelaksanaan perjalanan dinas dalam kota hanya sampai 8 jam; dan</li>
                                 <li>Pelaksana SPD perjalanan dinas dalam kota sampai dengan 8 jam tetap mendapatkan Uang Makan selama terdapat catatan kehadiran di kantor.</li>
                             </ol>
-                            <li>Akun yang Dapat Digunakan</li>
-                            <p>Akun 524113 - Belanja Perjalanan Dinas Dalam Kota.</p>
-                            <li>Kelengkapan Tagihan Pembayaran</li>
+                            <p><b>Akun yang Dapat Digunakan</b></p>
+                            <p>->Akun 524113 - Belanja Perjalanan Dinas Dalam Kota.</p>
+                            <p><b>Kelengkapan Tagihan Pembayaran</b></p>
                             <table cellpadding="6" cellspacing="0">
                                 <tbody>
                                     <tr>
@@ -1196,14 +1197,14 @@
                                 </tbody>
                             </table>
                         </ol>
-                        <li>Belanja Perjalanan Dinas Dalam Kota Lebih Dari 8 (delapan) Jam</li>
+                        <p class="highlight">Belanja Perjalanan Dinas Dalam Kota Lebih Dari 8 (delapan) Jam</p>
                         <ol type="1">
-                            <li>Pengertian</li>
+                            <p><b>Pengertian</b></p>
                             <ol type="a" class="justify-list">
                                 <li>Perjalanan Dinas Dalam Kota lebih dari 8 (delapan) Jam adalah Perjalanan Dinas Jabatan yang dilakukan Pejabat Negara, Pegawai Negeri, dan Pegawai Tidak Tetap, dilaksanakan di dalam Kota yang dilaksanakan lebih dari 8 (delapan) jam sesuai dengan perintah atasan Pelaksana perjalanan dinas yang tertuang dalam Surat Tugas.</li>
                                 <li>Khusus untuk Provinsi DKI Jakarta dalam kota dimaksud meliputi kesatuan wilayah Jakarta Pusat, Jakarta Timur, Jakarta Utara, Jakarta Barat, dan Jakarta Selatan.</li>
                             </ol>
-                            <li>Catatan Penting</li>
+                            <p><b>Catatan Penting</b></p>
                             <ol type="a" class="justify-list">
                                 <li>Dibayarkan secara <i>lumpsum</i> sesuai standar biaya yang berlaku atau berdasarkan SK KPA masing-masing daerah dan diberikan sesuai jumlah hari <i>riil</i> pelaksanaan Perjalanan Dinas;</li>
                                 <li>Dalam hal biaya transport melebihi biaya transport dalam kota. sebagaimana diatur dalam SBM, maka Pelaksana SPD dapat diberikan biaya transport sesuai bukti <i>riil</i> moda transportasi yang digunakan;</li>
@@ -1212,9 +1213,9 @@
                                 <li>Penugasan yang dilaksanakan lebih dari satu tujuan pelaksanaan perjalanan dinas dan merupakan satu kesatuan penugasan hanya diberikan sebesar 1 (satu) kali biaya transport dalam kota;</li>
                                 <li>Surat Tugas diterbitkan oleh atasan langsung dan harus menyebutkan bahwa pelaksanaan perjalanan dinas dalam kota dilaksanakan lebih dari 8 jam.</li>
                             </ol>
-                            <li>Akun yang Dapat Digunakan</li>
-                            <p>Akun 524113- Belanja Perjalanan Dinas Dalam Kota.</p>
-                            <li>Kelengkapan Tagihan Pembayaran</li>
+                            <p><b>Akun yang Dapat Digunakan</b></p>
+                            <p>->Akun 524113- Belanja Perjalanan Dinas Dalam Kota.</p>
+                            <p><b>Kelengkapan Tagihan Pembayaran</b></p>
                             <table cellpadding="6" cellspacing="0">
                                 <tbody>
                                     <tr>
@@ -1355,10 +1356,9 @@
                         <li>Paket <i>Halfday</i></li>
                         <p>Satuan biaya paket <i>halfday</i> disediakan untuk paket kegiatan rapat/pertemuan yang diselenggarakan di luar kantor paling singkat 5 (lima) jam tanpa menginap.</p>
                     </ol>
-                    <ol type="A">
-                        <li>Belanja Paket <i>Meeting</i> Dalam Kota</li>
+                        <p class="highlight">Belanja Paket <i>Meeting</i> Dalam Kota</p>
                         <ol type="1">
-                            <li>Pengertian</li>
+                            <p><b>Pengertian</b></p>
                             <ol type="a" class="justify-list">
                                 <li>Digunakan untuk mencatat perjalanan dinas dalam rangka kegiatan rapat, seminar, dan sejenisnya yang dilaksanakan di dalam kota satker penyelenggara dan dibiayai seluruhnya olch satker penyelenggara maupun yang dilaksanakan di dalam kota satker peserta dan biaya perjalanan dinasnya ditanggung oleh Satker peserta, yang meliputi:</li>
                                 <ol class="angka" class="justify-list">
@@ -1369,7 +1369,7 @@
                                     <p>Besaran nilai biaya paket <i>meeting</i>, uang transport, uang harian paket <i>meeting</i>, dan uang harian perjalanan mengikuti ketentuan yang mengatur mengenai standar biaya tahun berkenaan.</p>
                                 </ol>
                             </ol>
-                            <li>Catatan Penting</li>
+                            <p><b>Catatan Penting</b></p>
                             <ol type="a" class="justify-list">
                                 <li>Untuk pejabat eselon II ke atas, akomodasi 1 (satu) kamar untuk 1 (satu) orang;</li>
                                 <li>Untuk pejabat eselon III ke bawah, akomodasi 1 (satu) kamar untuk 2 (dua) orang;</li>
@@ -1379,9 +1379,9 @@
                                 <li>Dalam hal tidak terdapat fasilitas hotel atau penginapan yang memadai di dalam kota untuk paket <i>meeting</i> pelatihan petugas, maka Satker dapat mengadakan kegiatan paket meeting di luar kota, dengan terlebih dahulu melakukan revisi akun ke akun 524119; dan</li>
                                 <li>Dalam hal peserta merupakan narasumber yang berasal dari luar instansi penyelenggara, maka tidak dapat diberikan uang harian <i>fullboard/fullday/halfday</i> pada saat yang bersangkutan menjadi narasumber dalam kegiatan tersebut.</li>
                             </ol>
-                            <li>Akun yang Dapat Digunakan</li>
-                            <p>Akun 524114 - Belanja Perjalanan Dinas Paket <i>Meeting</i> Dalam Kota</p>
-                            <li>Kelengkapan Tagihan Pembayaran</li>
+                            <p><b>Akun yang Dapat Digunakan</b></p>
+                            <p>->Akun 524114 - Belanja Perjalanan Dinas Paket <i>Meeting</i> Dalam Kota</p>
+                            <p><b>Kelengkapan Tagihan Pembayaran</b></p>
                             <ol type="a" class="justify-list">
                                 <li>Kelengkapan tagihan pembayaran perjalanan dalam rangka paket <i>meeting</i>:</li>
                                 <table cellpadding="6" cellspacing="0">
@@ -1595,9 +1595,9 @@
                                 </table>
                             </ol>
                         </ol>
-                        <li>Belanja Paket <i>Meeting</i> Luar Kota</li>
+                        <p class="highlight">Belanja Paket <i>Meeting</i> Luar Kota</p>
                         <ol type="1">
-                            <li>Pengertian</li>
+                            <p><b>Pengertian</b></p>
                             <p>Pengeluaran untuk perjalanan dinas dalam rangka kegiatan rapat, seminar, dan sejenisnya yang dilaksanakan di luar kota satker penyelenggara dan dibiayai seluruhnya oleh satker penyelenggara, serta yang dilaksanakan di luar kota satker peserta dengan biaya perjalanan dinas yang ditanggung oleh satker peserta, meliputi:</p>
                             <ol type="1" class="justify-list">
                                 <li>Biaya transportasi peserta, panitia/moderator, dan/atau narasumber baik yang berasal dari dalam kota maupun dari luar kota;</li>
@@ -1606,7 +1606,7 @@
                                 <li>Uang harian perjalanan dan/atau biaya penginapan peserta, panitia/moderator, dan/atau narasumber yang mengalami kesulitan transportasi.</li>
                             </ol>
                             <p>Besaran nilai biaya paket <i>meeting</i>, uang transport, uang saku, dan uang harian mengikuti ketentuan yang mengatur mengenai standar biaya tahun berkenaan.</p>
-                            <li>Catatan Penting</li>
+                            <p><b>Catatan Penting</b></p>
                             <ol type="a" class="justify-list">
                                 <li>Untuk pejabat eselon II ke atas, akomodasi 1 (satu) kamar untuk 1 (satu) orang;</li>
                                 <li>Untuk pejabat eselon III ke bawah, akomodasi 1 (satu) kamar untuk 2 (dua) orang;</li>
@@ -1626,9 +1626,9 @@
                                 </ol>
                                 <li>Dalam hal peserta merupakan narasumber yang berasal dari luar instansi penyelenggara, maka tidak dapat diberikan uang harian <i>fullboard/fullday/halfday</i> pada saat yang bersangkutan menjadi narasumber dalam kegiatan tersebut.</li>
                             </ol>
-                            <li>Akun Yang Dapat Digunakan</li>
+                            <p><b>Akun Yang Dapat Digunakan</b></p>
                             <p>Akun 524119 - Belanja Perjalanan Dinas Paket <i>Meeting</i> Luar Kota.</p>
-                            <li>Kelengkapan Tagihan Pembayaran</li>
+                            <p><b>Kelengkapan Tagihan Pembayaran</b></p>
                             <ol type="a" class="justify-list">
                                 <li>Kelengkapan tagihan pembayaran perjalanan dalam rangka paket <i>meeting</i>:</li>
                                 <table cellpadding="6" cellspacing="0">
