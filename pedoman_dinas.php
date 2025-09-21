@@ -35,7 +35,7 @@
         <div class="tab-pane fade show active" id="pills-0" role="tabpanel">
         <h4>Ketentuan Umum</h4>
         <p>Dalam Peraturan Kepala Badan Pusat Statistik ini, yang dimaksud dengan:
-          <ol>
+          <ol class="timeline-list">
           <li>Surat Perjalanan Dinas yang selanjutnya disebut SPD adalah dokumen yang diterbitkan Pejabat Pembuat Komitmen (PPK) dalam rangka pelaksanaan perjalanan dinas bagi Pejabat Negara, Pegawai Negeri Sipil, Pegawai tidak tetap dan pihak lain.</li>
           <li>Pelaksana SPD adalah Pejabat Negara, Pegawai Negeri Sipil, Pegawai tidak tetap, dan pihak lain yang melaksanakan perjalanan dinas.</li>
           <li>Perjalanan Dinas Dalam Negeri yang selanjutnya disebut Perjalanan Dinas adalah perjalanan ke luar Tempat kedudukan yang dilakukan dalam wilayah Republik Indonesia untuk kepentingan negara.</li>
@@ -56,7 +56,7 @@
           <li>Tempat Sah adalah lokasi Kota Pelaksana SPD berada secara sah, ciantaranya lokasi pelaksanaan fleksibilitas tempat bekerja <i>(flexible working space)</i>, lokasi cuti, lokasi ketika sedang menjalani libur resmi, dan Tempat Tujuan penugasan Perjalanan Dinas lainnya</li>
           <li>Standar Biaya adalah satuan biaya yang ditetapkan sebagai acuan penghitungan kebutuhan anggaran dalam Rencana Kerja dan Anggaran Kementerian Negara/Lembaga, baik berupa Standar Biaya Masukan maupun Standar Biaya Keluaran.</li>
           <li>APBN adalah Anggaran Pendapatan dan Belanja Negara adalah rencana keuangan tahunan Pemerintah negara Indonesia yang disetujui oleh Dewan Perwakilan Rakyat. APBN berisi daftar sistematis dan terperinci yang memuat rencana penerimaan dan pengeluaran negara selama satu tahun anggaran.</li>
-          </ol>
+        </ul>
         </p>
         <div class="container my-4">
           <div class="row">
@@ -86,7 +86,7 @@
           <div class="tab-pane fade" id="pills-1" role="tabpanel">
             <h4>Ruang Lingkup Perjalanan Dinas Jabatan</h4>
             <p> 
-            <ol>
+            <ol class="timeline-list">
               <li>Peraturan Kepala Badan ini mengatur mengenai perencanaan, pelaksanaan dan pertanggungjawaban Perjalanan Dinas Jabatan bagi Pelaksana SPD yang meliputi Pejabat Negara, Pegawai Negeri dan Pegawai Tidak Tetap dan Pihak Lain yang dibebankan pada Anggaran Pendapatan dan Belanja Negara di lingkungan Badan Pusat Statistik.</li>
               <li>Pegawai Negeri sebagaimana dimaksud pada angka (1) termasuk: 
                 <ol type="a">
@@ -102,15 +102,17 @@
           <div class="tab-pane fade" id="pills-2" role="tabpanel">
             <h4>Prinsip Perjalanan Dinas Jabatan</h4>
             <p>
-              <ol>
+              <ol class="timeline-list">
                 <li>Perjalanan Dinas Jabatan dilaksanakan dengan memperhatikan prinsip.
                 sebagai berikut:</li>
+                <ul class="nested-list">
                 <ol type="a">
                 <li>Selektif, yaitu hanya untuk kepentingan yang sangat tinggi dan prioritas yang berkaitan dengan penyelenggaraan pemerintahan;</li>
                 <li>Ketersediaan anggaran dan kesesuaian dengan pencapaian kinerja Kementerian Negara/Lembaga;</li>
                 <li>Efisiensi dan efektivitas dalam penggunaan belanja negara; dan</li>
                 <li>Transparansi dan Akuntabilitas pemberian perintah pelaksanaan Perjalanan Dinas dan pembebanan biaya Perjalanan Dinas Jabatan.</li>
               </ol>
+              </ul>
               </li>
               <li>Dalam rangka menjaga terpenuhinya pelaksanaan prinsip-prinsip sebagaimana dimaksud pada angka:
             <ol type="a">
@@ -138,12 +140,14 @@
                   <li>PPK, PPSPM, dan Bendahara Pengeluaran melakukan pengujian sesuai tugas dan kewenangannya dengan berpedoman pada Peraturan Menteri Keuangan mengenai tata cara pembayaran atas beban Anggaran Pendapatan dan Belanja Negara.</li>
             </ol>
               <li>Biaya Perjalanan Dinas Jabatan tidak dapat dibebankan apabila terdapat:</li>
+              <ul class="nested-list">
                  <ol type="a">
                   <li>Bukti-bukti pengeluaran/dokumen yang palsu;</li>
                   <li>Melebihi tarif tiket/biaya penginapan resmi <i>(mark up)</i>;</li>
                   <li>Pelaksanaan Perjalanan Dinas Jabatan rangkap pada waktu yang sama; dan/atau</il>
                   <li>Pelaksanaan dan pembayaran biaya perjalanan dinas jabatan yang tidak sesuai dengan ketentuan dalam peraturan perundang-undangan. mengenai perjalanan dinas.</li>
                  </ol>
+                </ul>
           </p>
           </div>
 
@@ -151,14 +155,17 @@
           <div class="tab-pane fade" id="pills-3" role="tabpanel">
             <h4>Perjalanan Dinas Jabatan</h4>
             <p>
-              <ol>
+              <ol class="timeline-list">
             <li>Perjalanan Dinas Jabatan digolongkan menjadi:</li>
+            <ul class="nested-list">
               <ol type="a">
                 <li>Perjalanan Dinas Jabatan yang melewati batas kota (khusus untuk Provinsi DKI Jakarta meliputi kesatuan wilayah Jakarta Pusat, Jakarta Timur, Jakarta Utara, Jakarta Barat, dan Jakarta Selatan); dan</li>
                 <li>Perjalanan Dinas Jabatan yang dilaksanakan di dalam Kota (lebih dari 8 jam dan sampai dengan 8 jam).</li>
                 </ol>
+            </ul>
                 
             <li>Perjalanan Dinas Jabatan dilakukan dalam rangka:</li>
+            <ul class="nested-list">
               <ol type="a">
                 <li>Pelaksanaan tugas dan fungsi yang melekat pada jabatan;</li>
                 <li>Mengikuti rapat, konsinyering, dan sejenisnya;</li>
@@ -171,8 +178,10 @@
                 <li>Menjemput/mengantarkan ke tempat pemakaman jenazah Pejabat Negara/Pegawai Negeri yang meninggal dunia dalam melakukan. Perjalanan Dinas; atau</li>
                 <li>Menjemput/mengantarkan ke tempat pemakaman jenazah Pejabat Negara/Pegawai Negeri yang meninggal dunia dari Tempat Kedudukan yang terakhir ke Kota tempat pemakaman.</li>
               </ol>
+            </ul>
 
             <li>Perjalanan Dinas Jabatan harus dilengkapi Penerbitan Surat Tugas dengan ketentuan sebagai berikut:</li>
+            <ul class="nested-list">
               <ol type="a">
                 <li>Perjalanan Dinas Jabatan oleh Pelaksana SPD dilakukan sesuai perintah atasan Pelaksana SPD yang tertuang dalam Surat Tugas.</li>
                 <li>Dalam hal Pelaksana SPD (peserta non BPS) tidak mempunyai atasan, Surat Tugas diterbitkan oleh penerbit Surat Tugas pada pihak penyelenggara kegiatan.</li>
@@ -196,8 +205,10 @@
             <li>Dalam hal perjalanan dinas dilakukan dalam rangka kegiatan sosialisasi/bimbingan teknis/diseminasi/workshop/Focus Group Discussion (FGD)/pertemuan/rapat koordinasi/rapat pimpinan/konsinyering, surat tugas dapat diterbitkan oleh pihak penyelenggara kegiatan.</li>
             <li>Surat tugas sebagaimana tersebut pada huruf a dibuat sesuai dengan format dan petunjuk pengisian sebagaimana tercantum dalam Lampiran II Peraturan Kepala Badan ini.</li>
               </ol>
+              </ul>
 
             <li>Perjalanan Dinas Jabatan harus dilengkapi dengan Penerbitan Surat Perjalanan Dinas (SPD) dengan ketentuan sebagai berikut:</li>
+            <ul class="nested-list">
             <ol type="a">
               <li>Surat Tugas menjadi dasar penerbitan SPD oleh PPK.</li>
               <li>Dalam hal Perjalanan Dinas Jabatan di dalam kota yang dilaksanakan sampai dengan 8 jam dapat dilakukan tanpa penerbitan SPD.</li>
@@ -205,6 +216,7 @@
               <li>SPD dibuat sesuai dengan format dan petunjuk pengisian sebagaimana tercantum dalam Lampiran III Peraturan Kepala Badan ini.</li>
               <li>Daftar peserta dibuat sesuai dengan format dan petunjuk pengisian sebagaimana tercantum dalam Lampiran IV Peraturan Kepala Badan ini.</li>
             </ol>
+            </ul>
             </ol>
             </p>
           </div>
@@ -213,20 +225,25 @@
           <div class="tab-pane fade" id="pills-4" role="tabpanel">
             <h4>Kegiatan Rapat, Konsinyering, dan Sejenisnya</h4>
             <p>
-              <ol>
+              <ol class="timeline-list">
           <li>Kegiatan rapat, konsinyering dan sejenisnya yang dimaksud dalam Peraturan ini meliputi:</li>
+          <ul class="nested-list">
           <ol type="a">
             <li>Konsinyering, dan</li>
             <li>Sosialisasi, bimbingan teknis, diseminasi, <i>workshop</i>, <i>Focus Group Discussion</i> (FGD), pertemuan, pelatihan, kursus, seminar, rapat koordinasi/rapat pimpinan, rapat kerja/rapat teknis, dan konsultasi nasional/regional/serentak.</li>
           </ol>
+          </ul>
 
           <li>Rapat, konsinyering dan sejenisnya sebagaimana dimaksud pada angka (1) harus menghasilkan output berupa:</li>
+          <ul class="nested-list">
           <ol type="a">
             <li>Notulensi dan dokumentasi rapat; dan/atau</li>
             <li>Laporan.</li>
           </ol>
+          </ul>
 
           <li>Penyelenggaraan konsinyering dan kegiatan sosialisasi, bimbingan teknis, diseminasi, <i>workshop, Focus Group Discussion</i> (FGD), pertemuan, pelatihan, kursus, seminar, kegiatan rapat, dan konsultasi nasional/regional/serentak harus memenuhi syarat dan ketentuan umum sebagai berikut:</li>
+          <ul class="nested-list">
           <ol type="a">
             <li>Berpedoman pada Peraturan Menteri Keuangan mengenai Standar Biaya Masukan;</li>
             <li>Diselenggarakan secara <i>fullboard, fullday, atau halfday</i>;</li>
@@ -261,6 +278,7 @@
           <li>Dalam hal peserta merupakan narasumber yang berasal dari luar instansi penyelenggara, maka tidak dapat diberikan uang harian. <i>fullboard/fullday/halfday</i> pada saat yang bersangkutan menjadi narasumber dalam kegiatan tersebut;</li>
           <li>Pembayaran uang harian <i>fullboard/fullday/halfday</i> dan transpor kegiatan, dimasukkan dalam <i>fullboard/fullday/halfday</i>. rincian biaya perjalanan</li>
         </ol>
+        </ul>
             </p>
           </div>
 
@@ -268,8 +286,9 @@
           <div class="tab-pane fade" id="pills-5" role="tabpanel">
             <h4>Biaya Perjalanan Dinas Jabatan</h4>
             <p>
-              <ol>
+              <ol class="timeline-list">
                 <li>Biaya Perjalanan Dinas Jabatan terdiri atas komponen-komponen sebagai berikut:</li>
+                <ul class="nested-list">
                 <ol type="a">
                   <li>Uang harian;</li>
                   <li>Biaya transpor,</li>
@@ -278,63 +297,80 @@
                   <li>Sewa kendaraan dalam kota; dan/atau</li>
                   <li>Biaya menjemput/mengantar jenazah.</li>
                 </ol>
+                </ul>
                 <li>Uang harian sebagaimana dimaksud pada angka (1) terdiri atas:</li>
                 <ol type="a">
+                <ul class="nested-list">
                   <li>uang makan;</li>
                   <li>uang transpor lokal; dan</li>
                   <li>uang saku.</li>
+                </ul>
                 </ol>
                 <li>Uang harian dibayarkan secara lumpsum dan merupakan batas tertinggi sebagaimana diatur dalam Peraturan Menteri Keuangan mengenai Standar Biaya Masukan. Uang harian dibayarkan sesuai dengan jumlah hari riil pelaksanaan Perjalanan Dinas Jabatan.</li>
                 <li>Besaran uang harian untuk Perjalanan Dinas Jabatan yang dilaksanakan dalam kota lebih dari 8 (delapan) jam dan melewati batas kota mengacu pada jumlah hari yang tercantum dalam Surat Tugas dan diberikan sesuai Peraturan Menteri Keuangan mengenai Standar Biaya Masukan.</li>
                 <li>Bagi Pelaksana SPD yang melakukan Perjalanan Dinas Jabatan untuk menempuh ujian dinas/ujian jabatan dan mengikuti pendidikan setara Diploma/S1/S2/S3 dibayarkan uang harian 1 (satu) hari pada saat kedatangan dan/atau 1 (satu) hari pada saat kepulangan.</li>
                 <li>Biaya transpor dalam rangka pelaksanaan Perjalanan Dinas Jabatan terdiri dari biaya transpor:</li>
+                <ul class="nested-list">
                 <ol type="a">
                   <li>dalam Kota sampai dengan 8 (delapan) jam;</li>
                   <li>dalam Kota lebih dari 8 (delapan) jam; atau</li>
                   <li>melewati batas Kota.</li>
                 </ol>
+                </ul>
                 <li>Biaya transpor dalam Kota sampai dengan 8 (delapan) jam diberikan secara <i>lumpsum</i> dan merupakan batas tertinggi sebagaimana diatur dalam Peraturan Menteri Keuangan mengenai Standar Biaya Masukan;</li>
                 <li>Biaya Transpor sebagaimana dimaksud pada Angka (1) huruf (b) terdiri atas:</li>
+                <ul class="nested-list">
                 <ol type="a">
                   <li>Perjalanan Dinas dari Tempat Kedudukan sampai dengan Tempat Tujuan ke berangkatan dan kepulangan termasuk biaya perjalanan ke terminal bus/stasiun/bandara/pelabuhan ke berangkatan</li>
                   <li>retribusi yang dipungut di terminal bus/ stasiun / bandara/ pelabuhan keberangkatan dan kepulangan; dan</li>
                   <li>biaya layanan dan sejenisnya yang tidak dapat dihindari pada per gadaan dan pembayaran tiket, moda transportasi, dan pengmapan, diantaranya biaya platform/biaya penyedia layanan, biaya bagasi, dan biaya lainnya dalam hal ini tidak termasuk dalam harga tiket.</li>
                 </ol>
+                </ul>
                 <li>Dalam hal Perjalanan Dinas Jabatan merupakan perjalanan dinas dalam. kota lebih dari 8 (delapan) jam maka biaya transpor dapat diberikan secara <i>lumpsum</i>:</li>
+                <ul class="nested-list">
                 <ol type="a"> 
                   <li>Sesuai jumlah hari riil pelaksanaan perjalanan dinas; atau</li>
                   <li>Sesuai jumlah penugasan pelaksanaan perjalanan dinas dalam satu hari.</li>
                 </ol>
+                </ul>
                 <li>Dalam hal penugasan dilaksanakan lebih dari 1 (satu) tujuan pelaksanaan perjalanan dinas dalam kota dan merupakan satu kesatuan penugasan hanya diberikan 1 (satu) kali biaya transpor dalam kota.</li>
                 <li>Biaya transpor dalam Kota lebih dari 8 (delapan) jam diberikan secara lumpsum dan merupakan batas tertinggi sebagaimana diatur dalam Peraturan Menteri Keuangan mengenai Standar Biaya Masukan.</li>
                 <li>Dalam hal biaya transpor dalam kota lebih dari 8 (delapan) jam melebihi biaya transpor dalam kota sebagaimana dimaksud dalam standar biaya, kepada Pelaksana SPD dapat diberikan biaya transpor sesuai dengan bukti riil yang dapat dipertanggung jawabkan.</li>
                 <li>Perjalanan Dinas keberangkatan ke Tempat Tujuan dan kepulangan dapat dilakukan dari dan ke selain Tempat Kedudukan (tempat yang sah) dengan memperhatikan efisiensi dan efektivitas, serta dibayarkan sesuai dengan Biaya Riil, paling banyak sebesar estimasi biaya transportasi dari Tempat Kedudukan ke Tempat Tujuan sesuai dengan ketentuan peraturan perundang-undangan mengenai standar biaya.</li>
                 <li>Biaya transpor melewati batas Kota diberikan sesuai biaya riil berdasarkan Fasilitas Transpor sebagaimana diatur dalam Peraturan Menteri Keuangan mengenai Perjalanan Dinas Dalam Negeri bagi Pejabat Negara, Pegawai Negeri, dan Pegawai Tidak Tetap. Biaya transpor dibayarkan secara at cost sesuai tanda bukti perjalanan (tiket, <i>boarding pass</i>, kuitansi, dan/atau tanda bukti perjalanan lainnya). Dalam hal tanda bukti tidak ada, biaya transpor dapat dibayarkan dengan menggunakan Daftar Pengeluaran Riil.</li>
                 <li>Biaya Penginapan sebagaimana dimaksud pada angka (1) huruf (c) merupakan biaya yang diperlukan untuk menginap:</li>
+                <ul class="nested-list">
                 <ol type="a"> 
                   <li>di hotel:</li>
                   <li>di tempat menginap lainnya.</li>
                 </ol>
+                </ul>
                 <li>Dalam hal pelaksana SPD tidak menggunakan biaya penginapan sebagaimana dimaksud pada angka (15), diberikan biaya penginapan sebesar 30% (tiga puluh persen) dari tarif hotel di Kota Tempat Tujuan sebagaimana diatur dalam Peraturan Menteri Keuangan mengenai Standar Biaya Masukan, dengan ketentuan:</li>
+                <ul class="nested-list">
                 <ol type="a">
                   <li> Tidak terdapat hotel atau tempat menginap lainnya, sehingga Pelaksana SPD menginap di tempat menginap yang tidak menyediakan kuitansi/bukti biaya penginapan; atau</li>
                   <li>Terdapat hotel atau tempat menginap lainnya, namun Pelaksana SPD tidak menginap di hotel atau tempat menginap lainnya tersebut.</li>
                 </ol>
+                </ul>
                 <li>Biaya penginapan sebesar 30% (tiga puluh persen) sebagaimana dimaksud pada angka (16) tidak diberikan untuk:</li>
+                <ul class="nested-list">
                 <ol type="a">
                   <li>Perjalanan Dinas Jabatan dalam Kota lebih dari 8 (delapan) jam yang dilaksanakan pergi dan pulang dalam hari yang sama;</li>
                   <li>Perjalanan Dinas Jabatan untuk mengikuti rapat, konsinvering, dan sejenisnya yang dilaksanakan dengan paket <i>meeting fullboard;</i></li>
                   <li>Perjalanan Dinas Jabatan untuk mengikuti pendidikan dan pelatihan; dan</li>
                   <li>Perjalanan Dinas Jabatan yang dilaksanakan oleh 2 orang atau lebih dalam kamar yang sama pada suatu fasilitas penginapan, dan sudah diklaim oleh salah satu peserta Perjalanan Dinas Jabatan tersebut.</li>
                 </ol>
+                </ul>
                 <li>Bagi Pelaksana SPD yang melakukan Perjalanan Dinas Jabatan untuk mengikuti pendidikan atau pelatihan diberikan biaya penginapan 1 (satu) hari pada saat kedatangan dan 1 (satu) hari pada saat kepulangan dan/atau sesuai surat undangan dari penyelenggara pendidikan atau pelatihan. Biaya penginapan selama mengikuti pendidikan dan pelatihan dapat diberikan kepada Pelaksana SPD yang melakukan Perjalanan Dinas Jabatan untuk mengikuti pendidikan dan pelatihan dalam hal tidak disediakan penginapan;</li>
                 <li>Biaya penginapan sebagaimana dimaksud pada angka (18) diberikan sesuai bukti riil dengan batasan sesuai Standar Biaya Masukan;</li>
                 <li>Uang representasi sebagaimana dimaksud pada angka (1) huruf (d) dapat diberikan kepada Pejabat Negara, Kepala/Pimpinan Lembaga, Pejabat Eselon 1, dan Pejabat Eselon II selama melakukan Perjalanan Dinas. Uang representasi melekat pada pembayaran uang harian. Uang representasi tidak dapat diberikan kepada Pelaksana Harian.</li>
                 <li>Sewa kendaraan dalam kota sebagaimana dimaksud pada angka (1) huruf (e) dapat diberikan kepada:</li>
+                <ul class="nested-list">
                 <ol type="a">
                   <li>Pejabat Negara / Kepala BPS yang melakukan perjalanan dinas dalam negeri di tempat tujuan; atau</li>
                   <li>Pelaksanaan kegiatan yang membutuhkan mobilitas tinggi, berskala besar, dan tidak tersedia kendaraan dinas serta dilakukan secara selektif dan efisien.</li>
                 </ol>
+                </ul>
                 <li>Sewa kendaraan sebagaimana dimaksud pada angka (21) sudah termasuk biaya untuk pengemudi, bahan bakar minyak, dan pajak.</li>
                 <li>Biaya menjemput/mengantar jenazah sebagaimana dimaksud pada angka (1) huruf (f) meliputi biaya bagi penjemput/pengantar, biaya pemetian, dan biaya angkutan jenazah. Biaya menjemput/mengantar jenazah berupa uang harian, biaya transpor pegawai/keluarga, dan biaya penginapan diberikan maksimal 3 (tiga) hari paling banyak untuk 4 (empat) orang;</li>
                 <li>Ketentuan mengenai pembayaran komponen biaya perjalanan dinas sebagaimana dimaksud pada angka (1) untuk setiap jenis perjalanan dinas sebagaimana dimaksud diatur dalam Lampiran VI Peraturan Kepala Badan ini.</li>
@@ -346,19 +382,23 @@
           <div class="tab-pane fade" id="pills-6" role="tabpanel">
             <h4>Pembatalan Perjalanan Dinas</h4>
             <p>
-              <ol>
+              <ol class="timeline-list">
                 <li>Dalam hal terjadi pembatalan pelaksanaan Perjalanan Dinas Jabatan, biaya pembatalan dapat dibebankan pada DIPA satuan kerja berkenaan.</li>
                 <li>Dokumen yang harus dilampirkan dalam pembebanan biaya pembatalan sebagaimana dimaksud dalam angka (1) meliputi:</li>
+                <ul style="nested-list">
                 <ol type="a">
                   <li>Surat Pernyataan Pembatalan Tugas Perjalanan Dinas Jabatan dari atasan Pelaksana SPD, atau paling rendah Pejabat Eselon II bagi Pelaksana SPD di bawah Pejabat Eselon III ke bawah, yang dibuat sesuai format sebagaimana tercantum dalam Lampiran VII Peraturan Kepala Badan ini;</li>
                   <li> Surat Pernyataan Pembebanan Biaya Pembatalan Perjalanan Dinas Jabatan yang dibuat sesuai format sebagaimana tercantum dalam Lampiran VIII Peraturan Kepala Badan ini; dan</li>
                   <li>Pernyataan/Tanda Bukti Besaran Pengembalian Biaya Transpor dan/atau biaya penginapan dari perusahaan jasa transportasi dan/atau penginapan yang disahkan oleh PPK.</li>
                 </ol>
+                </ul>
                 <li>Biaya pembatalan yang dapat dibebankan pada DIPA satuan kerja sebagaimana dimaksud pada angka (1) sebagai berikut:</li>
+                <ul style="nested-list">
                 <ol type="a">
                   <li>biaya pembatalan tiket transportasi atau biaya penginapan, atau</li>
                   <li> sebagian atau seluruh biaya tiket transportasi atau biaya penginapan yang tidak dapat dikembalikan/<i>refund</i>.</li>
                 </ol>
+                </ul>
               </ol>
             </p>
           </div>
@@ -367,11 +407,11 @@
           <div class="tab-pane fade" id="pills-7" role="tabpanel">
             <h4>Standar Biaya Transportasi</h4>
             <p>
-              <ol>
+              <ol class="timeline-list">
                 <li>Biaya taksi adalah satuan biaya yang digunakan untuk kebutuhan biaya satu kali perjalanan taksi dari tempat kedudukan menuju bandara/pelabuhan/terminal/stasiun keberangkatan atau dari bandara/pelabuhan/terminal/ stasiun kedatangan menuju tempat tujuan di kota bandara/ pelabuhan/terminal/stasiun kedatangan dan sebaliknya. Dalam pelaksanaan anggaran, satuan biaya taksi perjalanan dinas dalam negeri menggunakan metode biaya riil dan sesuai ketentuan Standar Biaya Masukan yang berlaku.</li>
                 <li>Biaya transpor dari ibu kota provinsi ke ibu kota kabupaten dibayarkan sesuai tanda bukti perjalanan (tiket, <i>boarding pass</i>, kuitansi, dan tanda bukti perjalanan lainnya).</li>
                 <li>Standar Biaya Transportasi yang tidak diatur dalam SBM dapat diatur tersendiri melalui SK Kuasa Pengguna Anggaran.</li>
-              </ol>
+              </>
             </p>
           </div>
 
@@ -379,14 +419,17 @@
           <div class="tab-pane fade" id="pills-8" role="tabpanel">
             <h4>Pertanggungjawaban Biaya Perjalanan Dinas Jabatan</h4>
             <p>
-              <ol>
+              <ol class="timeline-list">
                 <li>Pelaksana SPD mempertanggungjawabkan:</li>
+                <ul style="nested-list">
                 <ol type="a">
                   <li>Pelaksanaan Perjalanan Dinas Jabatan kepada pemberi tugas; dan</li>
                   <li>Biaya Perjalanan Dinas Jabatan kepada PPK; Paling lambat 5 (lima) hari kerja setelah tanggal harus kembali yang tercantum dalam SPD.</li>
                 </ol>
+                </ul>
                 <li>Pertanggungjawaban pelaksanaan perjalanan dinas Jabatan kepada pemberi tugas diwujudkan dalam bentuk laporan pelaksanaan.</li>
                 <li>Pertanggungjawaban biaya perjalanan dinas biasa dengan melampirkan. dokumen sebagai berikut:</li>
+                <ul style="nested-list">
                 <ol type="a">
                   <li>Kerangka Acuan Kerja (KAK);</li>
                   <li>Form Permintaan;</li>
@@ -399,7 +442,9 @@
                   <li>Laporan perjalanan dinas dan dokumentasi kegiatan;</li>
                   <li>Kuitansi perjalanan dinas.</li>
                 </ol>
+                </ul>
                 <li>Pertanggungjawaban kegiatan rapat, konsinyering, dan sejenisnya dengan melampirkan dokumen sebagai berikut:</li>
+                <ul style="nested-list">
                 <ol type="a">
                   <li>KAK;</li>
                   <li>Form Permintaan;</li>
@@ -415,7 +460,7 @@
                   <li>Tagihan Hotel;</li>
                   <li> Kelengkapan berkas pengadaan dan tata cara pembayarannya mengacu pada Peraturan Presiden mengenai Pengadaan Barang/Jasa Pemerintah dan Peraturan Menteri Keuangan mengenai Tata Cara Pembayaran Dalam Rangka Pelaksanaan Anggaran Pendapatan dan Belanja Negara.</li>
                 </ol>
-              </ol>
+                </ul>
             </p>
            </div>
         </div>

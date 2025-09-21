@@ -391,6 +391,94 @@ h4 {
   min-height: 80vh;
 }
 
+.timeline-list {
+  list-style: none;
+  counter-reset: section;
+  padding-left: 0;
+  margin: 0; 
+}
+
+.timeline-list > li {
+  counter-increment: section;
+  margin: 1rem 0;              
+  padding-left: 2.5rem;
+  position: relative;        
+}
+
+.timeline-list > li::before {
+  content: counter(section);
+  position: absolute;
+  left: 0;
+  top: 0.15rem;                
+  background: #19335aff;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 50%;
+  width: 27px;
+  height: 27px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.8rem;
+}
+
+.nested-list {
+  margin-top: 0.3rem;          
+  margin-left: 1.5rem;
+  padding-left: 1rem;         
+  list-style: lower-alpha;     
+}
+
+.nested-list li {
+  line-height: 1.4;
+  margin-bottom: 0.2rem;
+}
+
+/*LIST DENGAN ANGKA (1) */
+.angka {
+  list-style: none;
+  counter-reset: angka;
+  padding-left: 1.5rem;
+  margin: 0;
+}
+.angka {
+  list-style: none;
+  counter-reset: angka;
+  padding-left: 1.5rem;
+}
+
+.angka li {
+  counter-increment: angka;
+  position: relative;
+  padding-left: 1.2rem;
+}
+
+.angka li::before {
+  content: counter(angka) ")";
+  position: absolute;
+  left: 0;
+}
+
+.huruf {
+  list-style: none;
+  counter-reset: huruf;
+  padding-left: 1.5rem;
+}
+
+.huruf li {
+  counter-increment: huruf;
+  position: relative;
+  padding-left: 1.2rem;
+}
+
+.huruf li::before {
+  content: counter(huruf, lower-alpha) ")";
+  position: absolute;
+  left: 0;
+  /* Tidak ditebalkan */
+}
+
+
 @media screen and (max-width: 576px) {
   .navbar {
     padding: 4px 8px;
