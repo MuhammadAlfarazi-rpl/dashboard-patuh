@@ -14,7 +14,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
 
   <!-- Title -->
-  <title>AKURAT | Administrasi & Keuangan Regulasi Dashboard Terpadu</title>
+  <title>PATUH | Pedoman Administrasi Keuangan Pemerintah</title>
 
   <!-- CDN Bx -->
   <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
