@@ -34,20 +34,19 @@
                 <!-- Belanja Konsumsi Rapat -->
                 <div class="tab-pane fade show active" id="pills-0" role="tabpanel">
                     <h4>Belanja Konsumsi Rapat</h4>
-                    <ol type="A">
-                        <li>Pengertian</li>
+                        <p><b>Pengertian</b></p>
                         <p>Satuan Biaya Konsumsi Rapat merupakan satuan biaya yang digunakan untuk kebutuhan biaya pengadaan makan dan kudapan termasuk minuman untuk rapat/pertemuan baik untuk rapat koordinasi tingkat. menteri/eselon 1/setara maupun untuk rapat biasa dan dilaksanakan secara langsung <i>(offline)</i> paling singkat selama 2 (dua) jam.</p>
-                        <li>Catatan Penting</li>
-                        <ol type="1">
+                        <p><b>Catatan Penting</b></p>
+                        <ol type="1" class="justify-list">
                             <li>Rapat koordinasi tingkat menteri/eselon 1/setara adalah rapat koordinasi yang pesertanya menteri/eselon 1/pejabat yang setara.</li>
                             <li>Konsumsi Rapat berupa makan dan kudapan termasuk minuman dapat diberikan jika melibatkan unit eselon I lainnya/kementerian/lembaga lainnya/instansi pemerintah/pihak lain. Pihak lain tersebut antara lain mitra petugas sensus/survei, wartawan, dan lain sebagainya.</li>
                             <li>Konsumsi Rapat berupa kudapan termasuk minuman dapat diberikan jika melibatkan satker/eselon II lainnya/setara.</li>
                             <li>Yang dimaksud satker lainnya adalah kantor vertikal berdasarkan struktur organisasi.</li>
                         </ol>
                         <br>
-                        <li>Akun yang Dapat Digunakan</li>
-                        <p>Akun 521211 - Belanja Bahan.</p>
-                        <li>Kelengkapan Tagihan Pembayaran</li>
+                        <p><b>Akun yang Dapat Digunakan</b></p>
+                        <p>->Akun 521211 - Belanja Bahan.</p>
+                        <p><b>Kelengkapan Tagihan Pembayaran</b></p>
                         <table cellpadding="6" cellspacing="0">
                             <tbody>
                                 <tr>
@@ -126,21 +125,24 @@
                         </table>
                     <div class="container my-4">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-12">
                                 <div class="card shadow-sm border-0 rounded-3">
-                                    <div class="card-body text-center">
-                                        <h5 class="card-title fw-bold">Pedoman Belanja Konsumsi Rapat</h5>
-                                        <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Konsumsi Rapat.</p>
+                                    <div class="card-body d-flex justify-content-between align-items-center">
+                                        <div>
+                                            <h5 class="card-title fw-semibold">Pedoman Belanja Konsumsi Rapat</h5>
+                                            <p class="card-text small">Klik tombol di samping untuk membuka atau mengunduh file PDF Pedoman Konsumsi Rapat.</p>
+                                        </div>
+                                        <div class="text-end">
+                                            <!-- Tombol Buka PDF -->
+                                            <a href="https://drive.google.com/file/d/1HBYHNqqS9zYXD4QV07u_TWig1d24X63w/view?usp=sharing" target="_blank" class="btn btn-primary me-2 mb-2">
+                                            📄 Buka PDF
+                                            </a>
           
-                                        <!-- Tombol Buka PDF -->
-                                         <a href="https://drive.google.com/file/d/1HBYHNqqS9zYXD4QV07u_TWig1d24X63w/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
-                                        📄 Buka PDF
-                                        </a>
-          
-                                         <!-- Tombol Download PDF -->
-                                        <a href="https://drive.google.com/uc?export=download&id=1HBYHNqqS9zYXD4QV07u_TWig1d24X63w" class="btn btn-success">
-                                        ⬇️ Download PDF
-                                        </a>
+                                            <!-- Tombol Download PDF -->
+                                            <a href="https://drive.google.com/uc?export=download&id=1HBYHNqqS9zYXD4QV07u_TWig1d24X63w" class="btn btn-success mb-2">
+                                            ⬇️ Download PDF
+                                            </a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -151,15 +153,14 @@
                 <!-- Belanja Perlengkapan Pakai Habis -->
                 <div class="tab-pane fade" id="pills-1" role="tabpanel">
                     <h4>Belanja Perlengkapan Pakai Habis</h4>
-                    <ol type="A">
-                        <li>Pengertian</li>
-                        <ol type="1">
+                        <p><b>Pengertian</b></p>
+                        <ol type="1" class="justify-list">
                             <li>Satuan biaya keperluan sehari-hari perkantoran di dalam negeri merupakan satuan biaya yang digunakan untuk kebutuhan biaya keperluan sehari-hari perkantoran berupa barang pakai habis yang secara langsung menunjang penyelenggaraan operasional dan untuk memenuhi kebutuhan minimal agar suatu kantor dapat memberikan pelayanan (melaksanakan kegiatan) secara optimal.</li>
                             <li>Barang pakai habis bersifat tidak berkelanjutan, hanya untuk satu kali kegiatan dalam jangka waktu pendek yang diperlukan dalam. pelaksanaan kegiatan non operasional seperti pameran, seminar, sosialisasi, rapat, diseminasi dan lain lain yang terkait langsung dengan <i>output</i> suatu kegiatan dan tidak menghasilkan barang persediaan.</li>
                             <li>Berdasarkan surat edaran Direktorat Akuntansi dan Pelaporan Keuangan, Direktorat Jenderal Perbendaharaan, Kementerian Keuangn Nomor: SE-6478/PB.06/2015, "untuk barang-barang yang direncanakan "habis pada satu kegiatan tidak dialokasikan dari belanja barang persediaan dan "tidak menjadi barang persediaan".</li>
                         </ol>
-                        <li>Catatan Penting</li>
-                        <ol type="1">
+                        <p><b>Catatan Penting</b></p>
+                        <ol type="1" class="justify-list">
                             <li>Pelaksanaan belanja perlengkapan habis pakai memperhatikan prinsip efisien, ekonomis, efektif, kewajaran dan kepatutan.</li>
                             <li>Batasan Belanja Barang Perlengkapan pakai habis yang dimaksud adalah:</li>
                             <ol type="a">
@@ -171,9 +172,9 @@
                                 <li>tidak memberi masa manfaat dalam periode pencatatan akuntansi dalam laporan keuangan.</li>
                             </ol>
                         </ol>
-                        <li>Akun yang Dapat Digunakan</li>
+                        <p><b>Akun yang Dapat Digunakan</b></p>
                         <p>Pada umumnya akun yang dapat digunakan dalam belanja barang perlengkapan pakai habis pada Program Penyediaan dan Pelayanan Informasi Statistik (PPIS) untuk kegiatan Sensus dan Survei adalah akun belanja barang khususnya pada akun belanja bahan (521211).</p>
-                        <li>Kelengkapan Tagihan Pembayaran</li>
+                        <p><b>Kelengkapan Tagihan Pembayaran</b></p>
                         <table cellpadding="6" cellspacing="0">
                             <tbody>
                                 <tr>
@@ -234,7 +235,7 @@
                                 </tr>
                                 <tr>
                                     <td>8.</td>
-                                    <td>SSP PPh 22 sebesar 2%</td>
+                                    <td>SSP PPh 22 sebesar 1,5%</td>
                                     <td style="padding-left: 70px;">
                                         <a href="https://drive.google.com/drive/folders/17Ukj8rC9W2lSNPaOGcCZLf5LWt1ZyG9C?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
@@ -244,21 +245,24 @@
                         </table>
                     <div class="container my-4">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-12">
                                 <div class="card shadow-sm border-0 rounded-3">
-                                    <div class="card-body text-center">
-                                        <h5 class="card-title fw-bold">Pedoman Belanja Perlengkapan Pakai Habis</h5>
-                                        <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Belanja Perlengkapan Pakai Habis.</p>
+                                    <div class="card-body d-flex justify-content-between align-items-center">
+                                        <div>
+                                            <h5 class="card-title fw-semibold">Pedoman Belanja Perlengkapan Pakai Habis</h5>
+                                            <p class="card-text small">Klik tombol di samping untuk membuka atau mengunduh file PDF Pedoman Belanja Perlengkapan Pakai Habis.</p>
+                                        </div>
+                                        <div class="text-end">
+                                            <!-- Tombol Buka PDF -->
+                                            <a href="https://drive.google.com/file/d/1scZzWbHb2qnFPM1YWjiGq_slyfLUGH-P/view?usp=sharing" target="_blank" class="btn btn-primary me-2 mb-2">
+                                            📄 Buka PDF
+                                            </a>
           
-                                        <!-- Tombol Buka PDF -->
-                                        <a href="https://drive.google.com/file/d/1scZzWbHb2qnFPM1YWjiGq_slyfLUGH-P/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
-                                        📄 Buka PDF
-                                        </a>
-          
-                                         <!-- Tombol Download PDF -->
-                                        <a href="https://drive.google.com/uc?export=download&id=1scZzWbHb2qnFPM1YWjiGq_slyfLUGH-P" class="btn btn-success">
-                                        ⬇️ Download PDF
-                                        </a>
+                                            <!-- Tombol Download PDF -->
+                                            <a href="https://drive.google.com/uc?export=download&id=1scZzWbHb2qnFPM1YWjiGq_slyfLUGH-P" class="btn btn-success mb-2">
+                                            ⬇️ Download PDF
+                                            </a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -269,26 +273,25 @@
                 <!-- Belanja Penggandaan / Pencentakan -->
                 <div class="tab-pane fade" id="pills-2" role="tabpanel">
                     <h4>Belanja Penggandaan / Pencentakan</h4>
-                    <ol type="A">
-                        <li>Pengertian</li>
+                        <p><b>Pengertian</b></p>
                         <p>Belanja penggandaan/pencetakan dilakukan untuk memenuhi kebutuhan. bahan cetakan dalam rangkaian kegiatan sensus/survei, meliputi pelatihan petugas, sosialisasi, rapat, atau diseminasi. Belanja penggandaan/pencetakan dapat berupa pencetakan kuesioner sensus/survei, <i>leaflet</i>, buku pedoman, buku publikasi, dan sebagainya.</p>
-                        <li>Catatan Penting</li>
-                        <ol type="1">
+                        <p><b>Catatan Penting</b></p>
+                        <ol type="1" class="justify-list">
                             <li>Proses cetak bisa dilakukan di dalam atau luar kantor dengan pertimbangan kemampuan, kerahasiaan, dan keamanan dokumen negara; dan</li>
                             <li>Jika terdapat barang sisa di akhir periode pelaporan, akan dicatat sebagai persediaan melalui:</li>
-                            <ol type="a">
+                            <ol type="a" class="justify-list">
                                 <li>Ralat dokumen sumber belanja (jika waktu memungkinkan dan mempertimbangkan ketersediaan pagu anggaran); atau</li>
                                 <li>Opname fisik barang.</li>
                             </ol>
                         </ol>
-                        <li>Akun yang Dapat Digunakan</li>
+                        <p><b>Akun yang Dapat Digunakan</b></p>
                         <ol type="1">
                             <li>521211 - Belanja Bahan</li>
                             <p>Menggunakan akun 521211 jika belanja menghasilkan barang yang pakai habis.</p>
                             <li>521811 - Belanja Barang Persediaan Barang Konsumsi</li>
                             <p>Menggunakan akun 521811 jika belanja ini menghasilkan persediaan berupa barang konsumsi.</p>
                         </ol>
-                        <li>Kelengkapan Tagihan Pembayaran</li>
+                        <p><b>Kelengkapan Tagihan Pembayaran</b></p>
                         <table cellpadding="6" cellspacing="0">
                             <tbody>
                                 <tr>
@@ -351,21 +354,24 @@
                         </table>
                     <div class="container my-4">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-12">
                                 <div class="card shadow-sm border-0 rounded-3">
-                                    <div class="card-body text-center">
-                                        <h5 class="card-title fw-bold">Pedoman Belanja Penggandaan / Pencentakan</h5>
-                                        <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Belanja Penggandaan / Pencentakan.</p>
+                                    <div class="card-body d-flex justify-content-between align-items-center">
+                                        <div>
+                                            <h5 class="card-title fw-semibold">Pedoman Belanja Penggandaan / Pencentakan</h5>
+                                            <p class="card-text small">Klik tombol di samping untuk membuka atau mengunduh file PDF Pedoman Belanja Penggandaan / Pencentakan.</p>
+                                        </div>
+                                        <div class="text-end">
+                                            <!-- Tombol Buka PDF -->
+                                            <a href="https://drive.google.com/file/d/1hinlwZce0_NhICJwEJCOyviXhGq9SW-U/view?usp=sharing" target="_blank" class="btn btn-primary me-2 mb-2">
+                                            📄 Buka PDF
+                                            </a>
           
-                                        <!-- Tombol Buka PDF -->
-                                        <a href="https://drive.google.com/file/d/1hinlwZce0_NhICJwEJCOyviXhGq9SW-U/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
-                                        📄 Buka PDF
-                                        </a>
-          
-                                         <!-- Tombol Download PDF -->
-                                        <a href="https://drive.google.com/uc?export=download&id=1hinlwZce0_NhICJwEJCOyviXhGq9SW-U" class="btn btn-success">
-                                        ⬇️ Download PDF
-                                        </a>
+                                            <!-- Tombol Download PDF -->
+                                            <a href="https://drive.google.com/uc?export=download&id=1hinlwZce0_NhICJwEJCOyviXhGq9SW-U" class="btn btn-success mb-2">
+                                            ⬇️ Download PDF
+                                            </a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -376,15 +382,14 @@
                 <!-- Belanja Persediaan Barang Konsumsi -->
                 <div class="tab-pane fade" id="pills-3" role="tabpanel">
                     <h4>Belanja Persediaan Barang Konsumsi</h4>
-                    <ol type="A">
-                        <li>Pengertian</li>
-                        <ol type="1">
+                        <p><b>Pengertian</b></p>
+                        <ol type="1" class="justify-list">
                             <li>Persediaan adalah aset lancar dalam bentuk barang atau perlengkapan yang dimaksudkan untuk mendukung kegiatan operasional pemerintah, dan barang-barang yang dimaksudkan untuk dijual dan/atau diserahkan dalam rangka pelayanan kepada masyarakat. Persediaan mencakup barang atau perlengkapan yang dibeli dan simpan untuk digunakan, misalnya barang habis pakai seperti ATK, barang tak habis pakai seperti komponen peralatan dan pipa, dan barang bekas pakai.</li>
                             <li>Belanja adalah semua pengeluaran dari Rekening Kas Umum Negara yang mengurangi Saldo Anggaran Lebih dalam periode tahun anggaran bersangkutan dan tidak akan diperoleh pembayarannya kembali oleh pemerintah. Belanja Barang Persediaan Konsumsi adalah akun yang digunakan untuk mencatat belanja barang yang menghasilkan persediaan berupa barang konsumsi, seperti ATK, bahan cetakan, alat-alat rumah tangga, dan lain-lain.</li>
                             <li>Belanja Barang Persediaan Barang Konsumsi digunakan untuk mencatat belanja yang direncanakan kontinyu/berkelanjutan, tidak habis dalam sekali kegiatan, dan disimpan dalam gudang penyimpanan seperti ATK, bahan cetakan, buku-buku peraturan, dan alat-alat rumah tangga.</li>
                         </ol>
-                        <li>Catatan Penting</li>
-                        <ol type="1">
+                        <p><b>Catatan Penting</b></p>
+                        <ol type="1" class="justify-list">
                             <li>Barang yang dihasilkan dari realisasi belanja barang persediaan konsumsi diakui sebagai barang persediaan dan diinput dalam aplikasi Sistem Aplikasi Keuangan Tingkat Instansi (SAKTI) modul Persediaan;</li>
                             <li>Barang persediaan yang dihasilkan dari realisasi belanja barang persediaan dicatat pada laporan keuangan berdasarkan hasil opname fisik yang dituangkan dalam Berita Acara Opname Fisik;</li>
                             <li>Opname fisik dilaksanakan setiap periode pelaporan keuangan yaitu semesteran dan tahunan;</li>
@@ -401,9 +406,9 @@
                                 <li>melakukan penyesuaian sebagaimana diatur pada bab Perlakuan Akuntansi.</li>
                             </ol>
                         </ol>
-                        <li>Akun yang Dapat Digunakan</li>
-                        <p>Akun 521811 - Belanja Persediaan Barang Konsumsi.</p>
-                        <li>Kelengkapan Tagihan Pembayaran</li>
+                        <p><b>Akun yang Dapat Digunakan</b></p>
+                        <p>->Akun 521811 - Belanja Persediaan Barang Konsumsi.</p>
+                        <p><b>Kelengkapan Tagihan Pembayaran</b></p>
                         <table cellpadding="6" cellspacing="0">
                             <tbody>
                                 <tr>
@@ -466,21 +471,24 @@
                         </table>
                     <div class="container my-4">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-12">
                                 <div class="card shadow-sm border-0 rounded-3">
-                                    <div class="card-body text-center">
-                                        <h5 class="card-title fw-bold">Pedoman Belanja Persediaan Barang Konsumsi</h5>
-                                        <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Belanja Persediaan Barang Konsumsi.</p>
+                                    <div class="card-body d-flex justify-content-between align-items-center">
+                                        <div>
+                                            <h5 class="card-title fw-semibold">Pedoman Belanja Persediaan Barang Konsumsi</h5>
+                                            <p class="card-text small">Klik tombol di samping untuk membuka atau mengunduh file PDF Pedoman Belanja Persediaan Barang Konsumsi.</p>
+                                        </div>
+                                        <div class="text-end">
+                                            <!-- Tombol Buka PDF -->
+                                            <a href="https://drive.google.com/file/d/1sxaBDJpzTV4t2AXhJ3CwjU-F46XB1YS_/view?usp=sharing" target="_blank" class="btn btn-primary me-2 mb-2">
+                                            📄 Buka PDF
+                                            </a>
           
-                                        <!-- Tombol Buka PDF -->
-                                        <a href="https://drive.google.com/file/d/1sxaBDJpzTV4t2AXhJ3CwjU-F46XB1YS_/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
-                                        📄 Buka PDF
-                                        </a>
-          
-                                         <!-- Tombol Download PDF -->
-                                        <a href="https://drive.google.com/uc?export=download&id=1sxaBDJpzTV4t2AXhJ3CwjU-F46XB1YS" class="btn btn-success">
-                                        ⬇️ Download PDF
-                                        </a>
+                                            <!-- Tombol Download PDF -->
+                                            <a href="https://drive.google.com/uc?export=download&id=1sxaBDJpzTV4t2AXhJ3CwjU-F46XB1YS" class="btn btn-success mb-2">
+                                            ⬇️ Download PDF
+                                            </a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -495,12 +503,12 @@
                         <li>Honor <i>Output</i> Kegiatan</li>
                         <ol type="1">
                             <li>Pengertian</li>
-                            <ol type="a">
+                            <ol type="a" class="justify-list">
                                 <li>Honor <i>Output</i> Kegiatan merupakan honor yang dibayarkan atas pelaksanaan kegiatan yang insidentil dan dapat dibayarkan tidak terus menerus dalam satu tahun. Honor <i>output</i> kegiatan mencakup honor tim pelaksana kegiatan (pengarah, penanggung jawab, koordinator, ketua, sekretaris, anggota, dan staf sekretariat), honor petugas, honor penunjuk jalan, honor ketua SLS, kades/lurah, honor camat, honor pengajar (Innas atau Inda), dll.</li>
                                 <li>Honor Tim Pelaksana Kegiatan adalah honor yang diberikan kepada seseorang yang berdasarkan Surat Keputusan Presiden/Menteri/Pejabat Setingkat Menteri/Pejabat Eselon 1/Kuasa Pengguna Anggaran (KPA) diangkat dalam suatu tim pelaksana kegiatan untuk melaksanakan suatu tugas tertentu.</li>
                             </ol>
                             <li>Catatan Penting</li>
-                            <ol type="a">
+                            <ol type="a" class="justify-list">
                                 <li>Honor tim pelaksana kegiatan dapat dibayarkan jika terdapat keterlibatan instansi atau kementerian/lembaga lain. Apabila pada bulan tertentu tidak terdapat keterlibatan atau koordinasi dengan instansi atau kementerian/lembaga lain, maka honor tim pelaksana kegiatan pada bulan tersebut tidak dapat dibayarkan.</li>
                                 <li>Dalam satu tahun anggaran, honor tim pelaksana kegiatan hanya dapat dibayarkan untuk dua kegiatan saja. Jika salah satu atau kedua kegiatan telah selesai dilaksanakan sebelum berakhirnya tahun anggaran, maka honor tim pelaksana kegiatan tidak dapat diberikan lagi pada kegiatan yang lain.</li>
                                 <li>Honor Innas/Inda dibayarkan sesuai dengan satuan yang tercantum pada Pedoman Harga Kegiatan Statistik yang berlaku.</li>
@@ -519,7 +527,7 @@
                                         <tr>
                                             <td>1)</td>
                                             <td>Kerangka Acuan Kerja (KAK)</td>
-                                            <td style="padding-left: 70px;">
+                                            <td style="padding-left: 40px;">
                                                 <a href="https://drive.google.com/drive/folders/1CEnq97f7MVwYsR0W6YLMl0QGgIxxZxLe?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -527,7 +535,7 @@
                                         <tr>
                                             <td>2)</td>
                                             <td>Form Permintaan</td>
-                                            <td style="padding-left: 70px;">
+                                            <td style="padding-left: 40px;">
                                                 <a href="https://drive.google.com/drive/folders/1FvpGKDp5dGroi-An2JnQDRs1ituuCzkB?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -535,7 +543,7 @@
                                         <tr>
                                             <td>3)</td>
                                             <td>SK KPA/SK KBPS yang mencakup tugas dan fungsi, besaran rate, dan kedudukan dalam Pokja</td>
-                                            <td style="padding-left: 70px;">
+                                            <td style="padding-left: 40px;">
                                                 <a href="https://drive.google.com/drive/folders/1wEas_EYbCJFCUFgHakHlFL8vaQ5RFTRm?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -543,7 +551,7 @@
                                         <tr>
                                             <td>4)</td>
                                             <td>Laporan tim/<i>output</i> pekerjaan</td>
-                                            <td style="padding-left: 70px;">
+                                            <td style="padding-left: 40px;">
                                                 <a href="https://drive.google.com/drive/folders/1VmUl3eccQNtpCry7Fl6pKSva94MFAUww?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -551,7 +559,7 @@
                                         <tr>
                                             <td>5)</td>
                                             <td>Daftar rincian penerima honor <i>output</i> kegiatan/kuitansi perorang</td>
-                                            <td style="padding-left: 70px;">
+                                            <td style="padding-left: 40px;">
                                                 <a href="https://drive.google.com/drive/folders/1z97YWywyY1C-I0chn7Cn9WOSyh17-0wN?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -559,7 +567,7 @@
                                         <tr>
                                             <td>6)</td>
                                             <td>Rekapitulasi sesuai jabatan dalam keanggotaan Pokja</td>
-                                            <td style="padding-left: 70px;">
+                                            <td style="padding-left: 40px;">
                                                 <a href="https://drive.google.com/drive/folders/1fF6JPB3ox2608BGu9rAUDUvJVu1oaKaZ?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -567,7 +575,7 @@
 			                            <tr>
                                             <td>7)</td>
                                             <td>SSP PPh Pasal 21</td>
-                                            <td style="padding-left: 70px;">
+                                            <td style="padding-left: 40px;">
                                                 <a href="https://drive.google.com/drive/folders/1dY21UOeqoWYSVjxVo87ForesJbAlS1jV?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -580,7 +588,7 @@
                                         <tr>
                                             <td>1)</td>
                                             <td>Kerangka Acuan Kerja (KAK)</td>
-                                            <td style="padding-left: 270px;">
+                                            <td style="padding-left: 250px;">
                                                 <a href="https://drive.google.com/drive/folders/168V2zIHN0jctedoKM67BKyD_sncUs7jS?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -588,7 +596,7 @@
                                         <tr>
                                             <td>2)</td>
                                             <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
-                                            <td style="padding-left: 270px;">
+                                            <td style="padding-left: 250px;">
                                                 <a href="https://drive.google.com/drive/folders/1rKkz7VcPr2i_dzJxvBHLgBIt9Yn1E8KX?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -596,7 +604,7 @@
                                         <tr>
                                             <td>3)</td>
                                             <td>SK KPA</td>
-                                            <td style="padding-left: 270px;">
+                                            <td style="padding-left: 250px;">
                                                 <a href="https://drive.google.com/drive/folders/1Xxg6XdSISGt53cdqdX2dIioQID3FTu_L?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -604,7 +612,7 @@
                                         <tr>
                                             <td>4)</td>
                                             <td>Daftar rincian penerima honor atau kuitansi per orang</td>
-                                            <td style="padding-left: 270px;">
+                                            <td style="padding-left: 250px;">
                                                 <a href="https://drive.google.com/drive/folders/1EkGeWlWywG5sJUlBNf1VoKz66DGCiYqT?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -612,7 +620,7 @@
                                         <tr>
                                             <td>5)</td>
                                             <td>SSP PPh Pasal 21</td>
-                                            <td style="padding-left: 270px;">
+                                            <td style="padding-left: 250px;">
                                                 <a href="https://drive.google.com/drive/folders/1rXK36NTdKCTIyMn7jcdhnPf8WtP4w1Ww?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -625,7 +633,7 @@
                                         <tr>
                                             <td>1)</td>
                                             <td>Kerangka Acuan Kerja (KAK)</td>
-                                            <td style="padding-left: 170px;">
+                                            <td style="padding-left: 150px;">
                                                 <a href="https://drive.google.com/drive/folders/1UPOUdOOJaXxmePDVpsimlLVsTfPDu_-e?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -633,7 +641,7 @@
                                         <tr>
                                             <td>2)</td>
                                             <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
-                                            <td style="padding-left: 170px;">
+                                            <td style="padding-left: 150px;">
                                                 <a href="https://drive.google.com/drive/folders/1UtHnOh5fJuC1shxoeMbR1PdY7pDY8r12?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -641,7 +649,7 @@
                                         <tr>
                                             <td>3)</td>
                                             <td>SK KPA</td>
-                                            <td style="padding-left: 170px;">
+                                            <td style="padding-left: 150px;">
                                                 <a href="https://drive.google.com/drive/folders/1OpGOnE4GldMiiKVnvbb33Km9xVwbe1ba?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -649,7 +657,7 @@
                                         <tr>
                                             <td>4)</td>
                                             <td>Jadwal kegiatan (mengikuti jadwal pada pedoman penyelenggaraan pelatihan)</td>
-                                            <td style="padding-left: 170px;">
+                                            <td style="padding-left: 150px;">
                                                 <a href="https://drive.google.com/drive/folders/1oUM5p5ha7zdyhcsZXkSsn0s42fmXfvHn?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -657,7 +665,7 @@
                                         <tr>
                                             <td>5)</td>
                                             <td>Daftar hadir</td>
-                                            <td style="padding-left: 170px;">
+                                            <td style="padding-left: 150px;">
                                                 <a href="https://drive.google.com/drive/folders/1KKQzN--LIukVK9GDDT5ZyrVvC69PoVH4?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -665,7 +673,7 @@
                                         <tr>
                                             <td>6)</td>
                                             <td>Rekapitulasi belanja honor</td>
-                                            <td style="padding-left: 170px;">
+                                            <td style="padding-left: 150px;">
                                                 <a href="https://drive.google.com/drive/folders/1OJXMzJ7f0JSQhHyhJTzMPaY21JlWH7wn?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -673,7 +681,7 @@
                                         <tr>
                                             <td>7)</td>
                                             <td>Laporan pengajar (Innas atau Inda)</td>
-                                            <td style="padding-left: 170px;">
+                                            <td style="padding-left: 150px;">
                                                 <a href="https://drive.google.com/drive/folders/16srwUcfcS1UaQL2fHYNew3jNO8sY33Iv?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -681,7 +689,7 @@
                                         <tr>
                                             <td>8)</td>
                                             <td>SSP PPh Pasal 21</td>
-                                            <td style="padding-left: 170px;">
+                                            <td style="padding-left: 150px;">
                                                 <a href="https://drive.google.com/drive/folders/1CDFtH-vQQ4F7l4kpsyi-Dg1ABUsjNSGB?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -694,7 +702,7 @@
                                         <tr>
                                             <td>1)</td>
                                             <td>Kerangka Acuan Kerja (KAK)</td>
-                                            <td style="padding-left: 270px;">
+                                            <td style="padding-left: 250px;">
                                                 <a href="https://drive.google.com/drive/folders/1bLbZ0ta-blt8r4EQFackN3EnXoEeRB91?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -702,7 +710,7 @@
                                         <tr>
                                             <td>2)</td>
                                             <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
-                                            <td style="padding-left: 270px;">
+                                            <td style="padding-left: 250px;">
                                                 <a href="https://drive.google.com/drive/folders/1v2-J0awUtAFDFfVYdTBh_3wUKSWliPCk?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -710,7 +718,7 @@
                                         <tr>
                                             <td>3)</td>
                                             <td>SK KPA</td>
-                                            <td style="padding-left: 270px;">
+                                            <td style="padding-left: 250px;">
                                                 <a href="https://drive.google.com/drive/folders/17SaifIJ85hxYEOUNMeG2PsNGYc_rAyXn?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -718,7 +726,7 @@
                                         <tr>
                                             <td>4)</td>
                                             <td>Surat kontrak/surat perjanjian kerja</td>
-                                            <td style="padding-left: 270px;">
+                                            <td style="padding-left: 250px;">
                                                 <a href="https://drive.google.com/drive/folders/1pOAGlsv2nowlFe7qYe5poGqfmekwu9uf?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -726,7 +734,7 @@
                                         <tr>
                                             <td>5)</td>
                                             <td>Rekapitulasi belanja honor</td>
-                                            <td style="padding-left: 270px;">
+                                            <td style="padding-left: 250px;">
                                                 <a href="https://drive.google.com/drive/folders/14k4ZCxmKUmliZoeq8mZK-Usjg9lkqtZ0?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -734,7 +742,7 @@
                                         <tr>
                                             <td>6)</td>
                                             <td>Bukti Prestasi Pekerjaan</td>
-                                            <td style="padding-left: 270px;">
+                                            <td style="padding-left: 250px;">
                                                 <a href="https://drive.google.com/drive/folders/1GicE5_s5Hl7V3umKZNu03SAwCDFXmQ_9?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -742,7 +750,7 @@
                                         <tr>
                                             <td>7)</td>
                                             <td>SSP PPh Pasal 21</td>
-                                            <td style="padding-left: 270px;">
+                                            <td style="padding-left: 250px;">
                                                 <a href="https://drive.google.com/drive/folders/1O8owyzB86fvF0A0cNDqhuri0LPvUY1a_?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -755,7 +763,7 @@
                                         <tr>
                                             <td>1)</td>
                                             <td>Kerangka Acuan Kerja (KAK)</td>
-                                            <td style="padding-left: 270px;">
+                                            <td style="padding-left: 250px;">
                                                 <a href="https://drive.google.com/drive/folders/1xONkc98IgEWNvRhHoeIVXlKFqKHSpQXK?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -763,7 +771,7 @@
                                         <tr>
                                             <td>2)</td>
                                             <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
-                                            <td style="padding-left: 270px;">
+                                            <td style="padding-left: 250px;">
                                                 <a href="https://drive.google.com/drive/folders/1HmLKAuF9Jlsg1kr2Wv1nZWpRE6jEiASW?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -771,7 +779,7 @@
                                         <tr>
                                             <td>3)</td>
                                             <td>SK KPA tentang Honor Petugas</td>
-                                            <td style="padding-left: 270px;">
+                                            <td style="padding-left: 250px;">
                                                 <a href="https://drive.google.com/drive/folders/1alofNuS4JpFJcw225waWr7XEWHFuhBTq?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -779,7 +787,7 @@
                                         <tr>
                                             <td>4)</td>
                                             <td>Rekapitulasi belanja honor</td>
-                                            <td style="padding-left: 270px;">
+                                            <td style="padding-left: 250px;">
                                                 <a href="https://drive.google.com/drive/folders/1E3a0QuFRmc8IqRHFUvOt8hX1QWBJf_Z7?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -787,7 +795,7 @@
                                         <tr>
                                             <td>5)</td>
                                             <td>SSP PPh Pasal 21</td>
-                                            <td style="padding-left: 270px;">
+                                            <td style="padding-left: 250px;">
                                                 <a href="https://drive.google.com/drive/folders/1dZR9tji24BZQeBgCu0BXwTL-Z08RYAEG?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                                 <i class="bx bx-folder-open"></i> Lihat </a>
                                             </td>
@@ -798,14 +806,14 @@
                         <li>Honor Terkait Jasa Profesi</li>
                         <ol type="1">
                             <li>Pengertian</li>
-                            <ol type="a">
+                            <ol type="a" class="justify-list">
                                 <li>Honor terkait jasa profesi diberikan kepada narasumber (pegawai negeri/non pegawai negeri) yang memberikan informasi atau pengetahuan kepada pegawai negeri lainnya/masyarakat. Honor terkait jasa profesi juga diberikan kepada moderator.</li>
                                 <li>Honor narasumber adalah honor yang diberikan kepada Pejabat Negara/Pegawai Aparatur Sipil Negara/Anggota Polri/TNI yang memberikan kegiatan dalam informasi/pengetahuan/kemampuan Seminar/Rapat/Sosialisasi/Diseminasi/Bimbingan Teknis/<i>Workshop</i>/Sarasehan/Simposium/Lokakarya/<i>Focus Group Discussion</i>/Kegiatan Sejenis yang dilaksanakan secara langsung <i>(offline)</i> maupun daring <i>(online)</i> melalui aplikas: secara live bukan rekaman/hasil <i>tapping</i>, baik di dalam negeri maupun di luar negeri, tidak termasuk untuk kegiatan diklat/pelatihan.</li>
                                 <li>Honor moderator adalah honor yang diberikan kepada Pegawai Aparatur Sipil Negara/Anggota Polri/TNI yang ditunjuk oleh pejabat yang berwenang untuk melaksanakan tugas sebagai kegiatan moderator pada Seminar/Rapat/Sosialisasi/Diseminasi/Bimbingan Teknis/<i>Workshop</i>/Sarasehan/Simposium/Lokakarya/<i>Focus Group Discussion</i>/Kegiatan Sejenis yang dilaksanakan secara langsung <i>(offline)</i> maupun daring <i>(online)</i> melalui aplikasi secara live bukan rekaman/hasil <i>tapping</i> baik di dalam negeri maupun di luar negeri, tidak termasuk untuk kegiatan diklat/pelatihan.</li>
                                 <li>Honor narasumber pakar adalah satuan biaya honorarium narasumber pakar/praktisi/profesional merupakan satuan biaya yang digunakan untuk kebutuhan honorarium narasumber pakar/praktisi/profesional dari luar lingkup kementerian negara/lembaga penyelenggara yang mempunyai keahlian/profesionalisme dalam ilmu/bidang tertentu dalam kegiatan Seminar/Rapat/Sosialisasi/Diserninasi/<i>Workshop</i>/Sarasehan/Simposium/Diklat/Lokakarya/<i>Focus Group Discussion</i>/Kegiatan Sejenis yang diselenggarakan baik di dalam negeri maupun di luar negeri yang dilaksanakan secara langsung <i>(offline)</i> maupun daring <i>(online)</i> melalui aplikasi secara live dan bukan rekaman/hasil <i>tapping</i>.</li>
                             </ol>
                             <li>Catatan Penting</li>
-                            <ol type="a">
+                            <ol type="a" class="justify-list">
                                 <li>Satuan jam yang digunakan dalam pemberian honor narasumber adalah 60 (enam puluh) menit baik dilakukan secara panel maupun individual.</li>
                                 <li>Narasumber dan moderator berasal dari luar kementerian negara/lembaga penyelenggara atau dari perguruan tinggi di luar satuan kerja penyelenggara.</li>
                                 <li>Honor narasumber dan moderator hanya dapat diberikan oleh satuan kerja penyelenggara.</li>
@@ -818,7 +826,7 @@
                                     <tr>
                                         <td>a.</td>
                                         <td>Kerangka Acuan Kerja (KAK)</td>
-                                        <td style="padding-left: 240px;">
+                                        <td style="padding-left: 220px;">
                                             <a href="https://drive.google.com/drive/folders/1rly0LmWDO6XDdWuD1CfHTGCCc5u7sl_p?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                             <i class="bx bx-folder-open"></i> Lihat </a>
                                         </td>
@@ -826,7 +834,7 @@
                                     <tr>
                                         <td>b.</td>
                                         <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
-                                        <td style="padding-left: 240px;">
+                                        <td style="padding-left: 220px;">
                                             <a href="https://drive.google.com/drive/folders/1cUOOYAPYskOBqiYJPvAhXtR9Ey90GzPT?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                             <i class="bx bx-folder-open"></i> Lihat </a>
                                         </td>
@@ -834,7 +842,7 @@
                                     <tr>
                                         <td>c.</td>
                                         <td>SK KPA</td>
-                                        <td style="padding-left: 240px;">
+                                        <td style="padding-left: 220px;">
                                             <a href="https://drive.google.com/drive/folders/1oIlOGH0ypwMTPqedxTu74I73EfbL2O8J?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                             <i class="bx bx-folder-open"></i> Lihat </a>
                                         </td>
@@ -842,7 +850,7 @@
                                     <tr>
                                         <td>d.</td>
                                         <td>Undangan narasumber/moderator</td>
-                                        <td style="padding-left: 240px;">
+                                        <td style="padding-left: 220px;">
                                             <a href="https://drive.google.com/drive/folders/1rMJyBJ-wm3sZJXfgM-i0VhDe6aE7X3-D?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                             <i class="bx bx-folder-open"></i> Lihat </a>
                                         </td>
@@ -850,7 +858,7 @@
                                     <tr>
                                         <td>e.</td>
                                         <td>Undangan peserta</td>
-                                        <td style="padding-left: 240px;">
+                                        <td style="padding-left: 220px;">
                                             <a href="https://drive.google.com/drive/folders/11_9aHKEkc7KqmCmzR0saKXVHRVyZybNf?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                             <i class="bx bx-folder-open"></i> Lihat </a>
                                         </td>
@@ -858,7 +866,7 @@
                                     <tr>
                                         <td>f.</td>
                                         <td>Jadwal kegiatan sesuai panduan penyelenggaraan</td>
-                                        <td style="padding-left: 240px;">
+                                        <td style="padding-left: 220px;">
                                             <a href="https://drive.google.com/drive/folders/1jDhUvSsQQ0jB7anf1peavR1rmaA5maqr?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                             <i class="bx bx-folder-open"></i> Lihat </a>
                                         </td>
@@ -866,7 +874,7 @@
                                     <tr>
                                         <td>g.</td>
                                         <td>Daftar hadir narasumber/moderator</td>
-                                        <td style="padding-left: 240px;">
+                                        <td style="padding-left: 220px;">
                                             <a href="https://drive.google.com/drive/folders/1TjiNTLypI4LKy1hMlTsQSubvUBEbyYvY?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                             <i class="bx bx-folder-open"></i> Lihat </a>
                                         </td>
@@ -874,7 +882,7 @@
                                     <tr>
                                         <td>h.</td>
                                         <td>Bahan paparan narasumber (moderator tidak perlu)</td>
-                                        <td style="padding-left: 240px;">
+                                        <td style="padding-left: 220px;">
                                             <a href="https://drive.google.com/drive/folders/1ZR0pFwoV-UwKk9PDv01cDQRRbN5s4tff?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                             <i class="bx bx-folder-open"></i> Lihat </a>
                                         </td>
@@ -882,7 +890,7 @@
                                     <tr>
                                         <td>i.</td>
                                         <td>Kuitansi</td>
-                                        <td style="padding-left: 240px;">
+                                        <td style="padding-left: 220px;">
                                             <a href="https://drive.google.com/drive/folders/1cWEz52MT2UON55PGMfqd6OrL4ibwA-BC?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                             <i class="bx bx-folder-open"></i> Lihat </a>
                                         </td>
@@ -890,7 +898,7 @@
                                     <tr>
                                         <td>j.</td>
                                         <td>Salinan/fotokopi NPWP dan buku rekening</td>
-                                        <td style="padding-left: 240px;">
+                                        <td style="padding-left: 220px;">
                                             <a href="https://drive.google.com/drive/folders/10Ob-HGJlo00ZLbBjj32Gkyyi075SOlcW?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                             <i class="bx bx-folder-open"></i> Lihat </a>
                                         </td>
@@ -898,7 +906,7 @@
                                     <tr>
                                         <td>k.</td>
                                         <td>SSP PPh Pasal 21</td>
-                                        <td style="padding-left: 240px;">
+                                        <td style="padding-left: 220px;">
                                             <a href="https://drive.google.com/drive/folders/1jIOMHRGTXdZDiellPbEI1NsHYBVYkcg-?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                             <i class="bx bx-folder-open"></i> Lihat </a>
                                         </td>
@@ -909,21 +917,24 @@
                     </ol>
                     <div class="container my-4">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-12">
                                 <div class="card shadow-sm border-0 rounded-3">
-                                    <div class="card-body text-center">
-                                        <h5 class="card-title fw-bold">Pedoman Belanja Honorarium</h5>
-                                        <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Belanja Honorarium.</p>
+                                    <div class="card-body d-flex justify-content-between align-items-center">
+                                        <div>
+                                            <h5 class="card-title fw-semibold">Pedoman Belanja Honorarium</h5>
+                                            <p class="card-text small">Klik tombol di samping untuk membuka atau mengunduh file PDF Pedoman Belanja Honorarium.</p>
+                                        </div>
+                                        <div class="text-end">
+                                            <!-- Tombol Buka PDF -->
+                                            <a href="https://drive.google.com/file/d/1C7PaqwmMgwBRp4BFVkm1ygDbKQM5X2R5/view?usp=sharing" target="_blank" class="btn btn-primary me-2 mb-2">
+                                            📄 Buka PDF
+                                            </a>
           
-                                        <!-- Tombol Buka PDF -->
-                                        <a href="https://drive.google.com/file/d/1C7PaqwmMgwBRp4BFVkm1ygDbKQM5X2R5/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
-                                        📄 Buka PDF
-                                        </a>
-          
-                                         <!-- Tombol Download PDF -->
-                                        <a href="https://drive.google.com/uc?export=download&id=1C7PaqwmMgwBRp4BFVkm1ygDbKQM5X2R5" class="btn btn-success">
-                                        ⬇️ Download PDF
-                                        </a>
+                                            <!-- Tombol Download PDF -->
+                                            <a href="https://drive.google.com/uc?export=download&id=1C7PaqwmMgwBRp4BFVkm1ygDbKQM5X2R5" class="btn btn-success mb-2">
+                                            ⬇️ Download PDF
+                                            </a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -938,14 +949,14 @@
                         <li>Belanja Perjalanan Dinas Biasa</li>
                         <ol type="1">
                             <li>Pengertian</li>
-                            <ol type="a">
+                            <ol type="a" class="justify-list">
                                 <li>Perjalanan Dinas Biasa adalah Perjalanan Dinas Jabatan yang dilakukan Pejabat Negara, Pegawai Negeri, dan Pegawai Tidak Tetap, melewati batas Kota dari tempat kedudukan ke tempat yang dituju, dalam rangka melaksanakan tugas, dan kembali ke tempat kedudukan semula di dalam negeri, sesuai dengan perintah atasan Pelaksana perjalanan dinas yang tertuang dalam Surat Tugas.</li>
                                 <li>Batas Kota sebagaimana dimaksud khusus untuk Provinsi DKI Jakarta meliputi kesatuan wilayah Jakarta Pusat, Jakarta Timur, Jakarta Utara, Jakarta Barat, dan Jakarta Selatan.</li>
                             </ol>
                             <li>Catatan Penting</li>
                             <ol type="a">
                                 <li>Surat Tugas diterbitkan oleh:</li>
-                                <ol class="angka">
+                                <ol class="angka" class="justify-list">
                                     <li>Kepala BPS Kabupaten/Kota untuk Perjalanan Dinas Jabatan yang dilakukan oleh Pelaksana SPD pada satuan kerja berkenaan;</li>
                                     <li>Pejabat Tinggi Pratama untuk Perjalanan Dinas Jabatan yang dilakukan oleh Pelaksana SPD dalam lingkup unit eselon II/setingkat unit eselon II berkenaan;</li>
                                     <li>Pejabat Tinggi Madya untuk Perjalanan Dinas Jabatan yang dilakukan oleh Pejabat Tinggi Pratama/Pelaksana SPD dalam lingkup unit eselon I berkenaan; atau</li>
@@ -969,7 +980,7 @@
                                     </ol>
                                     <li>Biaya transpor</li>
                                     <p>Dibayarkan sesuai bukti <i>riil (at cost)</i> yang terdiri dari:</p>
-                                    <ol class="huruf">
+                                    <ol class="huruf" class="justify-list">
                                         <li>biaya perjalanan dinas dari Tempat Kedudukan sampai Tempat Tujuan keberangkatan dan kepulangan termasuk biaya ke terminal bus/stasiun/bandara/pelabuhan keberangkatan;</li>
                                         <li>Jika penugasan lebih dari satu satuan kerja, biaya transpor perpindahan satker dapat dibayarkan bila menggunakan moda transportasi umum; dan</li>
                                         <li>retribusi yang dipungut di terminal bus/stasiun/bandara/pelabuhan keberangkatan dan kepulangan.</li>
@@ -1102,12 +1113,12 @@
                         <li>Belanja Perjalanan Dinas Dalam Kota Kurang Dari 8 (delapan) Jam</li>
                         <ol type="1">
                             <li>Pengertian</li>
-                            <ol type="a">
+                            <ol type="a" class="justify-list">
                                 <li>Perjalanan Dinas Dalam Kota kurang dari 8 (delapan) Jam adalah Perjalanan Dinas Jabatan yang dilakukan Pejabat Negara, Pegawai Negeri, dan Pegawai Tidak Tetap, dilaksanakan di dalam Kota yang dilaksanakan kurang dari 8 (delapan) jam sesuai dengan perintah atasan Pelaksana perjalanan dinas yang tertuang dalam Surat Tugas.</li>
                                 <li>Khusus untuk Provinsi DKI Jakarta dalam kota dimaksud meliputi kesatuan wilayah Jakarta Pusat, Jakarta Timur, Jakarta Utara, Jakarta Barat, dan Jakarta Selatan.</li>
                             </ol>
                             <li>Catatan Penting</li>
-                            <ol type="a">
+                            <ol type="a" class="justify-list">
                                 <li>Dibayarkan secara <i>lumpsum</i> sesuai standar biaya yang berlaku atau berdasarkan SK KPA masing-masing daerah dan diberikan sesuai jumlah hari <i>riil</i> pelaksanaan Perjalanan Dinas;</li>
                                 <li>Penugasan yang dilaksanakan lebih dari satu tujuan pelaksanaan perjalanan dinas dan merupakan satu kesatuan penugasan hanya diberikan sebesar 1 (satu) kali biaya transport dalam kota;</li>
                                 <li>Surat Tugas diterbitkan oleh atasan langsung. Penerbit Surat Tugas membatasi pelaksanaan perjalanan dinas dalam kota hanya sampai 8 jam; dan</li>
@@ -1188,12 +1199,12 @@
                         <li>Belanja Perjalanan Dinas Dalam Kota Lebih Dari 8 (delapan) Jam</li>
                         <ol type="1">
                             <li>Pengertian</li>
-                            <ol type="a">
+                            <ol type="a" class="justify-list">
                                 <li>Perjalanan Dinas Dalam Kota lebih dari 8 (delapan) Jam adalah Perjalanan Dinas Jabatan yang dilakukan Pejabat Negara, Pegawai Negeri, dan Pegawai Tidak Tetap, dilaksanakan di dalam Kota yang dilaksanakan lebih dari 8 (delapan) jam sesuai dengan perintah atasan Pelaksana perjalanan dinas yang tertuang dalam Surat Tugas.</li>
                                 <li>Khusus untuk Provinsi DKI Jakarta dalam kota dimaksud meliputi kesatuan wilayah Jakarta Pusat, Jakarta Timur, Jakarta Utara, Jakarta Barat, dan Jakarta Selatan.</li>
                             </ol>
                             <li>Catatan Penting</li>
-                            <ol type="a">
+                            <ol type="a" class="justify-list">
                                 <li>Dibayarkan secara <i>lumpsum</i> sesuai standar biaya yang berlaku atau berdasarkan SK KPA masing-masing daerah dan diberikan sesuai jumlah hari <i>riil</i> pelaksanaan Perjalanan Dinas;</li>
                                 <li>Dalam hal biaya transport melebihi biaya transport dalam kota. sebagaimana diatur dalam SBM, maka Pelaksana SPD dapat diberikan biaya transport sesuai bukti <i>riil</i> moda transportasi yang digunakan;</li>
                                 <li>Apabila diperlukan dapat diberikan biaya menginap di hotel atau tempat menginap lainnya, sesuai bukti <i>riil</i> dengan batas tertinggi sebagaimana diatur dalam SBM;</li>
@@ -1300,21 +1311,24 @@
                     </ol>
                     <div class="container my-4">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-12">
                                 <div class="card shadow-sm border-0 rounded-3">
-                                    <div class="card-body text-center">
-                                        <h5 class="card-title fw-bold">Pedoman Belanja Perjalanan Dinas</h5>
-                                        <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Belanja Perjalanan Dinas.</p>
+                                    <div class="card-body d-flex justify-content-between align-items-center">
+                                        <div>
+                                            <h5 class="card-title fw-semibold">Pedoman Belanja Perjalanan Dinas</h5>
+                                            <p class="card-text small">Klik tombol di samping untuk membuka atau mengunduh file PDF Pedoman Belanja Perjalanan Dinas.</p>
+                                        </div>
+                                        <div class="text-end">
+                                            <!-- Tombol Buka PDF -->
+                                            <a href="https://drive.google.com/file/d/1ERZfX85Tu0_JkBiZO5rKDh-ub6TVym7N/view?usp=sharing" target="_blank" class="btn btn-primary me-2 mb-2">
+                                            📄 Buka PDF
+                                            </a>
           
-                                        <!-- Tombol Buka PDF -->
-                                        <a href="https://drive.google.com/file/d/1ERZfX85Tu0_JkBiZO5rKDh-ub6TVym7N/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
-                                        📄 Buka PDF
-                                        </a>
-          
-                                         <!-- Tombol Download PDF -->
-                                        <a href="https://drive.google.com/uc?export=download&id=1ERZfX85Tu0_JkBiZO5rKDh-ub6TVym7N" class="btn btn-success">
-                                        ⬇️ Download PDF
-                                        </a>
+                                            <!-- Tombol Download PDF -->
+                                            <a href="https://drive.google.com/uc?export=download&id=1ERZfX85Tu0_JkBiZO5rKDh-ub6TVym7N" class="btn btn-success mb-2">
+                                            ⬇️ Download PDF
+                                            </a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -1327,7 +1341,7 @@
                     <h4>Belanja Paket Meeting</h4>
                     <p>Satuan biaya paket kegiatan rapat/pertemuan di luar kantor merupakan satuan biaya yang digunakan untuk kebutuhan biaya kegiatan rapat/pertemuan yang diselenggarakan di luar kantor dalam rangka penyelesaian pekerjaan yang perlu dilakukan secara intensif dan bersifat koordinatif yang paling kurang melibatkan peserta dari kementerian negara/lembaga lainnya yang terkait pelaksanaan tugas dan fungsi/masyarakat.</p>
                     <p>Satuan biaya paket kegiatan rapat/pertemuan di luar kantor menurut pesertanya terbagi dalam 3 (tiga) jenis, yaitu:</p>
-                    <ol type="1">
+                    <ol type="1" class="justify-list">
                         <li>Kegiatan rapat/pertemuan di luar kantor pejabat Menteri/setingkat Menteri, adalah kegiatan rapat/pertemuan yang melibatkan pejabat Menteri/setingkat Menteri;</li>
                         <li>Kegiatan rapat/pertemuan di luar kantor pejabat eselon 1/eselon II, adalah kegiatan rapat/pertemuan yang melibatkan pejabat eselon 1/eselon II/yang disetarakan; dan</li>
                         <li>Kegiatan rapat rapat/pertemuan di luar kantor pejabat eselon III ke bawah, adalah kegiatan rapat/pertemuan yang melibatkan pejabat eselon III/yang disetarakan.</li>
@@ -1345,9 +1359,9 @@
                         <li>Belanja Paket <i>Meeting</i> Dalam Kota</li>
                         <ol type="1">
                             <li>Pengertian</li>
-                            <ol type="a">
+                            <ol type="a" class="justify-list">
                                 <li>Digunakan untuk mencatat perjalanan dinas dalam rangka kegiatan rapat, seminar, dan sejenisnya yang dilaksanakan di dalam kota satker penyelenggara dan dibiayai seluruhnya olch satker penyelenggara maupun yang dilaksanakan di dalam kota satker peserta dan biaya perjalanan dinasnya ditanggung oleh Satker peserta, yang meliputi:</li>
-                                <ol class="angka">
+                                <ol class="angka" class="justify-list">
                                     <li>Biaya transportasi peserta, panitia/moderator, dan/atau narasumber baik yang berasal dari dalam kota maupun dari luar kota;</li>
                                     <li>Biaya paket <i>meeting (halfday/fullday/fullboard)</i>;</li>
                                     <li>Uang harian paket <i>meeting</i> peserta, panitia/moderator dan/atau narasumber baik yang berasal dari dalam kota maupun dari luar kota; dan</li>
@@ -1356,7 +1370,7 @@
                                 </ol>
                             </ol>
                             <li>Catatan Penting</li>
-                            <ol type="a">
+                            <ol type="a" class="justify-list">
                                 <li>Untuk pejabat eselon II ke atas, akomodasi 1 (satu) kamar untuk 1 (satu) orang;</li>
                                 <li>Untuk pejabat eselon III ke bawah, akomodasi 1 (satu) kamar untuk 2 (dua) orang;</li>
                                 <li>Kepada panitia (karena faktor transportasi dan/atau guna dan mempersiapkan pelaksanaan kegiatan penyelesaian pertanggungjawaban) dan kepada peserta (karena faktor transportasi) yang memerlukan waktu tambahan untuk berangkat/pulang di luar waktu pelaksanaan kegiatan, dapat dialokasikan biaya penginapan dan uang harian perjalanan dinas sesuai dengan ketentuan peraturan perundang-undangan, untuk 1 (satu) hari sebelum dan/atau 1 (satu) hari sesudah pelaksanaan kegiatan;</li>
@@ -1368,7 +1382,7 @@
                             <li>Akun yang Dapat Digunakan</li>
                             <p>Akun 524114 - Belanja Perjalanan Dinas Paket <i>Meeting</i> Dalam Kota</p>
                             <li>Kelengkapan Tagihan Pembayaran</li>
-                            <ol type="a">
+                            <ol type="a" class="justify-list">
                                 <li>Kelengkapan tagihan pembayaran perjalanan dalam rangka paket <i>meeting</i>:</li>
                                 <table cellpadding="6" cellspacing="0">
                                     <tbody>
@@ -1585,7 +1599,7 @@
                         <ol type="1">
                             <li>Pengertian</li>
                             <p>Pengeluaran untuk perjalanan dinas dalam rangka kegiatan rapat, seminar, dan sejenisnya yang dilaksanakan di luar kota satker penyelenggara dan dibiayai seluruhnya oleh satker penyelenggara, serta yang dilaksanakan di luar kota satker peserta dengan biaya perjalanan dinas yang ditanggung oleh satker peserta, meliputi:</p>
-                            <ol type="1">
+                            <ol type="1" class="justify-list">
                                 <li>Biaya transportasi peserta, panitia/moderator, dan/atau narasumber baik yang berasal dari dalam kota maupun dari luar kota;</li>
                                 <li>Biaya paket <i>meeting (fullboard)</i>;</li>
                                 <li>Uang harian paket <i>meeting</i> peserta, panitia/moderator baik yang berasal dari dalam kota maupun dari luar kota; dan</li>
@@ -1593,7 +1607,7 @@
                             </ol>
                             <p>Besaran nilai biaya paket <i>meeting</i>, uang transport, uang saku, dan uang harian mengikuti ketentuan yang mengatur mengenai standar biaya tahun berkenaan.</p>
                             <li>Catatan Penting</li>
-                            <ol type="a">
+                            <ol type="a" class="justify-list">
                                 <li>Untuk pejabat eselon II ke atas, akomodasi 1 (satu) kamar untuk 1 (satu) orang;</li>
                                 <li>Untuk pejabat eselon III ke bawah, akomodasi 1 (satu) kamar untuk 2 (dua) orang;</li>
                                 <li>Kepada panitia (karena faktor transportasi dan/atau guna mempersiapkan pelaksanaan kegiatan dan penyelesaian pertanggungjawaban) dan kepada peserta (karena faktor transportasi) yang memerlukan waktu tambahan untuk berangkat/pulang di luar waktu pelaksanaan kegiatan, dapat dialokasikan biaya penginapan dan uang harian perjalanan dinas sesuai dengan ketentuan peraturan perundang-undangan, untuk 1 (satu) hari sebelum dan/atau 1 (satu) hari sesudah pelaksanaan kegiatan;</li>
@@ -1601,11 +1615,11 @@
                                 <li>Kegiatan rapat, seminar, dan sejenisnya dapat diselenggarakan di luar kantor dengan berpedoman pada Peraturan Menteri Keuangan mengenai Standar Biaya, dan fasilitas di kantor tidak mencukupi;</li>
                                 <li>Fasilitas di kantor tidak mencukupi sebagaimana dimaksud pada point (5) dibuktikan dengan surat pernyataan dari penanggung jawab kegiatan;</li>
                                 <li>Kegiatan rapat, seminar, dan sejenisnya yang diselenggarakan di luar kota, selain mengikuti ketentuan sebagaimana dimaksud dalam point (5), dilaksanakan sepanjang memenuhi ketentuan sebagai berikut:</li>
-                                <ol type="a">
+                                <ol type="a" class="justify-list">
                                     <li>melibatkan kantor vertikal:</li>
                                     <li>berskala regional/nasional/internasional; dan/atau</li>
                                     <li>mendapat persetujuan dari PPK dengan pertimbangan:</li>
-                                    <ol class="angka">
+                                    <ol class="angka" class="justify-list">
                                         <li>dari sisi teknis harus dilaksanakan di luar kota satuan kerja penyelenggara, atau</li>
                                         <li>diselenggarakan pada lokasi yang terdekat dengan kota satuan kerja penyelenggara.</li>
                                     </ol>
@@ -1615,7 +1629,7 @@
                             <li>Akun Yang Dapat Digunakan</li>
                             <p>Akun 524119 - Belanja Perjalanan Dinas Paket <i>Meeting</i> Luar Kota.</p>
                             <li>Kelengkapan Tagihan Pembayaran</li>
-                            <ol type="a">
+                            <ol type="a" class="justify-list">
                                 <li>Kelengkapan tagihan pembayaran perjalanan dalam rangka paket <i>meeting</i>:</li>
                                 <table cellpadding="6" cellspacing="0">
                                     <tbody>
@@ -1831,21 +1845,24 @@
                     </ol>
                     <div class="container my-4">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-12">
                                 <div class="card shadow-sm border-0 rounded-3">
-                                    <div class="card-body text-center">
-                                        <h5 class="card-title fw-bold">Pedoman Belanja Paket Meeting</h5>
-                                        <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Belanja Paket Meeting.</p>
+                                    <div class="card-body d-flex justify-content-between align-items-center">
+                                        <div>
+                                            <h5 class="card-title fw-semibold">Pedoman Belanja Paket Meeting</h5>
+                                            <p class="card-text small">Klik tombol di samping untuk membuka atau mengunduh file PDF Pedoman Belanja Paket Meeting.</p>
+                                        </div>
+                                        <div class="text-end">
+                                            <!-- Tombol Buka PDF -->
+                                            <a href="https://drive.google.com/file/d/1H4r-fz6tvqbV_qlJlP-uS9USQyhUb5d0/view?usp=sharing" target="_blank" class="btn btn-primary me-2 mb-2">
+                                            📄 Buka PDF
+                                            </a>
           
-                                        <!-- Tombol Buka PDF -->
-                                        <a href="https://drive.google.com/file/d/1H4r-fz6tvqbV_qlJlP-uS9USQyhUb5d0/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
-                                        📄 Buka PDF
-                                        </a>
-          
-                                         <!-- Tombol Download PDF -->
-                                        <a href="https://drive.google.com/uc?export=download&id=1H4r-fz6tvqbV_qlJlP-uS9USQyhUb5d0" class="btn btn-success">
-                                        ⬇️ Download PDF
-                                        </a>
+                                            <!-- Tombol Download PDF -->
+                                            <a href="https://drive.google.com/uc?export=download&id=1H4r-fz6tvqbV_qlJlP-uS9USQyhUb5d0" class="btn btn-success mb-2">
+                                            ⬇️ Download PDF
+                                            </a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -1856,15 +1873,14 @@
                 <!-- Belanja Sewa -->
                 <div class="tab-pane fade" id="pills-7" role="tabpanel">
                     <h4>Belanja Sewa</h4>
-                    <ol type="A">
-                        <li>Pengertian</li>
-                        <ol type="1">
+                        <p><b>Pengertian</b></p>
+                        <ol type="1" class="justify-list">
                             <li>Sewa didefinisikan sebagai perjanjian di mana pihak yang menyewakan <i>(lessee)</i> menyewakan aset dari pihak yang menyewakan <i>(lessor)</i> untuk digunakan dalam jangka waktu tertentu dengan keseimbangan sewa yang telah ditentukan.</li>
                             <li>Belanja Sewa dapat berupa sewa gedung untuk pertemuan; sewa bangunan/ruangan untuk gudang, sewa tenda; sewa kursi/meja; sewa kendaraan untuk mengangkut logistik perlengkapan pelatihan; dan sejenisnya.</li>
                         </ol>
-                        <li>Akun yang Dapat Digunakan</li>
-                        <p>Akun 522141 - Belanja Sewa.</p>
-                        <li>Kelengkapan Tagihan Pembayaran</li>
+                        <p><b>Akun yang Dapat Digunakan</b></p>
+                        <p>->Akun 522141 - Belanja Sewa.</p>
+                        <p><b>Kelengkapan Tagihan Pembayaran</b></p>
                         <table cellpadding="6" cellspacing="0">
                             <tbody>
                                 <tr>
@@ -1952,21 +1968,24 @@
                     </ol>
                     <div class="container my-4">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-12">
                                 <div class="card shadow-sm border-0 rounded-3">
-                                    <div class="card-body text-center">
-                                        <h5 class="card-title fw-bold">Pedoman Belanja Sewa</h5>
-                                        <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Belanja Sewa.</p>
+                                    <div class="card-body d-flex justify-content-between align-items-center">
+                                        <div>
+                                            <h5 class="card-title fw-semibold">Pedoman Belanja Sewa</h5>
+                                            <p class="card-text">Klik tombol di samping untuk membuka atau mengunduh file PDF Pedoman Belanja Sewa.</p>
+                                        </div>
+                                        <div class="text-end">
+                                            <!-- Tombol Buka PDF -->
+                                            <a href="https://drive.google.com/file/d/1aoFOLEL77LCbsvuQmgnCzLjmdeMfU4Ya/view?usp=sharing" target="_blank" class="btn btn-primary me-2 mb-2">
+                                            📄 Buka PDF
+                                            </a>
           
-                                        <!-- Tombol Buka PDF -->
-                                        <a href="https://drive.google.com/file/d/1aoFOLEL77LCbsvuQmgnCzLjmdeMfU4Ya/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
-                                        📄 Buka PDF
-                                        </a>
-          
-                                         <!-- Tombol Download PDF -->
-                                        <a href="https://drive.google.com/uc?export=download&id=1aoFOLEL77LCbsvuQmgnCzLjmdeMfU4Ya" class="btn btn-success">
-                                        ⬇️ Download PDF
-                                        </a>
+                                            <!-- Tombol Download PDF -->
+                                            <a href="https://drive.google.com/uc?export=download&id=1aoFOLEL77LCbsvuQmgnCzLjmdeMfU4Ya" class="btn btn-success mb-2">
+                                            ⬇️ Download PDF
+                                            </a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -1978,12 +1997,11 @@
                 <!-- Belanja Jasa Pengiriman/Ekspedisi -->
                 <div class="tab-pane fade" id="pills-8" role="tabpanel">
                     <h4>Belanja Jasa Pengiriman / Ekspedisi</h4>
-                    <ol type="A">
-                        <li>Pengertian</li>
+                        <p><b>Pengertian</b></p>
                         <p>Jasa Pengiriman/Ekspedisi adalah Jasa yang bergerak di bidang pengiriman, mulai dari pengiriman surat, barang berukuran kecil hingga barang berukuran sedang.</p>
-                        <li>Akun yang Dapat Digunakan</li>
-                        <p>Akun 521219 - Belanja Barang Non Operasional Lainnya.</p>
-                        <li>Kelengkapan Tagihan Pembayaran</li>
+                        <p><b>Akun yang Dapat Digunakan</b></p>
+                        <p>->Akun 521219 - Belanja Barang Non Operasional Lainnya.</p>
+                        <p><b>Kelengkapan Tagihan Pembayaran</b></p>
                         <table cellpadding="6" cellspacing="0">
                             <tbody>
                                 <tr>
@@ -2071,21 +2089,24 @@
                     </ol>
                     <div class="container my-4">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-12">
                                 <div class="card shadow-sm border-0 rounded-3">
-                                    <div class="card-body text-center">
-                                        <h5 class="card-title fw-bold">Pedoman Belanja Jasa Pengiriman / Ekspedisi</h5>
-                                        <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Belanja Jasa Pengiriman / Ekspedisi.</p>
+                                    <div class="card-body d-flex justify-content-between align-items-center">
+                                        <div>
+                                            <h5 class="card-title fw-semibold">Pedoman Belanja Jasa Pengiriman / Ekspedisi</h5>
+                                            <p class="card-text small">Klik tombol di samping untuk membuka atau mengunduh file PDF Pedoman Belanja Jasa Pengiriman / Ekspedisi.</p>
+                                        </div>
+                                        <div class="text-end">
+                                            <!-- Tombol Buka PDF -->
+                                            <a href="https://drive.google.com/file/d/1OBnVzyh5gjK3lD3ThCDIJOd-i2iMgECl/view?usp=sharing" target="_blank" class="btn btn-primary me-2 mb-2">
+                                            📄 Buka PDF
+                                            </a>
           
-                                        <!-- Tombol Buka PDF -->
-                                        <a href="https://drive.google.com/file/d/1OBnVzyh5gjK3lD3ThCDIJOd-i2iMgECl/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
-                                        📄 Buka PDF
-                                        </a>
-          
-                                         <!-- Tombol Download PDF -->
-                                        <a href="https://drive.google.com/uc?export=download&id=1OBnVzyh5gjK3lD3ThCDIJOd-i2iMgECl" class="btn btn-success">
-                                        ⬇️ Download PDF
-                                        </a>
+                                            <!-- Tombol Download PDF -->
+                                            <a href="https://drive.google.com/uc?export=download&id=1OBnVzyh5gjK3lD3ThCDIJOd-i2iMgECl" class="btn btn-success mb-2">
+                                            ⬇️ Download PDF
+                                            </a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -2096,19 +2117,18 @@
                 <!-- Belanja Jasa Asuransi -->
                 <div class="tab-pane fade" id="pills-9" role="tabpanel">
                     <h4>Belanja Jasa Asuransi</h4>
-                    <ol type="A">
-                        <li>Pengertian</li>
+                        <p><b>Pengertian</b></p>
                         <p>Asuransi adalah perjanjian antara penanggung dan tertanggung yang mewajibkan tertanggung membayar sejumlah premi untuk memberikan penggantian atas risiko kerugian, kerusakan, kematian, atau kehilangan keuntungan yang diharapkan, yang mungkin terjadi atas peristiwa yang tak terduga. Belanja jasa asuransi dan/atau pengambil alih risiko ialah Pembayaran atas beban APBN dapat dilakukan sebelum barang dan/atau jasa diterima dalam hal terdapat kegiatan yang karena sifatnya harus dilakukan pembayaran terlebih dahulu.</p>
-                        <li>Catatan Penting</li>
-                        <ol type="1">
+                        <p><b>Catatan Penting</b></p>
+                        <ol type="1" class="justify-list">
                             <li>Belanja Jasa Asuransi yang dimaksud dalam buku pedoman ini adalah belanja jasa asuransi untuk petugas mitra pada kegiatan sensus/survei yang dilakukan oleh BPS;</li>
                             <li>Pengadaan jasa asuransi dengan nilai sampai dengan Rp50.000.000,00 (lima puluh juta rupiah) menggunakan jaminan berupa komitmen penyedia barang/jasa;</li>
                             <li>Pengadaan jasa asuransi dengan nilai lebih dari Rp50.000.000,00 (lima puluh juta rupiah) menggunakan jaminan berupa Surat Pernyataan Kesanggupan Penyedia Barang/Jasa (SPKPBJ); dan</li>
                             <li>Berdasarkan Pasal 9 ayat (1) poin d Undang-undang Nomor 36 Tahun 2008 tentang Perubahan Keempat atas Undang-undang Nomor 7 Tahun 1983 tentang Pajak Penghasilan, untuk menentukan besarnya Penghasilan Kena Pajak bagi Wajib Pajak dalam negeri dan bentuk usaha tetap tidak boleh dikurangkan premi asuransi kesehatan, asuransi kecelakaan, asuransi jiwa, asuransi dwiguna, dan asuransi beasiswa, yang dibayar oleh Wajib Pajak orang pribadi, kecuali jika dibayar olch pemberi kerja dan premi tersebut dihitung sebagai penghasilan bagi Wajib Pajak yang bersangkutan. Jika total penghasilan petugas per bulan ditambahkan dengan nilai premi asuransi di bawah PTKP, tidak dikenakan pajak.</li>
                         </ol>
-                        <li>Akun yang Dapat Digunakan</li>
-                        <p>Akun 521219 - Belanja Barang Non Operasinal Lainnya.</p>
-                        <li>Kelengkapan Tagihan Pembayaran</li>
+                        <p><b>Akun yang Dapat Digunakan</b></p>
+                        <p>->Akun 521219 - Belanja Barang Non Operasinal Lainnya.</p>
+                        <p><b>Kelengkapan Tagihan Pembayaran</b></p>
                         <table cellpadding="6" cellspacing="0">
                             <tbody>
                                 <tr>
@@ -2156,21 +2176,24 @@
                     </ol>
                     <div class="container my-4">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-12">
                                 <div class="card shadow-sm border-0 rounded-3">
-                                    <div class="card-body text-center">
-                                        <h5 class="card-title fw-bold">Pedoman Belanja Jasa Asuransi</h5>
-                                        <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Belanja Jasa Asuransi.</p>
+                                    <div class="card-body d-flex justify-content-between align-items-center">
+                                        <div>
+                                            <h5 class="card-title fw-semibold">Pedoman Belanja Jasa Asuransi</h5>
+                                            <p class="card-text small">Klik tombol di samping untuk membuka atau mengunduh file PDF Pedoman Belanja Jasa Asuransi.</p>
+                                        </div>
+                                        <div class="text-end">
+                                            <!-- Tombol Buka PDF -->
+                                            <a href="https://drive.google.com/file/d/1UWCIT9a_2OUgRHV-5KDWcH6QExPcT9yc/view?usp=sharing" target="_blank" class="btn btn-primary me-2 mb-2">
+                                            📄 Buka PDF
+                                            </a>
           
-                                        <!-- Tombol Buka PDF -->
-                                        <a href="https://drive.google.com/file/d/1UWCIT9a_2OUgRHV-5KDWcH6QExPcT9yc/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
-                                        📄 Buka PDF
-                                        </a>
-          
-                                         <!-- Tombol Download PDF -->
-                                        <a href="https://drive.google.com/uc?export=download&id=1UWCIT9a_2OUgRHV-5KDWcH6QExPcT9yc" class="btn btn-success">
-                                        ⬇️ Download PDF
-                                        </a>
+                                            <!-- Tombol Download PDF -->
+                                            <a href="https://drive.google.com/uc?export=download&id=1UWCIT9a_2OUgRHV-5KDWcH6QExPcT9yc" class="btn btn-success mb-2">
+                                            ⬇️ Download PDF
+                                            </a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -2181,17 +2204,16 @@
                 <!-- Belanja Jasa Lainnya -->
                 <div class="tab-pane fade" id="pills-10" role="tabpanel">
                     <h4>Belanja Jasa Lainnya</h4>
-                    <ol type="A">
-                        <li>Pengertian</li>
+                        <p><b>Pengertian</b></p>
                         <p>Jasa lainnya adalah jasa non-konsultansi atau jasa yang membutuhkan peralatan, metodologi khusus, dan/atau keterampilan dalam suatu sistem tata kelola yang telah dikenal luas di dunia usaha untuk menyelesaikan suatu pekerjaan.</p>
-                        <li>Catatan Penting</li>
-                        <ol type="1">
+                        <p><b>Catatan Penting</b></p>
+                        <ol type="1" class="justify-list">
                             <li>Digunakan untuk pembayaran jasa yang tidak bisa ditampung pada kelompok akun 52211, 52212, 52213, 52214, dan 52215.</li>
                             <li>Contoh dari jasa lainnya adalah jasa <i>Event Organizer</i> (EO), sosialisasi melalui media, penayangan iklan, publisitas <i>off air</i>, pengadaan <i>call center</i>, dan jenis jasa lainnya.</li>
                         </ol>
-                        <li>Akun yang Dapat Digunakan</li>
-                        <p>Akun 522191 - Belanja Jasa Lainnya.</p>
-                        <li>Kelengkapan Tagihan Pembayaran</li>
+                        <p><b>Akun yang Dapat Digunakan</b></p>
+                        <p>->Akun 522191 - Belanja Jasa Lainnya.</p>
+                        <p><b>Kelengkapan Tagihan Pembayaran</b></p>
                         <table cellpadding="6" cellspacing="0">
                             <tbody>
                                 <tr>
@@ -2271,21 +2293,24 @@
                     </ol>
                     <div class="container my-4">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-12">
                                 <div class="card shadow-sm border-0 rounded-3">
-                                    <div class="card-body text-center">
-                                        <h5 class="card-title fw-bold">Pedoman Belanja Jasa Lainnya</h5>
-                                        <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Belanja Jasa Lainnya.</p>
+                                    <div class="card-body d-flex justify-content-between align-items-center">
+                                        <div>
+                                            <h5 class="card-title fw-semibold">Pedoman Belanja Jasa Lainnya</h5>
+                                            <p class="card-text small">Klik tombol di samping untuk membuka atau mengunduh file PDF Pedoman Belanja Jasa Lainnya.</p>
+                                        </div>
+                                        <div class="text-end">
+                                            <!-- Tombol Buka PDF -->
+                                            <a href="https://drive.google.com/file/d/1hpX3a4080nkWSVDpPYsrhvUcJtwqZ0fH/view?usp=sharing" target="_blank" class="btn btn-primary me-2 mb-2">
+                                            📄 Buka PDF
+                                            </a>
           
-                                        <!-- Tombol Buka PDF -->
-                                        <a href="https://drive.google.com/file/d/1hpX3a4080nkWSVDpPYsrhvUcJtwqZ0fH/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
-                                        📄 Buka PDF
-                                        </a>
-          
-                                         <!-- Tombol Download PDF -->
-                                        <a href="https://drive.google.com/uc?export=download&id=1hpX3a4080nkWSVDpPYsrhvUcJtwqZ0fH" class="btn btn-success">
-                                        ⬇️ Download PDF
-                                        </a>
+                                            <!-- Tombol Download PDF -->
+                                            <a href="https://drive.google.com/uc?export=download&id=1hpX3a4080nkWSVDpPYsrhvUcJtwqZ0fH" class="btn btn-success mb-2">
+                                            ⬇️ Download PDF
+                                            </a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -2296,17 +2321,16 @@
                 <!-- Belanja Pulsa/Paket Data Internet -->
                 <div class="tab-pane fade" id="pills-11" role="tabpanel">
                     <h4>Belanja Pulsa / Paket Data Internet</h4>
-                    <ol type="A">
-                        <li>Pengertian</li>
-                        <ol type="1">
+                        <p><b>Pengertian</b></p>
+                        <ol type="1" class="justify-list">
                             <li>Biaya paket data dan komunikasi adalah bantuan biaya yang diberikan kepada pegawai yang dalam pelaksanaan tugasnya sebagian besar membutuhkan komunikasi secara daring <i>(online)</i>. Pemberian biaya paket data dan komunikasi dilakukan secara selektif dengan mempertimbangkan intensitas pelaksanaan tugas dan fungsi penggunakan media daring <i>(online)</i> dan ketersediaan anggaran, dan sesuai dengan prinsip tata kelola yang baik dan akuntabilitas.</li>
                             <li>Belanja pulsa/paket data pada kegiatan sensus/survei merupakan biaya yang diberikan kepada pegawai/petugas guna mendukung rangkaian kegiatan sensus/survei seperti pelatihan petugas secara daring <i>(online)</i>, paket data untuk kegiatan lapangan.</li>
                         </ol>
-                        <li>Catatan Penting</li>
+                        <p><b>Catatan Penting</b></p>
                         <p>Pengadaan paket data/pulsa mengikuti isi perjanjian/surat kontrak, pedoman teknis kegiatan sensus/survei, atau surat edaran dari pimpinan BPS.</p>
-                        <li>Akun yang Dapat Digunakan</li>
-                        <p>Akun 521211 - Belanja Bahan.</p>
-                        <li>Kelengkapan Tagihan Pembayaran</li>
+                        <p><b>Akun yang Dapat Digunakan</b></p>
+                        <p>->Akun 521211 - Belanja Bahan.</p>
+                        <p><b>Kelengkapan Tagihan Pembayaran</b></p>
                         <table cellpadding="6" cellspacing="0">
                             <tbody>
                                 <tr>
@@ -2362,21 +2386,24 @@
                     </ol>
                     <div class="container my-4">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-12">
                                 <div class="card shadow-sm border-0 rounded-3">
-                                    <div class="card-body text-center">
-                                        <h5 class="card-title fw-bold">Pedoman Belanja Pulsa / Paket Data Internet</h5>
-                                        <p class="card-text">Klik tombol di bawah untuk membuka atau mengunduh file PDF Pedoman Belanja Pulsa / Paket Data Internet.</p>
-          
-                                        <!-- Tombol Buka PDF -->
-                                        <a href="https://drive.google.com/file/d/11omyW91nSyueDAvlNeA2y3ZaoQ5M48xo/view?usp=sharing" target="_blank" class="btn btn-primary me-2">
-                                        📄 Buka PDF
-                                        </a>
-          
-                                         <!-- Tombol Download PDF -->
-                                        <a href="https://drive.google.com/uc?export=download&id=11omyW91nSyueDAvlNeA2y3ZaoQ5M48xo" class="btn btn-success">
-                                        ⬇️ Download PDF
-                                        </a>
+                                    <div class="card-body d-flex justify-content-between align-items-center">
+                                        <div>
+                                            <h5 class="card-title fw-semibold">Pedoman Belanja Pulsa / Paket Data Internet</h5>
+                                            <p class="card-text small">Klik tombol di samping untuk membuka atau mengunduh file PDF Pedoman Belanja Pulsa / Paket Data Internet.</p>
+                                        </div>
+                                        <div class="text-end">
+                                            <!-- Tombol Buka PDF -->
+                                            <a href="https://drive.google.com/file/d/11omyW91nSyueDAvlNeA2y3ZaoQ5M48xo/view?usp=sharing" target="_blank" class="btn btn-primary me-2 mb-2">
+                                            📄 Buka PDF
+                                            </a>
+
+                                            <!-- Tombol Download PDF -->
+                                            <a href="https://drive.google.com/uc?export=download&id=11omyW91nSyueDAvlNeA2y3ZaoQ5M48xo" class="btn btn-success mb-2">
+                                            ⬇️ Download PDF
+                                            </a>
+                                        </div>   
                                     </div>
                                 </div>
                             </div>
