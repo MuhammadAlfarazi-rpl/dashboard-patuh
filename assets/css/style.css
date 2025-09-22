@@ -393,7 +393,7 @@ h4 {
 
 .highlight {
   display: inline-block;
-  background: linear-gradient(transparent 60%, #CDC7BE 60%); /* warna stabilo kuning */
+  background: linear-gradient(transparent 60%, #CDC7BE 60%); 
   font-weight: bold;
   padding: 0 4px;
 }
@@ -418,8 +418,8 @@ h4 {
   position: absolute;
   left: 0;
   top: 0.15rem;                
-  background: #19335aff;
-  color: #fff;
+  background: #CDC7BE;
+  color: #19335aff;
   font-weight: bold;
   border-radius: 50%;
   width: 27px;
