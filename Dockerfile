@@ -8,7 +8,8 @@ RUN chown -R www-data:www-data /var/www/html \
     && chmod -R 755 /var/www/html
 
 # Enable Apache mod_rewrite (if needed)
-RUN a2enmod rewrite
+RUN a2enmod rewrite \
+    && echo "ServerName localhost" >> /etc/apache2/apache2.conf
 
 # Expose port
 EXPOSE 80
