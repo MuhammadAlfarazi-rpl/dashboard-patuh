@@ -130,17 +130,12 @@
                                     <div class="card-body d-flex justify-content-between align-items-center">
                                         <div>
                                             <h5 class="card-title fw-semibold">Pedoman Belanja Konsumsi Rapat</h5>
-                                            <p class="card-text small">Klik tombol di samping untuk membuka atau mengunduh file PDF Pedoman Konsumsi Rapat.</p>
+                                            <p class="card-text small">Klik tombol di samping untuk membuka file PDF Pedoman Konsumsi Rapat.</p>
                                         </div>
                                         <div class="text-end">
                                             <!-- Tombol Buka PDF -->
                                             <a href="https://drive.google.com/file/d/1HBYHNqqS9zYXD4QV07u_TWig1d24X63w/view?usp=sharing" target="_blank" class="btn btn-primary mb-2 w-75">
                                             📄 Buka PDF
-                                            </a>
-          
-                                            <!-- Tombol Download PDF -->
-                                            <a href="https://drive.google.com/uc?export=download&id=1HBYHNqqS9zYXD4QV07u_TWig1d24X63w" class="btn btn-success mb-2 w-75">
-                                            ⬇️ Download PDF
                                             </a>
                                         </div>
                                     </div>
@@ -250,17 +245,12 @@
                                     <div class="card-body d-flex justify-content-between align-items-center">
                                         <div>
                                             <h5 class="card-title fw-semibold">Pedoman Belanja Perlengkapan Pakai Habis</h5>
-                                            <p class="card-text small">Klik tombol di samping untuk membuka atau mengunduh file PDF Pedoman Belanja Perlengkapan Pakai Habis.</p>
+                                            <p class="card-text small">Klik tombol di samping untuk membuka file PDF Pedoman Belanja Perlengkapan Pakai Habis.</p>
                                         </div>
                                         <div class="text-end">
                                             <!-- Tombol Buka PDF -->
                                             <a href="https://drive.google.com/file/d/1scZzWbHb2qnFPM1YWjiGq_slyfLUGH-P/view?usp=sharing" target="_blank" class="btn btn-primary mb-2 w-75">
                                             📄 Buka PDF
-                                            </a>
-          
-                                            <!-- Tombol Download PDF -->
-                                            <a href="https://drive.google.com/uc?export=download&id=1scZzWbHb2qnFPM1YWjiGq_slyfLUGH-P" class="btn btn-success mb-2 w-75">
-                                            ⬇️ Download PDF
                                             </a>
                                         </div>
                                     </div>
@@ -359,17 +349,12 @@
                                     <div class="card-body d-flex justify-content-between align-items-center">
                                         <div>
                                             <h5 class="card-title fw-semibold">Pedoman Belanja Penggandaan / Pencentakan</h5>
-                                            <p class="card-text small">Klik tombol di samping untuk membuka atau mengunduh file PDF Pedoman Belanja Penggandaan / Pencentakan.</p>
+                                            <p class="card-text small">Klik tombol di samping untuk membuka file PDF Pedoman Belanja Penggandaan / Pencentakan.</p>
                                         </div>
                                         <div class="text-end">
                                             <!-- Tombol Buka PDF -->
                                             <a href="https://drive.google.com/file/d/1hinlwZce0_NhICJwEJCOyviXhGq9SW-U/view?usp=sharing" target="_blank" class="btn btn-primary w-75 mb-2">
                                             📄 Buka PDF
-                                            </a>
-          
-                                            <!-- Tombol Download PDF -->
-                                            <a href="https://drive.google.com/uc?export=download&id=1hinlwZce0_NhICJwEJCOyviXhGq9SW-U" class="btn btn-success mb-2 w-75">
-                                            ⬇️ Download PDF
                                             </a>
                                         </div>
                                     </div>
@@ -476,17 +461,12 @@
                                     <div class="card-body d-flex justify-content-between align-items-center">
                                         <div>
                                             <h5 class="card-title fw-semibold">Pedoman Belanja Persediaan Barang Konsumsi</h5>
-                                            <p class="card-text small">Klik tombol di samping untuk membuka atau mengunduh file PDF Pedoman Belanja Persediaan Barang Konsumsi.</p>
+                                            <p class="card-text small">Klik tombol di samping untuk membuka file PDF Pedoman Belanja Persediaan Barang Konsumsi.</p>
                                         </div>
                                         <div class="text-end">
                                             <!-- Tombol Buka PDF -->
                                             <a href="https://drive.google.com/file/d/1sxaBDJpzTV4t2AXhJ3CwjU-F46XB1YS_/view?usp=sharing" target="_blank" class="btn btn-primary w-75 mb-2">
                                             📄 Buka PDF
-                                            </a>
-          
-                                            <!-- Tombol Download PDF -->
-                                            <a href="https://drive.google.com/uc?export=download&id=1sxaBDJpzTV4t2AXhJ3CwjU-F46XB1YS" class="btn btn-success mb-2 w-75">
-                                            ⬇️ Download PDF
                                             </a>
                                         </div>
                                     </div>
@@ -924,18 +904,13 @@
                                     <div class="card-body d-flex justify-content-between align-items-center">
                                         <div>
                                             <h5 class="card-title fw-semibold">Pedoman Belanja Honorarium</h5>
-                                            <p class="card-text small">Klik tombol di samping untuk membuka atau mengunduh file PDF Pedoman Belanja Honorarium.</p>
+                                            <p class="card-text small">Klik tombol di samping untuk membuka file PDF Pedoman Belanja Honorarium.</p>
                                         </div>
                                         <div class="text-end">
                                             <!-- Tombol Buka PDF -->
                                             <a href="https://drive.google.com/file/d/1C7PaqwmMgwBRp4BFVkm1ygDbKQM5X2R5/view?usp=sharing" target="_blank" class="btn btn-primary w-75 mb-2">
                                             📄 Buka PDF
-                                            </a>
-          
-                                            <!-- Tombol Download PDF -->
-                                            <a href="https://drive.google.com/uc?export=download&id=1C7PaqwmMgwBRp4BFVkm1ygDbKQM5X2R5" class="btn btn-success mb-2 w-75">
-                                            ⬇️ Download PDF
-                                            </a>
+                                            </a>                                       
                                         </div>
                                     </div>
                                 </div>
@@ -1317,17 +1292,12 @@
                                     <div class="card-body d-flex justify-content-between align-items-center">
                                         <div>
                                             <h5 class="card-title fw-semibold">Pedoman Belanja Perjalanan Dinas</h5>
-                                            <p class="card-text small">Klik tombol di samping untuk membuka atau mengunduh file PDF Pedoman Belanja Perjalanan Dinas.</p>
+                                            <p class="card-text small">Klik tombol di samping untuk membuka file PDF Pedoman Belanja Perjalanan Dinas.</p>
                                         </div>
                                         <div class="text-end">
                                             <!-- Tombol Buka PDF -->
                                             <a href="https://drive.google.com/file/d/1ERZfX85Tu0_JkBiZO5rKDh-ub6TVym7N/view?usp=sharing" target="_blank" class="btn btn-primary w-75 mb-2">
                                             📄 Buka PDF
-                                            </a>
-          
-                                            <!-- Tombol Download PDF -->
-                                            <a href="https://drive.google.com/uc?export=download&id=1ERZfX85Tu0_JkBiZO5rKDh-ub6TVym7N" class="btn btn-success mb-2 w-75">
-                                            ⬇️ Download PDF
                                             </a>
                                         </div>
                                     </div>
@@ -1850,17 +1820,12 @@
                                     <div class="card-body d-flex justify-content-between align-items-center">
                                         <div>
                                             <h5 class="card-title fw-semibold">Pedoman Belanja Paket Meeting</h5>
-                                            <p class="card-text small">Klik tombol di samping untuk membuka atau mengunduh file PDF Pedoman Belanja Paket Meeting.</p>
+                                            <p class="card-text small">Klik tombol di samping untuk membuka file PDF Pedoman Belanja Paket Meeting.</p>
                                         </div>
                                         <div class="text-end">
                                             <!-- Tombol Buka PDF -->
                                             <a href="https://drive.google.com/file/d/1H4r-fz6tvqbV_qlJlP-uS9USQyhUb5d0/view?usp=sharing" target="_blank" class="btn btn-primary w-75 mb-2">
                                             📄 Buka PDF
-                                            </a>
-          
-                                            <!-- Tombol Download PDF -->
-                                            <a href="https://drive.google.com/uc?export=download&id=1H4r-fz6tvqbV_qlJlP-uS9USQyhUb5d0" class="btn btn-success w-75">
-                                            ⬇️ Download PDF
                                             </a>
                                         </div>
                                     </div>
@@ -1973,18 +1938,13 @@
                                     <div class="card-body d-flex justify-content-between align-items-center">
                                         <div>
                                             <h5 class="card-title fw-semibold">Pedoman Belanja Sewa</h5>
-                                            <p class="card-text">Klik tombol di samping untuk membuka atau mengunduh file PDF Pedoman Belanja Sewa.</p>
+                                            <p class="card-text">Klik tombol di samping untuk membuka file PDF Pedoman Belanja Sewa.</p>
                                         </div>
                                         <div class="text-end">
                                             <!-- Tombol Buka PDF -->
                                             <a href="https://drive.google.com/file/d/1aoFOLEL77LCbsvuQmgnCzLjmdeMfU4Ya/view?usp=sharing" target="_blank" class="btn btn-primary w-75 mb-2">
                                             📄 Buka PDF
-                                            </a>
-          
-                                            <!-- Tombol Download PDF -->
-                                            <a href="https://drive.google.com/uc?export=download&id=1aoFOLEL77LCbsvuQmgnCzLjmdeMfU4Ya" class="btn btn-success w-75 mb-2">
-                                            ⬇️ Download PDF
-                                            </a>
+                                            </a>                                  
                                         </div>
                                     </div>
                                 </div>
@@ -2094,18 +2054,13 @@
                                     <div class="card-body d-flex justify-content-between align-items-center">
                                         <div>
                                             <h5 class="card-title fw-semibold">Pedoman Belanja Jasa Pengiriman / Ekspedisi</h5>
-                                            <p class="card-text small">Klik tombol di samping untuk membuka atau mengunduh file PDF Pedoman Belanja Jasa Pengiriman / Ekspedisi.</p>
+                                            <p class="card-text small">Klik tombol di samping untuk membuka file PDF Pedoman Belanja Jasa Pengiriman / Ekspedisi.</p>
                                         </div>
                                         <div class="text-end">
                                             <!-- Tombol Buka PDF -->
                                             <a href="https://drive.google.com/file/d/1OBnVzyh5gjK3lD3ThCDIJOd-i2iMgECl/view?usp=sharing" target="_blank" class="btn btn-primary w-75 mb-2">
                                             📄 Buka PDF
-                                            </a>
-          
-                                            <!-- Tombol Download PDF -->
-                                            <a href="https://drive.google.com/uc?export=download&id=1OBnVzyh5gjK3lD3ThCDIJOd-i2iMgECl" class="btn btn-success mb-2 w-75">
-                                            ⬇️ Download PDF
-                                            </a>
+                                            </a>                                        
                                         </div>
                                     </div>
                                 </div>
@@ -2181,18 +2136,13 @@
                                     <div class="card-body d-flex justify-content-between align-items-center">
                                         <div>
                                             <h5 class="card-title fw-semibold">Pedoman Belanja Jasa Asuransi</h5>
-                                            <p class="card-text small">Klik tombol di samping untuk membuka atau mengunduh file PDF Pedoman Belanja Jasa Asuransi.</p>
+                                            <p class="card-text small">Klik tombol di samping untuk membuka file PDF Pedoman Belanja Jasa Asuransi.</p>
                                         </div>
                                         <div class="text-end">
                                             <!-- Tombol Buka PDF -->
                                             <a href="https://drive.google.com/file/d/1UWCIT9a_2OUgRHV-5KDWcH6QExPcT9yc/view?usp=sharing" target="_blank" class="btn btn-primary w-75 mb-2">
                                             📄 Buka PDF
-                                            </a>
-          
-                                            <!-- Tombol Download PDF -->
-                                            <a href="https://drive.google.com/uc?export=download&id=1UWCIT9a_2OUgRHV-5KDWcH6QExPcT9yc" class="btn btn-success w-75 mb-2">
-                                            ⬇️ Download PDF
-                                            </a>
+                                            </a>                                          
                                         </div>
                                     </div>
                                 </div>
@@ -2298,17 +2248,12 @@
                                     <div class="card-body d-flex justify-content-between align-items-center">
                                         <div>
                                             <h5 class="card-title fw-semibold">Pedoman Belanja Jasa Lainnya</h5>
-                                            <p class="card-text small">Klik tombol di samping untuk membuka atau mengunduh file PDF Pedoman Belanja Jasa Lainnya.</p>
+                                            <p class="card-text small">Klik tombol di samping untuk membuka file PDF Pedoman Belanja Jasa Lainnya.</p>
                                         </div>
                                         <div class="text-end">
                                             <!-- Tombol Buka PDF -->
                                             <a href="https://drive.google.com/file/d/1hpX3a4080nkWSVDpPYsrhvUcJtwqZ0fH/view?usp=sharing" target="_blank" class="btn btn-primary w-75 me-2 mb-2">
                                             📄 Buka PDF
-                                            </a>
-          
-                                            <!-- Tombol Download PDF -->
-                                            <a href="https://drive.google.com/uc?export=download&id=1hpX3a4080nkWSVDpPYsrhvUcJtwqZ0fH" class="btn btn-success mb-2 w-75">
-                                            ⬇️ Download PDF
                                             </a>
                                         </div>
                                     </div>
@@ -2391,17 +2336,12 @@
                                     <div class="card-body d-flex justify-content-between align-items-center">
                                         <div>
                                             <h5 class="card-title fw-semibold">Pedoman Belanja Pulsa / Paket Data Internet</h5>
-                                            <p class="card-text small">Klik tombol di samping untuk membuka atau mengunduh file PDF Pedoman Belanja Pulsa / Paket Data Internet.</p>
+                                            <p class="card-text small">Klik tombol di samping untuk membuka file PDF Pedoman Belanja Pulsa / Paket Data Internet.</p>
                                         </div>
                                         <div class="text-end">
                                             <!-- Tombol Buka PDF -->
                                             <a href="https://drive.google.com/file/d/11omyW91nSyueDAvlNeA2y3ZaoQ5M48xo/view?usp=sharing" target="_blank" class="btn btn-primary w-75 mb-2">
                                             📄 Buka PDF
-                                            </a>
-
-                                            <!-- Tombol Download PDF -->
-                                            <a href="https://drive.google.com/uc?export=download&id=11omyW91nSyueDAvlNeA2y3ZaoQ5M48xo" class="btn btn-success mb-2 w-75">
-                                            ⬇️ Download PDF
                                             </a>
                                         </div>   
                                     </div>
