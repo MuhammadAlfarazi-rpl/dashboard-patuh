@@ -8,7 +8,7 @@
         <div class="vr mx-2"></div>
         <div>
           <h5 class="m-0 fw-bold">PATUH</h5>
-          <small class="text-muted">Pedoman Administr asi Keuangan Pemerintah</small>
+          <small class="text-muted">Pedoman Administrasi Keuangan Pemerintah</small>
         </div>
       </div>
     </a>
