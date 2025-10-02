@@ -676,3 +676,34 @@ h4 {
     font-size: 24px !important;
   }
 }
+
+.tabel-administrasi {
+  table-layout: fixed; 
+  border-collapse: collapse; 
+}
+
+.tabel-administrasi td {
+  padding: 10px 5px; 
+  vertical-align: top; 
+}
+
+.tabel-administrasi td:nth-child(1) {
+  width: 45px;
+}
+
+.tabel-administrasi td:nth-child(2) {
+  word-wrap: break-word; 
+}
+
+.tabel-administrasi td:nth-child(3) {
+  width: 90px;
+  text-align: center;
+  white-space: nowrap; 
+}
+
+.teks-keterangan {
+  font-style: italic;
+  color: gray;
+  display: block;
+  font-size: 14px;
+}
