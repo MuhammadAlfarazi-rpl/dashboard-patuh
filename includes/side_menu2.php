@@ -16,15 +16,15 @@
 
   <!-- Submenu Collapse -->
   <div class="collapse ps-4" id="collapse-pedoman-perjalanan">
-    <a class="nav-link py-1 small" id="tab-5-1" data-bs-toggle="pill" href="#pills-5-1" role="tab">Ketentuan Umum</a>
-    <a class="nav-link py-1 small" id="tab-5-2" data-bs-toggle="pill" href="#pills-5-2" role="tab">Ruang Lingkup Perjalanan Dinas Jabatan</a>
-    <a class="nav-link py-1 small" id="tab-5-3" data-bs-toggle="pill" href="#pills-5-3" role="tab">Prinsip Perjalanan Dinas Jabatan</a>
-    <a class="nav-link py-1 small" id="tab-5-4" data-bs-toggle="pill" href="#pills-5-4" role="tab">Perjalanan Dinas Jabatan</a>
-    <a class="nav-link py-1 small" id="tab-5-5" data-bs-toggle="pill" href="#pills-5-5" role="tab">Kegiatan Rapat, Konsinyering, dan Sejenisnya</a>
-    <a class="nav-link py-1 small" id="tab-5-6" data-bs-toggle="pill" href="#pills-5-6" role="tab">Biaya Perjalanan Dinas Jabatan</a>
-    <a class="nav-link py-1 small" id="tab-5-7" data-bs-toggle="pill" href="#pills-5-7" role="tab">Pembatalan Perjalanan Dinas</a>
-    <a class="nav-link py-1 small" id="tab-5-8" data-bs-toggle="pill" href="#pills-5-8" role="tab">Standar Biaya Transportasi</a>
-    <a class="nav-link py-1 small" id="tab-5-9" data-bs-toggle="pill" href="#pills-5-9" role="tab">Pertanggungjawaban Biaya Perjalanan Dinas Jabatan</a>
+    <a class="nav-link border-bottom py-1 small" id="tab-5-1" data-bs-toggle="pill" href="#pills-5-1" role="tab">Ketentuan Umum</a>
+    <a class="nav-link border-bottom py-1 small" id="tab-5-2" data-bs-toggle="pill" href="#pills-5-2" role="tab">Ruang Lingkup Perjalanan Dinas Jabatan</a>
+    <a class="nav-link border-bottom py-1 small" id="tab-5-3" data-bs-toggle="pill" href="#pills-5-3" role="tab">Prinsip Perjalanan Dinas Jabatan</a>
+    <a class="nav-link border-bottom py-1 small" id="tab-5-4" data-bs-toggle="pill" href="#pills-5-4" role="tab">Perjalanan Dinas Jabatan</a>
+    <a class="nav-link border-bottom py-1 small" id="tab-5-5" data-bs-toggle="pill" href="#pills-5-5" role="tab">Kegiatan Rapat, Konsinyering, dan Sejenisnya</a>
+    <a class="nav-link border-bottom py-1 small" id="tab-5-6" data-bs-toggle="pill" href="#pills-5-6" role="tab">Biaya Perjalanan Dinas Jabatan</a>
+    <a class="nav-link border-bottom py-1 small" id="tab-5-7" data-bs-toggle="pill" href="#pills-5-7" role="tab">Pembatalan Perjalanan Dinas</a>
+    <a class="nav-link border-bottom py-1 small" id="tab-5-8" data-bs-toggle="pill" href="#pills-5-8" role="tab">Standar Biaya Transportasi</a>
+    <a class="nav-link border-bottom py-1 small" id="tab-5-9" data-bs-toggle="pill" href="#pills-5-9" role="tab">Pertanggungjawaban Biaya Perjalanan Dinas Jabatan</a>
   </div>
 
   <!-- Spacer bawah sebelum menu selanjutnya -->
