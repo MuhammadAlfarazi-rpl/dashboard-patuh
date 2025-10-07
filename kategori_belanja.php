@@ -6,7 +6,7 @@
   
     <div id="sidebar" class="col-lg-3">
       <div class="position-sticky" style="top: 100px;">
-        <div class="card p-2 h-100">
+        <div class="card p-2" style="max-height: calc(100vh - 150px); overflow-y: auto;">
           <?php include 'includes/side_menu2.php'; ?>
         </div>
         <button id="sidebarToggle" class="btn btn-primary toggle-btn">
@@ -1402,7 +1402,7 @@
                 </div>
 
                 <!-- Pedoman Perjalanan Dinas -->
-                 <div class="tab-pane fade show active" id="pills-5-1" role="tabpanel">
+                 <div class="tab-pane fade" id="pills-5-1" role="tabpanel">
                     <h4>Ketentuan Umum</h4>
                     <p>Dalam Peraturan Kepala Badan Pusat Statistik ini, yang dimaksud dengan:
                         <ol class="timeline-list">
@@ -1762,9 +1762,9 @@
                                 <li> Kelengkapan berkas pengadaan dan tata cara pembayarannya mengacu pada Peraturan Presiden mengenai Pengadaan Barang/Jasa Pemerintah dan Peraturan Menteri Keuangan mengenai Tata Cara Pembayaran Dalam Rangka Pelaksanaan Anggaran Pendapatan dan Belanja Negara.</li>
                             </ol>
                         </li>
-                    </div>
+                    </ol>
+                </div>
 
-                    
 
                 <!-- Belanja Paket Meeting-->
                 <div class="tab-pane fade" id="pills-6" role="tabpanel">
