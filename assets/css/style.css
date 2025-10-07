@@ -707,3 +707,23 @@ h4 {
   display: block;
   font-size: 14px;
 }
+
+/* Untuk submenu di dalam collapse agar background-nya putih */
+#collapse-pedoman-perjalanan .nav-link {
+  background-color: white !important;
+  color: #000000; /* warna navy, sama seperti link utama */
+  border-radius: 0;
+}
+
+/* Jika link submenu aktif (terpilih), tetap putih */
+#collapse-pedoman-perjalanan .nav-link.active {
+  background-color: white !important;
+  color: #000080 !important;
+  font-weight: bold;
+}
+
+/* Hover effect juga putih */
+#collapse-pedoman-perjalanan .nav-link:hover {
+  background-color: #f2f2f2; /* sedikit abu untuk hover effect, opsional */
+  color: #000080;
+}
