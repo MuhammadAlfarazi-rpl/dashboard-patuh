@@ -116,6 +116,12 @@ body {
   margin-top: 7rem !important;
 }
 
+.nav-pills {
+  display: flex;
+  flex-direction: column !important; /* Paksa ke bawah */
+}
+
+
 .nav-pills .nav-link {
   white-space: normal;
   word-break: break-word;
@@ -124,6 +130,8 @@ body {
   line-height: 1.3;
   padding-left: 0.75rem;
   padding-right: 0.75rem;
+  width: 100%; /* Full width setiap item */
+  display: block; /* Block level */
 }
 
 .nav-pills .nav-link.active {
@@ -143,9 +151,18 @@ body {
 }
 
 .sidebar-scroll {
-  max-height: 100vh;
+  max-height: none !important; /* Hapus batasan */
+  height: auto !important;
   overflow-y: auto;
+  overflow-x: hidden;
 }
+
+#v-pills-tab {
+  display: flex;
+  flex-direction: column !important; /* Paksa ke bawah */
+  width: 100%; /* Full width */
+}
+
 
 .logo-wrapper {
   display: flex;
@@ -339,6 +356,7 @@ h4 {
 
 #sidebar {
   z-index: 1000;
+  height: auto !important;
 }
 
 /* Hide Scroll di Card */
@@ -387,8 +405,9 @@ h4 {
 }
 
 #sidebar .card {
-  height: 100%;
-  min-height: 80vh;
+  height: auto !important; /* Ganti dari height: 100% */
+  min-height: auto !important; /* Ganti dari min-height: 80vh */
+  max-height: none !important; /* Hapus batasan */
 }
 
 .highlight {
