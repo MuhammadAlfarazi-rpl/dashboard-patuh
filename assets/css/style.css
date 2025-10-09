@@ -509,13 +509,36 @@ h4 {
   content: counter(huruf, lower-alpha) ")";
   position: absolute;
   left: 0;
-  /* Tidak ditebalkan */
 }
 
-
-
-
 @media screen and (max-width: 576px) {
+  #sidebar {
+    position: fixed;
+    left: -100%;
+    top: 0;
+    height: 100vh;
+    width: 250px;
+    background: #fff;
+    transition: all 0.3s ease;
+    z-index: 1000;
+  }
+
+  #sidebar.show {
+    left: 0;
+  }
+
+  #sidebarToggle {
+    display: block !important;
+    position: fixed;
+    top: 15px;
+    left: 15px;
+    z-index: 1100;
+  }
+
+  #mainContent.shifted {
+    margin-left: 250px;
+  }
+
   .navbar {
     padding: 4px 8px;
     display: flex;
@@ -733,23 +756,20 @@ h4 {
   font-size: 14px;
 }
 
-/* Untuk submenu di dalam collapse agar background-nya putih */
 #collapse-pedoman-perjalanan .nav-link {
   background-color: white !important;
-  color: #000000; /* warna navy, sama seperti link utama */
+  color: #000000;
   border-radius: 0;
 }
 
-/* Jika link submenu aktif (terpilih), tetap putih */
 #collapse-pedoman-perjalanan .nav-link.active {
   background-color: white !important;
   color: #000080 !important;
   font-weight: bold;
 }
 
-/* Hover effect juga putih */
 #collapse-pedoman-perjalanan .nav-link:hover {
-  background-color: #f2f2f2; /* sedikit abu untuk hover effect, opsional */
+  background-color: #f2f2f2;
   color: #000080;
 }
 
