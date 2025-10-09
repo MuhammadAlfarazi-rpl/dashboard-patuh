@@ -1,4 +1,5 @@
-<div class="nav flex-column nav-pills sidebar-scroll" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+<div class="sidebar-scroll">
+<div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
   <a class="nav-link active border-bottom py-2" id="tab-0" data-bs-toggle="pill" href="#pills-0" role="tab">Belanja Konsumsi Rapat</a>
   <a class="nav-link border-bottom py-2" id="tab-1" data-bs-toggle="pill" href="#pills-1" role="tab">Belanja Perlengkapan Pakai Habis</a>
   <a class="nav-link border-bottom py-2" id="tab-2" data-bs-toggle="pill" href="#pills-2" role="tab">Belanja Penggandaan / Pencetakan</a>
@@ -38,3 +39,4 @@
   <a class="nav-link border-bottom py-2" id="tab-10" data-bs-toggle="pill" href="#pills-10" role="tab">Belanja Jasa Lainnya</a>
   <a class="nav-link py-2" id="tab-11" data-bs-toggle="pill" href="#pills-11" role="tab">Belanja Pulsa / Paket Data Internet</a>
 </div>
+</div>  
