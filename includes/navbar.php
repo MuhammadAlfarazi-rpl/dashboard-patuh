@@ -13,5 +13,9 @@
       </div>
     </a>
 
+    <button class="btn btn-light border d-block d-lg-none ms-auto me-3 p-1 px-2" id="hamburger-btn" style="height: 36px;">
+      <i class="bi bi-list" style="font-size: 1.3rem; line-height: 1;">☰</i>
+    </button>
+
   </div>
 </nav>
