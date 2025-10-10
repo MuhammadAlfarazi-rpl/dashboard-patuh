@@ -22,7 +22,7 @@
 
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/style.cssv=<?php echo time(); ?>">
 
 </head>
 <body <?php echo basename($_SERVER['PHP_SELF']) == 'index.php' ? 'class="background"' : ''; ?>>
