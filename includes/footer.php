@@ -214,6 +214,15 @@ document.addEventListener("DOMContentLoaded", () => {
     }
     isCollapsed = !isCollapsed;
   });
+
+  const hamburgerBtn = document.getElementById('hamburger-btn');
+  const sidebarr = document.getElementById('sidebarr');
+
+  hamburgerBtn.addEventListener('click', () => {
+    sidebar.classList.toggle('show');
+    document.body.classList.toggle('sidebar-open');
+  });
+
 </script>
 
 

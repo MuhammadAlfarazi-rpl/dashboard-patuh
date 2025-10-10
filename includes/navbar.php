@@ -8,16 +8,14 @@
         <div class="vr mx-2"></div>
         <div>
           <h5 class="m-0 fw-bold">PATUH</h5>
-          <small class="text-muted">Pedoman Administrasi Keuangan Pemerintah</small>
+          <small class="text-muted">Pedoman Administrasi Keuangan Pemerintah</small>
         </div>
       </div>
     </a>
 
-    <!-- Bagian KANAN -->
-    <div class="me-3 d-flex align-items-center gap-3">
-      <a class="nav-item" href="pedoman_dinas.php">Pedoman Dinas</a>
-      <a class="nav-item" href="kategori_belanja.php">Pedoman Administrasi</a>
-    </div>
+    <button class="btn btn-light border d-block d-lg-none ms-auto me-3 p-1 px-2" id="hamburger-btn" style="height: 36px;">
+      <i class="bi bi-list" style="font-size: 1.3rem; line-height: 1;">☰</i>
+    </button>
 
   </div>
 </nav>
