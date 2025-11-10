@@ -2914,7 +2914,7 @@
                                     <td>1.</td>
                                     <td>Kerangka Acuan Kerja (KAK)</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/file/d/1DsgihPXZMT5C1j5qyfruLFqrfpH429M2/view?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2922,7 +2922,7 @@
                                     <td>2.</td>
                                     <td>Form Permintaan (dari Penanggung Jawab Kegiatan kepada PPK)</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/file/d/1U4iV1vBrx5BIcU7LBMeYYMMuqGUHUQbB/view?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2936,7 +2936,7 @@
                                         </ol>
                                     </td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/file/d/1ZcJQtY4zqMOm79JjEVtKLMNC1ECzEAhX/view?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2944,7 +2944,7 @@
                                     <td>4.</td>
                                     <td>Daftar nama dan nomor hp penerima paket data/pulsa</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/file/d/1sW2KN5dudt4oEPacC4-JBMnwfucJfQsv/view?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2952,7 +2952,7 @@
                                     <td>5.</td>
                                     <td>Bukti tanda terima paket data/pulsa</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/file/d/1kK5K1QGp7BloUq5GqCe7N5rwzGENIxAC/view?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
@@ -2960,7 +2960,7 @@
                                     <td>6.</td>
                                     <td>SSP PPh 22</td>
                                     <td style="padding-left: 70px;">
-                                        <a href="#link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
+                                        <a href="https://drive.google.com/file/d/10zUWdDtvfLMFCy-tFuF2lO-RI69Q-2-I/view?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
                                     </td>
                                 </tr>
