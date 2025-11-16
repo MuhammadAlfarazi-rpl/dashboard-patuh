@@ -1155,22 +1155,6 @@
                                     </tr>
                                     <tr>
                                         <td>k.</td>
-                                        <td>Rincian Biaya Perjalanan Dinas Biasa (DOP)</td>
-                                        <td style="padding-left: 70px;">
-                                            <a href="https://drive.google.com/drive/folders/1zUC7O5lQjSFIKnv5p_2tMlPoFXNu8akB?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
-                                            <i class="bx bx-folder-open"></i> Lihat </a>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>l.</td>
-                                        <td>Pengeluaran <i>Riil</i> (jika ada biaya yang tidak ada tanda bukti)</td>
-                                        <td style="padding-left: 70px;">
-                                            <a href="https://drive.google.com/drive/folders/17RBMpqZOfF95OQylwuq8CV30OVdyD7f9?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
-                                            <i class="bx bx-folder-open"></i> Lihat </a>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>m.</td>
                                         <td>Kuitansi</td>
                                         <td style="padding-left: 70px;">
                                             <a href="https://drive.google.com/drive/folders/1q27hvPgmOy41irhdMfgrODhnU_29PnLL?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
@@ -1276,7 +1260,7 @@
                             <p><b>Catatan Penting</b></p>
                             <ol type="a" class="justify-list">
                                 <li>Dibayarkan secara <i>lumpsum</i> sesuai standar biaya yang berlaku atau berdasarkan SK KPA masing-masing daerah dan diberikan sesuai jumlah hari <i>riil</i> pelaksanaan Perjalanan Dinas;</li>
-                                <li>Dalam hal biaya transport melebihi biaya transport dalam kota. sebagaimana diatur dalam SBM, maka Pelaksana SPD dapat diberikan biaya transport sesuai bukti <i>riil</i> moda transportasi yang digunakan;</li>
+                                <li>Dalam hal biaya transport melebihi biaya transport dalam kota sebagaimana diatur dalam SBM, maka Pelaksana SPD dapat diberikan biaya transport sesuai bukti <i>riil</i> moda transportasi yang digunakan;</li>
                                 <li>Apabila diperlukan dapat diberikan biaya menginap di hotel atau tempat menginap lainnya, sesuai bukti <i>riil</i> dengan batas tertinggi sebagaimana diatur dalam SBM;</li>
                                 <li>Biaya menginap ini tidak dapat diberikan untuk perjalanan dinas yang dilaksanakan pergi dan pulang pada hari yang sama. Kecuali untuk perjalanan dinas lebih dari 8 jam pada kondisi tertentu yang <i>urgent</i> dan tidak dapat dihindari pelaksana SPD harus menginap dapat dibayarkan jika melampirkan tanda bukti <i>at cost</i>;</li>
                                 <li>Penugasan yang dilaksanakan lebih dari satu tujuan pelaksanaan perjalanan dinas dan merupakan satu kesatuan penugasan hanya diberikan sebesar 1 (satu) kali biaya transport dalam kota;</li>
@@ -1789,7 +1773,7 @@
                         <ol type="1">
                             <p><b>Pengertian</b></p>
                             <ol type="a" class="justify-list">
-                                <li>Digunakan untuk mencatat perjalanan dinas dalam rangka kegiatan rapat, seminar, dan sejenisnya yang dilaksanakan di dalam kota satker penyelenggara dan dibiayai seluruhnya olch satker penyelenggara maupun yang dilaksanakan di dalam kota satker peserta dan biaya perjalanan dinasnya ditanggung oleh Satker peserta, yang meliputi:</li>
+                                <li>Digunakan untuk mencatat perjalanan dinas dalam rangka kegiatan rapat, seminar, dan sejenisnya yang dilaksanakan di dalam kota satker penyelenggara dan dibiayai seluruhnya oleh satker penyelenggara maupun yang dilaksanakan di dalam kota satker peserta dan biaya perjalanan dinasnya ditanggung oleh Satker peserta, yang meliputi:</li>
                                 <ol class="angka" class="justify-list">
                                     <li>Biaya transportasi peserta, panitia/moderator, dan/atau narasumber baik yang berasal dari dalam kota maupun dari luar kota;</li>
                                     <li>Biaya paket <i>meeting (halfday/fullday/fullboard)</i>;</li>
@@ -2628,7 +2612,7 @@
                                 </tr>
                                 <tr>
                                     <td>9.</td>
-                                    <td>SSP PPN</td>
+                                    <td>SSP PPN Pengiriman sebesar 1,1%</td>
                                     <td style="padding-left: 70px;">
                                         <a href="https://drive.google.com/drive/folders/1BuegYaURcefCm-iUXLUeRNCkc5LDUwDn?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
                                         <i class="bx bx-folder-open"></i> Lihat </a>
@@ -2637,7 +2621,7 @@
                                 <tr>
                                     <td>10.</td>
                                     <td>SSP PPh pasal 23
-                                        <span class="teks-keterangan">Sebesar 2% jika memiliki NPWP atau 4% jika tidak memiliki NPWP untuk sewa selain alat/harta selain bangunan.</span>
+                                        <span class="teks-keterangan">Sebesar 2% jika memiliki NPWP atau 4% jika tidak memiliki NPWP.</span>
                                     </td>
                                     <td style="padding-left: 70px;">
                                         <a href="https://drive.google.com/drive/folders/1GXdoXKILQtGG3veTrYqfZxf9uAyOilhI?usp=drive_link" target="_blank" style="font-family: DM Sans, sans-serif; font-size: 15px; color: #113F67">
