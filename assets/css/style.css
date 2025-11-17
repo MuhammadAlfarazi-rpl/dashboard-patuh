@@ -860,3 +860,8 @@ h4 {
 .sidebar-scroll::-webkit-scrollbar-thumb:hover {
   background: #0056b3;
 }
+
+.third-text {
+  font-size: 15px;
+  color: white;
+}

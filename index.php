@@ -7,6 +7,7 @@
                 <div class="main-text fw-bold fst-italic">PATUH</div>
                 <div class="secondary-text fst-italic">Pedoman Administrasi</div>
                 <div class="secondary-text fst-italic">Keuangan Pemerintah</div>
+                <div class="third-text fst-italic mt-2">BPS Provinsi Kepulauan Riau</div>
             </div>
         </div>
             <a href="kategori_belanja.php" class="text-decoration-none text-dark">
